@@ -142,6 +142,26 @@ function markiert(name){
   return muster ? muster.test(String(name)) : false;
 }
 
+// Aeltere Datenstaende enthalten im Namensfeld die ganze Tabellenzeile, etwa
+// "1. Hammer SportClub Hammer SportClub 6 5 0 1 32 :8 24 15". Dieselbe
+// Reinigung wie im Skript, damit die Anzeige unabhaengig vom Datenalter stimmt.
+function reinerName(rohtext){
+  let teile = String(rohtext ?? "").trim().split(/\s+/).filter(Boolean);
+  const zahl = t => /^(?::?[-+]?\d+|:)$/.test(t);
+  if(teile.length && /^\d{1,2}\.$/.test(teile[0])) teile = teile.slice(1);
+  if(!teile.length) return "";
+
+  for(let laenge = Math.floor(teile.length / 2); laenge >= 1; laenge--){
+    const vorn = teile.slice(0, laenge).join(" ");
+    if(vorn === teile.slice(laenge, 2 * laenge).join(" ")) return vorn;
+  }
+
+  let schwanz = 0;
+  while(schwanz < teile.length && zahl(teile[teile.length - 1 - schwanz])) schwanz++;
+  if(schwanz >= 6) teile = teile.slice(0, teile.length - schwanz);
+  return teile.join(" ");
+}
+
 const $ = id => document.getElementById(id);
 let offen = {};
 let inhalt = null;
@@ -196,10 +216,11 @@ function tabellenBlock(liga, reihen){
 
   const koerper = reihen.map((r, i) => {
     const platz = i + 1;
+    const name = reinerName(r[0]);
     const kl = [platz <= auf ? "aufstieg" : platz > ab ? "abstieg" : "",
-                markiert(r[0]) ? "favorit" : ""].join(" ").trim();
+                markiert(name) ? "favorit" : ""].join(" ").trim();
     const td = typeof r[2] === "number" && r[2] > 0 ? "+" + r[2] : r[2];
-    return '<tr class="' + kl + '"><td class="platz">' + platz + '</td><td class="l">' + sicher(r[0]) +
+    return '<tr class="' + kl + '"><td class="platz">' + platz + '</td><td class="l">' + sicher(name) +
            '</td><td>' + sicher(r[1]) + '</td><td>' + sicher(td) + '</td><td class="punkte">' + sicher(r[3]) + '</td></tr>';
   }).join("");
 
