@@ -24,16 +24,29 @@ ohne API-Schlüssel.
 18, 19 und 20 Uhr deutscher Zeit in Sommer- und Winterzeit ab. GitHub startet
 geplante Läufe unter Last mitunter einige Minuten später.
 
-## Ligen ändern
+## Ligen und Markierungen ändern
 
-`ligen.json` bearbeiten – Name und Quell-URL pro Liga. Die URLs stammen von
-`wa-mediengruppe.de/tabellen-wa/fussball/`; dort gibt es alles von der
-Bundesliga bis zur Kreisliga D sowie Frauen- und Jugendligen.
+Alles steht in `ligen.json`:
 
-## Hervorhebung
+```json
+{
+  "markiert": ["Rhynern", "Hammer SpVg"],
+  "ligen": [
+    { "name": "Regionalliga West", "url": "https://wa-mediengruppe.de/..." }
+  ]
+}
+```
 
-In `index.html` steuert die Zeile `const EIGENE = /rhynern/i;`, welche
-Mannschaften farblich markiert werden.
+`ligen` bestimmt, was geholt und in welcher Reihenfolge angezeigt wird.
+`markiert` enthält Textbausteine – jede Mannschaft, in deren Namen einer davon
+vorkommt, wird in Spielen und Tabelle hervorgehoben. "Rhynern" trifft also auch
+"SV Westfalia Rhynern II".
+
+Die Quell-URLs findet man auf `wa-mediengruppe.de/tabellen-wa/fussball/`: dort
+die Liga aufrufen und die Adresse aus der Adresszeile kopieren, ohne den
+Saison-Zusatz wie `/v:2026_27` – dann bleibt sie auch nächste Saison richtig.
+Verfügbar ist alles von der Bundesliga bis zur Kreisliga D, dazu Frauen- und
+Jugendligen.
 
 ## Archiv
 

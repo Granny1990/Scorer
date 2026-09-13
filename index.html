@@ -125,8 +125,22 @@
 </div>
 
 <script>
-// Mannschaften, die hervorgehoben werden.
-const EIGENE = /rhynern/i;
+// Welche Mannschaften hervorgehoben werden, steht in ligen.json unter "markiert"
+// und kommt ueber data/daten.json hier an.
+let muster = null;
+
+function baueMuster(liste){
+  if(!Array.isArray(liste) || !liste.length) return null;
+  const teile = liste
+    .map(s => String(s).trim())
+    .filter(Boolean)
+    .map(s => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"));
+  return teile.length ? new RegExp(teile.join("|"), "i") : null;
+}
+
+function markiert(name){
+  return muster ? muster.test(String(name)) : false;
+}
 
 const $ = id => document.getElementById(id);
 let offen = {};
@@ -151,6 +165,7 @@ async function laden(){
     const antwort = await fetch("data/daten.json?t=" + Date.now(), { cache: "no-store" });
     if(!antwort.ok) throw new Error("Status " + antwort.status);
     inhalt = await antwort.json();
+    muster = baueMuster(inhalt.markiert);
   }catch(e){
     $("inhalt").innerHTML = '<p class="fehler">Die Ergebnisdatei konnte nicht geladen werden (' +
       sicher(e.message) + '). Sie entsteht beim ersten Lauf des Workflows.</p>';
@@ -169,7 +184,7 @@ function spielZeile(s){
   const erg = gespielt
     ? '<div class="ergebnis">' + th + ":" + tg + '</div>'
     : '<div class="ergebnis offen">' + sicher(status === "offen" ? "kein Ergebnis" : status) + '</div>';
-  const eigen = EIGENE.test(heim) || EIGENE.test(gast) ? " eigen" : "";
+  const eigen = markiert(heim) || markiert(gast) ? " eigen" : "";
   return '<div class="spiel' + eigen + '">' +
     '<div class="heim team ' + kh + '">' + sicher(heim) + '</div>' + erg +
     '<div class="gast team ' + kg + '">' + sicher(gast) + '</div></div>';
@@ -183,7 +198,7 @@ function tabellenBlock(liga, reihen){
   const koerper = reihen.map((r, i) => {
     const platz = i + 1;
     const kl = [platz <= auf ? "aufstieg" : platz > ab ? "abstieg" : "",
-                EIGENE.test(String(r[0])) ? "eigen" : ""].join(" ").trim();
+                markiert(r[0]) ? "eigen" : ""].join(" ").trim();
     const td = typeof r[2] === "number" && r[2] > 0 ? "+" + r[2] : r[2];
     return '<tr class="' + kl + '"><td class="platz">' + platz + '</td><td class="l">' + sicher(r[0]) +
            '</td><td>' + sicher(r[1]) + '</td><td>' + sicher(td) + '</td><td class="punkte">' + sicher(r[3]) + '</td></tr>';
