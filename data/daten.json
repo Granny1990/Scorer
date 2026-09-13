@@ -1,5 +1,5 @@
 {
- "stand": "2026-09-13T20:35+02:00",
+ "stand": "2026-09-13T22:28+02:00",
  "quelle": "wa-mediengruppe.de (Tabellendienst der WA Mediengruppe)",
  "markiert": [
   "Rhynern",
@@ -441,8 +441,8 @@
     [
      "TSG 1899 Hoffenheim II",
      "SC Fortuna Köln",
-     0,
-     1,
+     2,
+     2,
      "gespielt"
     ]
    ],
@@ -496,52 +496,52 @@
      8
     ],
     [
-     "9. Waldhof Mannheim Waldhof Mannheim 5 2 1 2 8 :8 0 7",
+     "9. TSG 1899 Hoffenheim II TSG 1899 Hoffenheim II 5 2 1 2 11 :7 4 7",
+     5,
+     4,
+     7
+    ],
+    [
+     "10. Waldhof Mannheim Waldhof Mannheim 5 2 1 2 8 :8 0 7",
      5,
      0,
      7
     ],
     [
-     "10. Fortuna Düsseldorf Fortuna Düsseldorf 5 2 1 2 4 :5 -1 7",
+     "11. Fortuna Düsseldorf Fortuna Düsseldorf 5 2 1 2 4 :5 -1 7",
      5,
      -1,
      7
     ],
     [
-     "11. SG Großaspach SG Großaspach 5 2 1 2 4 :6 -2 7",
+     "12. SG Großaspach SG Großaspach 5 2 1 2 4 :6 -2 7",
      5,
      -2,
      7
     ],
     [
-     "12. TSG 1899 Hoffenheim II TSG 1899 Hoffenheim II 4 2 0 2 9 :5 4 6",
-     4,
-     4,
+     "13. SC Fortuna Köln SC Fortuna Köln 5 1 3 1 5 :5 0 6",
+     5,
+     0,
      6
     ],
     [
-     "13. VfB Stuttgart II VfB Stuttgart II 5 2 0 3 7 :9 -2 6",
+     "14. VfB Stuttgart II VfB Stuttgart II 5 2 0 3 7 :9 -2 6",
      5,
      -2,
      6
     ],
     [
-     "14. SC Verl von 1924 SC Verl von 1924 5 2 0 3 7 :11 -4 6",
+     "15. SC Verl von 1924 SC Verl von 1924 5 2 0 3 7 :11 -4 6",
      5,
      -4,
      6
     ],
     [
-     "14. SV Meppen SV Meppen 5 2 0 3 7 :11 -4 6",
+     "15. SV Meppen SV Meppen 5 2 0 3 7 :11 -4 6",
      5,
      -4,
      6
-    ],
-    [
-     "16. SC Fortuna Köln SC Fortuna Köln 4 1 2 1 3 :3 0 5",
-     4,
-     0,
-     5
     ],
     [
      "17. TSV Havelse TSV Havelse 5 1 1 3 8 :10 -2 4",
