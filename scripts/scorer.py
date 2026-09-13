@@ -2,7 +2,7 @@
 """Holt Spiele und Tabellen der in ligen.json konfigurierten Ligen.
 
 Schreibt:
-  data/daten.json            aktueller Stand, den die App liest
+  data/daten.json            aktueller Stand samt Markierungen, den die App liest
   data/archiv/JJJJ-MM-TT.json  Tageskopie als Archiv
   debug/<liga>.html          Rohseite, nur wenn das Parsen misslingt
 
@@ -190,7 +190,13 @@ def hole_liga(liga: dict) -> dict:
 
 
 def main() -> int:
-    ligen = json.loads((WURZEL / "ligen.json").read_text(encoding="utf-8"))
+    konfig = json.loads((WURZEL / "ligen.json").read_text(encoding="utf-8"))
+    if isinstance(konfig, list):          # altes Format: nur eine Liste von Ligen
+        ligen, markiert = konfig, []
+    else:
+        ligen = konfig.get("ligen", [])
+        markiert = [m for m in konfig.get("markiert", []) if str(m).strip()]
+
     jetzt = datetime.now(timezone(timedelta(hours=2)))  # deutsche Zeit, grob
     print(f"Lauf um {jetzt:%d.%m.%Y %H:%M}")
 
@@ -199,6 +205,7 @@ def main() -> int:
     inhalt = {
         "stand": jetzt.isoformat(timespec="minutes"),
         "quelle": "wa-mediengruppe.de (Tabellendienst der WA Mediengruppe)",
+        "markiert": markiert,
         "ligen": eintraege,
     }
 
