@@ -4,18 +4,6 @@
   ],
   "ligen": [
     {
-      "name": "Regionalliga West",
-      "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/regionalliga_west.html"
-    },
-    {
-      "name": "Kreisliga A1 Unna-Hamm",
-      "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-kreisligen-kreisliga_a/kreisliga_a1_unna_hamm.html"
-    },
-    {
-      "name": "Oberliga Westfalen",
-      "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/oberliga_westfalen.html"
-    },
-    {
       "name": "Bundesliga",
       "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/bundesliga.html"
     },
@@ -27,5 +15,30 @@
       "name": "3. Liga",
       "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/3__liga.html"
     }
+    {
+      "name": "Regionalliga West",
+      "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/regionalliga_west.html"
+    },
+    {
+      "name": "Oberliga Westfalen",
+      "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/oberliga_westfalen.html"
+    },
+    {
+      "name": "Westfalenliga Staffel 1",
+      "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/westfalenliga_1.html"
+    },  
+    {
+      "name": "Landesliga Staffel 4",
+      "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/landesliga_4_westfalen.html"
+    },    
+    {
+      "name": "Bezirksliga Staffel 7",
+      "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/bezirksliga_st__7_westfalen.html"
+    },
+    {
+      "name": "Kreisliga A1 Unna-Hamm",
+      "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-kreisligen-kreisliga_a/kreisliga_a1_unna_hamm.html"
+    },
+
   ]
 }
