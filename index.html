@@ -1,0 +1,233 @@
+<!doctype html>
+<html lang="de">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Scorer – Ergebnisdienst</title>
+<meta name="theme-color" content="#0A0F18">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<style>
+  :root{
+    --nacht-tief: #0A0F18;
+    --flut: #F2B23E;
+    --flut-matt: #C98F2A;
+    --papier: #E8EAED;
+    --nebel: #8994A5;
+    --linie: rgba(232,234,237,.14);
+    --rasen: #4F9E6A;
+    --font: "Barlow Semi Condensed", "Roboto Condensed", system-ui, -apple-system, sans-serif;
+  }
+
+  *{box-sizing:border-box}
+  html{background:var(--nacht-tief)}
+
+  body{
+    margin:0;
+    font-family:var(--font);
+    background:
+      radial-gradient(120% 60% at 50% -10%, rgba(242,178,62,.10), transparent 70%),
+      var(--nacht-tief);
+    color:var(--papier);
+    font-size:17px;line-height:1.45;
+    -webkit-text-size-adjust:100%;
+  }
+
+  .huelle{max-width:640px;margin:0 auto;padding:22px 18px 64px}
+
+  .kopf{display:flex;align-items:flex-start;justify-content:space-between;gap:14px}
+  .marke{font-size:15px;font-weight:600;color:var(--nebel)}
+  .marke b{color:var(--papier);font-weight:700;font-size:19px}
+
+  .stand{
+    margin:14px 0 0;padding:9px 12px;
+    border-left:3px solid var(--flut);
+    background:rgba(242,178,62,.07);font-size:15px;
+  }
+  .stand span{color:var(--nebel)}
+
+  button{
+    font-family:var(--font);font-size:16px;font-weight:600;
+    color:var(--papier);background:transparent;
+    border:1px solid var(--linie);border-radius:2px;
+    padding:7px 12px;cursor:pointer;flex-shrink:0;
+  }
+  button:hover{border-color:var(--nebel)}
+  button:focus-visible{outline:2px solid var(--flut);outline-offset:2px}
+  button[disabled]{opacity:.45;cursor:default}
+  .knopf-haupt{background:var(--flut);border-color:var(--flut);color:#17202E}
+  .knopf-haupt:hover{background:var(--flut-matt);border-color:var(--flut-matt)}
+
+  .liga{margin-top:38px}
+  .liga-kopf{
+    display:flex;align-items:baseline;justify-content:space-between;gap:12px;
+    padding-bottom:8px;border-bottom:2px solid var(--flut);
+  }
+  .liga-name{margin:0;font-size:26px;font-weight:700;letter-spacing:-.01em}
+  .liga-tag{font-size:16px;color:var(--nebel);text-align:right;flex-shrink:0}
+
+  .spiel{
+    display:grid;grid-template-columns:1fr auto 1fr;
+    align-items:center;gap:10px;
+    padding:11px 2px;border-bottom:1px solid var(--linie);
+  }
+  .heim{text-align:right}
+  .gast{text-align:left}
+  .team{font-size:18px;font-weight:500}
+  .ergebnis{
+    font-size:25px;font-weight:700;color:var(--flut);
+    font-variant-numeric:tabular-nums;
+    white-space:nowrap;min-width:64px;text-align:center;
+  }
+  .ergebnis.offen{font-size:14px;font-weight:500;color:var(--nebel);white-space:normal}
+  .sieger{font-weight:700}
+  .verlierer{color:var(--nebel)}
+  .spiel.eigen{background:rgba(242,178,62,.06)}
+
+  .tabelle-schalter{
+    margin-top:12px;font-size:16px;color:var(--nebel);
+    border:none;padding:6px 0;text-decoration:underline;text-underline-offset:3px;
+  }
+  .tabelle-schalter:hover{color:var(--papier)}
+
+  table{width:100%;border-collapse:collapse;margin-top:8px;font-variant-numeric:tabular-nums}
+  th{font-size:14px;font-weight:600;color:var(--nebel);text-align:right;padding:4px 0 6px;border-bottom:1px solid var(--linie)}
+  th.l{text-align:left}
+  td{padding:6px 0;border-bottom:1px solid var(--linie);text-align:right;font-size:17px}
+  td.l{text-align:left;font-weight:500}
+  td.platz{color:var(--nebel);width:26px;text-align:left;font-size:15px}
+  td.punkte{font-weight:700;width:38px}
+  tr.aufstieg td.platz{color:var(--rasen);font-weight:700}
+  tr.abstieg td.platz{color:#D2695C;font-weight:700}
+  tr.eigen td.l{color:var(--flut);font-weight:700}
+
+  .quelle{margin-top:10px;font-size:14px;color:var(--nebel)}
+  .quelle a{color:var(--nebel)}
+  .fehler{margin-top:10px;font-size:16px;color:#E7A196}
+  .lade{margin-top:30px;font-size:17px;color:var(--flut)}
+  .fuss{margin-top:34px;font-size:14px;color:var(--nebel);line-height:1.5}
+</style>
+
+<div class="huelle">
+  <header class="kopf">
+    <div class="marke"><b>Scorer</b><br>Ergebnisdienst</div>
+    <button id="btn-neu" class="knopf-haupt">Neu laden</button>
+  </header>
+
+  <p class="stand" id="stand" hidden></p>
+  <main id="inhalt"><p class="lade">Lade Ergebnisse …</p></main>
+
+  <p class="fuss">
+    Die Ergebnisse werden automatisch abends um 18, 19 und 20 Uhr im Hintergrund geholt
+    und hier abgelegt. Der Stand oben zeigt den letzten Lauf.
+  </p>
+</div>
+
+<script>
+// Mannschaften, die hervorgehoben werden.
+const EIGENE = /rhynern/i;
+
+const $ = id => document.getElementById(id);
+let offen = {};
+let inhalt = null;
+
+function sicher(s){
+  return String(s ?? "").replace(/[&<>"]/g, c => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;" }[c]));
+}
+
+function standText(iso){
+  const d = new Date(iso);
+  if(isNaN(d)) return sicher(iso);
+  const tage = ["Sonntag","Montag","Dienstag","Mittwoch","Donnerstag","Freitag","Samstag"];
+  const zz = n => String(n).padStart(2,"0");
+  return tage[d.getDay()] + ", " + zz(d.getDate()) + "." + zz(d.getMonth()+1) + "." + d.getFullYear()
+       + ", " + zz(d.getHours()) + ":" + zz(d.getMinutes()) + " Uhr";
+}
+
+async function laden(){
+  $("btn-neu").disabled = true;
+  try{
+    const antwort = await fetch("data/daten.json?t=" + Date.now(), { cache: "no-store" });
+    if(!antwort.ok) throw new Error("Status " + antwort.status);
+    inhalt = await antwort.json();
+  }catch(e){
+    $("inhalt").innerHTML = '<p class="fehler">Die Ergebnisdatei konnte nicht geladen werden (' +
+      sicher(e.message) + '). Sie entsteht beim ersten Lauf des Workflows.</p>';
+    $("btn-neu").disabled = false;
+    return;
+  }
+  $("btn-neu").disabled = false;
+  zeichne();
+}
+
+function spielZeile(s){
+  const [heim, gast, th, tg, status] = s;
+  const gespielt = typeof th === "number" && typeof tg === "number";
+  const kh = gespielt ? (th > tg ? "sieger" : th < tg ? "verlierer" : "") : "";
+  const kg = gespielt ? (tg > th ? "sieger" : tg < th ? "verlierer" : "") : "";
+  const erg = gespielt
+    ? '<div class="ergebnis">' + th + ":" + tg + '</div>'
+    : '<div class="ergebnis offen">' + sicher(status === "offen" ? "kein Ergebnis" : status) + '</div>';
+  const eigen = EIGENE.test(heim) || EIGENE.test(gast) ? " eigen" : "";
+  return '<div class="spiel' + eigen + '">' +
+    '<div class="heim team ' + kh + '">' + sicher(heim) + '</div>' + erg +
+    '<div class="gast team ' + kg + '">' + sicher(gast) + '</div></div>';
+}
+
+function tabellenBlock(liga, reihen){
+  if(!reihen || !reihen.length) return "";
+  const auf = reihen.length > 6 ? 2 : 1;
+  const ab = reihen.length > 6 ? reihen.length - 2 : reihen.length;
+
+  const koerper = reihen.map((r, i) => {
+    const platz = i + 1;
+    const kl = [platz <= auf ? "aufstieg" : platz > ab ? "abstieg" : "",
+                EIGENE.test(String(r[0])) ? "eigen" : ""].join(" ").trim();
+    const td = typeof r[2] === "number" && r[2] > 0 ? "+" + r[2] : r[2];
+    return '<tr class="' + kl + '"><td class="platz">' + platz + '</td><td class="l">' + sicher(r[0]) +
+           '</td><td>' + sicher(r[1]) + '</td><td>' + sicher(td) + '</td><td class="punkte">' + sicher(r[3]) + '</td></tr>';
+  }).join("");
+
+  return '<button class="tabelle-schalter" data-tab="' + sicher(liga) + '" aria-expanded="' +
+    (offen[liga] ? "true" : "false") + '">' +
+    (offen[liga] ? "Tabelle ausblenden" : "Tabelle anzeigen") + '</button>' +
+    (offen[liga]
+      ? '<table><thead><tr><th class="l" colspan="2">Mannschaft</th><th>Sp</th><th>TD</th><th>Pkt</th></tr></thead><tbody>' +
+        koerper + '</tbody></table>'
+      : "");
+}
+
+function ligaBlock(l){
+  const kopf = '<div class="liga-kopf"><h2 class="liga-name">' + sicher(l.liga) + '</h2>' +
+    (l.zeitraum ? '<div class="liga-tag">' + sicher(l.zeitraum) + '</div>' : "") + '</div>';
+
+  const koerper = l.fehler
+    ? '<p class="fehler">' + sicher(l.fehler) + '</p>'
+    : (l.spiele || []).map(spielZeile).join("") + tabellenBlock(l.liga, l.tabelle);
+
+  const quelle = l.url
+    ? '<p class="quelle">Quelle: <a href="' + sicher(l.url) + '" target="_blank" rel="noopener">wa.de</a></p>'
+    : "";
+
+  return '<section class="liga">' + kopf + koerper + quelle + '</section>';
+}
+
+function zeichne(){
+  const s = $("stand");
+  if(inhalt && inhalt.stand){
+    s.hidden = false;
+    s.innerHTML = 'Stand der Daten: <span>' + standText(inhalt.stand) + '</span>';
+  }
+  $("inhalt").innerHTML = (inhalt.ligen || []).map(ligaBlock).join("") ||
+    '<p class="fehler">Keine Ligen konfiguriert. Trag sie in ligen.json ein.</p>';
+
+  $("inhalt").querySelectorAll("[data-tab]").forEach(el => {
+    el.addEventListener("click", () => { const l = el.dataset.tab; offen[l] = !offen[l]; zeichne(); });
+  });
+}
+
+$("btn-neu").addEventListener("click", laden);
+laden();
+</script>
+</html>
