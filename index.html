@@ -17,6 +17,7 @@
     --nebel: #8994A5;
     --linie: rgba(232,234,237,.14);
     --rasen: #4F9E6A;
+    --favorit: #6FAEF5;
     --font: "Barlow Semi Condensed", "Roboto Condensed", system-ui, -apple-system, sans-serif;
   }
 
@@ -74,16 +75,15 @@
   }
   .heim{text-align:right}
   .gast{text-align:left}
-  .team{font-size:18px;font-weight:500}
+  .team{font-size:18px;font-weight:500;color:var(--papier)}
   .ergebnis{
     font-size:25px;font-weight:700;color:var(--flut);
     font-variant-numeric:tabular-nums;
     white-space:nowrap;min-width:64px;text-align:center;
   }
   .ergebnis.offen{font-size:14px;font-weight:500;color:var(--nebel);white-space:normal}
-  .sieger{font-weight:700}
-  .verlierer{color:var(--nebel)}
-  .spiel.eigen{background:rgba(242,178,62,.06)}
+  .sieger{font-weight:700;color:#FFFFFF}
+  .team.favorit{color:var(--favorit)}
 
   .tabelle-schalter{
     margin-top:12px;font-size:16px;color:var(--nebel);
@@ -100,7 +100,7 @@
   td.punkte{font-weight:700;width:38px}
   tr.aufstieg td.platz{color:var(--rasen);font-weight:700}
   tr.abstieg td.platz{color:#D2695C;font-weight:700}
-  tr.eigen td.l{color:var(--flut);font-weight:700}
+  tr.favorit td.l{color:var(--favorit);font-weight:700}
 
   .quelle{margin-top:10px;font-size:14px;color:var(--nebel)}
   .quelle a{color:var(--nebel)}
@@ -179,13 +179,12 @@ async function laden(){
 function spielZeile(s){
   const [heim, gast, th, tg, status] = s;
   const gespielt = typeof th === "number" && typeof tg === "number";
-  const kh = gespielt ? (th > tg ? "sieger" : th < tg ? "verlierer" : "") : "";
-  const kg = gespielt ? (tg > th ? "sieger" : tg < th ? "verlierer" : "") : "";
+  const kh = (gespielt && th > tg ? "sieger " : "") + (markiert(heim) ? "favorit" : "");
+  const kg = (gespielt && tg > th ? "sieger " : "") + (markiert(gast) ? "favorit" : "");
   const erg = gespielt
     ? '<div class="ergebnis">' + th + ":" + tg + '</div>'
     : '<div class="ergebnis offen">' + sicher(status === "offen" ? "kein Ergebnis" : status) + '</div>';
-  const eigen = markiert(heim) || markiert(gast) ? " eigen" : "";
-  return '<div class="spiel' + eigen + '">' +
+  return '<div class="spiel">' +
     '<div class="heim team ' + kh + '">' + sicher(heim) + '</div>' + erg +
     '<div class="gast team ' + kg + '">' + sicher(gast) + '</div></div>';
 }
@@ -198,7 +197,7 @@ function tabellenBlock(liga, reihen){
   const koerper = reihen.map((r, i) => {
     const platz = i + 1;
     const kl = [platz <= auf ? "aufstieg" : platz > ab ? "abstieg" : "",
-                markiert(r[0]) ? "eigen" : ""].join(" ").trim();
+                markiert(r[0]) ? "favorit" : ""].join(" ").trim();
     const td = typeof r[2] === "number" && r[2] > 0 ? "+" + r[2] : r[2];
     return '<tr class="' + kl + '"><td class="platz">' + platz + '</td><td class="l">' + sicher(r[0]) +
            '</td><td>' + sicher(r[1]) + '</td><td>' + sicher(td) + '</td><td class="punkte">' + sicher(r[3]) + '</td></tr>';

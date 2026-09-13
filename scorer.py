@@ -47,15 +47,48 @@ def saeubere(text: str) -> str:
     return " ".join(text.split())
 
 
+ZAHL_TOKEN = re.compile(r"^(?::?[-+]?\d+|:)$")
+RANG_TOKEN = re.compile(r"^\d{1,2}\.$")
+
+
 def entdoppele(name: str) -> str:
-    """wa.de gibt Teamnamen oft doppelt aus: 'VfL Mark VfL Mark'."""
-    name = saeubere(name)
-    teile = name.split()
-    if len(teile) % 2 == 0:
+    """wa.de gibt Teamnamen doppelt aus: 'VfL Mark VfL Mark'."""
+    teile = saeubere(name).split()
+    if len(teile) >= 2 and len(teile) % 2 == 0:
         haelfte = len(teile) // 2
         if teile[:haelfte] == teile[haelfte:]:
             return " ".join(teile[:haelfte])
-    return name
+    return " ".join(teile)
+
+
+def saeubere_name(rohtext: str) -> str:
+    """Aus dem Zeilentext den reinen Mannschaftsnamen herausloesen.
+
+    Die Tabellenzeile liegt auf wa.de zusaetzlich als ein Textblock vor, etwa
+    '1. Hammer SportClub Hammer SportClub 6 5 0 1 32 :8 24 15': vorn der
+    Tabellenplatz, dann der doppelte Name, dahinter die Statistik.
+
+    Gesucht wird die Verdopplung, nicht der Zahlenschwanz - sonst verliert
+    'SuS Ruenthe 08' seine 08 und '1. FC Nuernberg' seine Eins.
+    """
+    teile = saeubere(rohtext).split()
+    if teile and RANG_TOKEN.match(teile[0]):
+        teile = teile[1:]
+    if not teile:
+        return ""
+
+    for laenge in range(len(teile) // 2, 0, -1):
+        if teile[:laenge] == teile[laenge:2 * laenge]:
+            return " ".join(teile[:laenge])
+
+    # Keine Verdopplung: Zahlen nur abschneiden, wenn hinten eine vollstaendige
+    # Statistik steht (Sp G U V Tore :Gegentore TD Pkt).
+    schwanz = 0
+    while schwanz < len(teile) and ZAHL_TOKEN.match(teile[len(teile) - 1 - schwanz]):
+        schwanz += 1
+    if schwanz >= 6:
+        teile = teile[:len(teile) - schwanz]
+    return " ".join(teile)
 
 
 # --------------------------------------------------------------- Tabelle
@@ -86,7 +119,9 @@ def lies_tabelle(suppe: BeautifulSoup):
             if not namen or len(zahlen) < 3:
                 continue
 
-            name = entdoppele(max(namen, key=len))
+            name = saeubere_name(max(namen, key=len))
+            if not name:
+                continue
             reihen.append([name, zahlen[0], zahlen[-2], zahlen[-1]])
 
         if len(reihen) >= 4:
