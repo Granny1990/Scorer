@@ -1,11 +1,11 @@
 {
- "stand": "2026-09-13T20:12+02:00",
+ "stand": "2026-09-13T20:35+02:00",
  "quelle": "wa-mediengruppe.de (Tabellendienst der WA Mediengruppe)",
  "markiert": [
   "Rhynern",
   "Hilbeck",
-  "Hammer",
-  "Ahlen"
+  "Hammer SpVg",
+  "Rot Weiss Ahlen"
  ],
  "ligen": [
   {
@@ -73,7 +73,7 @@
      "SV Elversberg",
      "FC Bayern München",
      1,
-     1,
+     2,
      "gespielt"
     ]
    ],
@@ -97,22 +97,22 @@
      7
     ],
     [
-     "4. RB Leipzig RB Leipzig 3 2 0 1 9 :3 6 6",
+     "4. FC Bayern München FC Bayern München 3 2 1 0 7 :2 5 7",
+     3,
+     5,
+     7
+    ],
+    [
+     "5. RB Leipzig RB Leipzig 3 2 0 1 9 :3 6 6",
      3,
      6,
      6
     ],
     [
-     "5. SV Elversberg SV Elversberg 2 2 0 0 7 :5 2 6",
-     2,
-     2,
+     "6. SV Elversberg SV Elversberg 3 2 0 1 8 :7 1 6",
+     3,
+     1,
      6
-    ],
-    [
-     "6. FC Bayern München FC Bayern München 2 1 1 0 5 :1 4 4",
-     2,
-     4,
-     4
     ],
     [
      "7. Bayer 04 Leverkusen Bayer 04 Leverkusen 3 1 1 1 8 :5 3 4",
