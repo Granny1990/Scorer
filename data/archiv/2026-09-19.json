@@ -1,5 +1,5 @@
 {
- "stand": "2026-09-19T20:28+02:00",
+ "stand": "2026-09-19T23:20+02:00",
  "quelle": "wa-mediengruppe.de (Tabellendienst der WA Mediengruppe)",
  "markiert": [
   "Rhynern",
@@ -51,9 +51,9 @@
     [
      "VfB Stuttgart",
      "Borussia Dortmund",
-     null,
-     null,
-     "offen"
+     0,
+     1,
+     "gespielt"
     ],
     [
      "Bayer 04 Leverkusen",
@@ -79,22 +79,22 @@
    ],
    "tabelle": [
     [
-     "1. FC Bayern München FC Bayern München 4 3 1 0 14 :2 12 10",
+     "1. Borussia Dortmund Borussia Dortmund 4 4 0 0 9 :2 7 12",
+     4,
+     7,
+     12
+    ],
+    [
+     "2. FC Bayern München FC Bayern München 4 3 1 0 14 :2 12 10",
      4,
      12,
      10
     ],
     [
-     "2. SC Freiburg SC Freiburg 4 3 1 0 12 :3 9 10",
+     "3. SC Freiburg SC Freiburg 4 3 1 0 12 :3 9 10",
      4,
      9,
      10
-    ],
-    [
-     "3. Borussia Dortmund Borussia Dortmund 3 3 0 0 8 :2 6 9",
-     3,
-     6,
-     9
     ],
     [
      "4. FC Augsburg FC Augsburg 4 2 1 1 11 :6 5 7",
@@ -157,9 +157,9 @@
      3
     ],
     [
-     "14. VfB Stuttgart VfB Stuttgart 3 1 0 2 6 :8 -2 3",
-     3,
-     -2,
+     "14. VfB Stuttgart VfB Stuttgart 4 1 0 3 6 :9 -3 3",
+     4,
+     -3,
      3
     ],
     [
@@ -232,9 +232,9 @@
     [
      "Dynamo Dresden",
      "Hertha BSC Berlin",
-     null,
-     null,
-     "offen"
+     1,
+     2,
+     "gespielt"
     ],
     [
      "SV Hannover 96",
@@ -260,16 +260,16 @@
    ],
    "tabelle": [
     [
-     "1. 1. FC Nürnberg 1. FC Nürnberg 6 5 1 0 16 :6 10 16",
+     "1. Hertha BSC Berlin Hertha BSC Berlin 6 6 0 0 17 :7 10 18",
+     6,
+     10,
+     18
+    ],
+    [
+     "2. 1. FC Nürnberg 1. FC Nürnberg 6 5 1 0 16 :6 10 16",
      6,
      10,
      16
-    ],
-    [
-     "2. Hertha BSC Berlin Hertha BSC Berlin 5 5 0 0 15 :6 9 15",
-     5,
-     9,
-     15
     ],
     [
      "3. 1. FC Heidenheim 1. FC Heidenheim 5 4 0 1 12 :10 2 12",
@@ -356,9 +356,9 @@
      4
     ],
     [
-     "17. Dynamo Dresden Dynamo Dresden 5 1 1 3 7 :12 -5 4",
-     5,
-     -5,
+     "17. Dynamo Dresden Dynamo Dresden 6 1 1 4 8 :14 -6 4",
+     6,
+     -6,
      4
     ],
     [
