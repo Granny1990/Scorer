@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-04T00:06+02:00",
+ "stand": "2026-10-04T21:17+02:00",
  "quelle": "wa-mediengruppe.de (Tabellendienst der WA Mediengruppe)",
  "markiert": [
   "Rhynern",
@@ -620,36 +620,36 @@
     [
      "Sportfreunde Siegen",
      "Bor. Dortmund II",
-     null,
-     null,
-     "offen"
+     1,
+     3,
+     "gespielt"
     ],
     [
      "Rot-Weiß Oberhausen",
      "SC Paderborn II",
-     2,
-     2,
+     4,
+     0,
      "gespielt"
     ]
    ],
    "tabelle": [
     [
-     "1. Rot-Weiß Oberhausen Rot-Weiß Oberhausen 10 8 1 1 24 :9 15 25",
-     10,
-     15,
+     "1. Rot-Weiß Oberhausen Rot-Weiß Oberhausen 11 9 1 1 28 :9 19 28",
+     11,
+     19,
+     28
+    ],
+    [
+     "2. Bor. Dortmund II Bor. Dortmund II 11 7 4 0 23 :11 12 25",
+     11,
+     12,
      25
     ],
     [
-     "2. FC Gütersloh FC Gütersloh 11 7 2 2 26 :13 13 23",
+     "3. FC Gütersloh FC Gütersloh 11 7 2 2 26 :13 13 23",
      11,
      13,
      23
-    ],
-    [
-     "3. Bor. Dortmund II Bor. Dortmund II 10 6 4 0 20 :10 10 22",
-     10,
-     10,
-     22
     ],
     [
      "4. Bor. Mönchengladbach II Bor. Mönchengladbach II 11 6 2 3 25 :13 12 20",
@@ -664,9 +664,9 @@
      17
     ],
     [
-     "6. Sportfreunde Siegen Sportfreunde Siegen 10 4 4 2 18 :15 3 16",
-     10,
-     3,
+     "6. Sportfreunde Siegen Sportfreunde Siegen 11 4 4 3 19 :18 1 16",
+     11,
+     1,
      16
     ],
     [
@@ -694,15 +694,15 @@
      14
     ],
     [
-     "11. SC Paderborn II SC Paderborn II 10 3 4 3 19 :18 1 13",
-     10,
-     1,
+     "11. 1. FC Bocholt 1. FC Bocholt 11 3 4 4 24 :26 -2 13",
+     11,
+     -2,
      13
     ],
     [
-     "12. 1. FC Bocholt 1. FC Bocholt 11 3 4 4 24 :26 -2 13",
+     "12. SC Paderborn II SC Paderborn II 11 3 4 4 19 :22 -3 13",
      11,
-     -2,
+     -3,
      13
     ],
     [
@@ -766,130 +766,130 @@
     [
      "SC RW Maaslingen",
      "FC Eintracht Rheine",
-     null,
-     null,
-     "offen"
+     2,
+     3,
+     "gespielt"
     ],
     [
      "SV Schermbeck 1912",
      "TSG Sprockhövel",
-     null,
-     null,
-     "offen"
+     1,
+     3,
+     "gespielt"
     ],
     [
      "SC Westfalia Kinderhaus",
      "DSC Arminia Bielefeld II",
-     null,
-     null,
-     "offen"
+     1,
+     1,
+     "gespielt"
     ],
     [
      "SpVgg Erkenschwick",
      "SC Verl II",
-     null,
-     null,
-     "offen"
+     4,
+     1,
+     "gespielt"
     ],
     [
      "1. FC Gievenbeck",
      "TuS Hiltrup",
-     null,
-     null,
-     "offen"
+     3,
+     0,
+     "gespielt"
     ],
     [
      "DJK TuS Hordel",
      "SpVgg Vreden",
-     null,
-     null,
-     "offen"
+     1,
+     4,
+     "gespielt"
     ],
     [
      "TuS Ennepetal",
      "ASC 09 Dortmund",
-     2,
-     0,
+     1,
+     5,
      "gespielt"
     ]
    ],
    "tabelle": [
     [
-     "1. SC RW Maaslingen SC RW Maaslingen 8 5 1 2 16 :11 5 16",
-     8,
-     5,
-     16
+     "1. 1. FC Gievenbeck 1. FC Gievenbeck 9 6 1 2 19 :12 7 19",
+     9,
+     7,
+     19
     ],
     [
-     "2. 1. FC Gievenbeck 1. FC Gievenbeck 8 5 1 2 16 :12 4 16",
-     8,
+     "2. SpVgg Vreden SpVgg Vreden 9 6 1 2 25 :19 6 19",
+     9,
+     6,
+     19
+    ],
+    [
+     "3. FC Eintracht Rheine FC Eintracht Rheine 9 6 0 3 20 :13 7 18",
+     9,
+     7,
+     18
+    ],
+    [
+     "4. SpVgg Erkenschwick SpVgg Erkenschwick 9 5 3 1 15 :9 6 18",
+     9,
+     6,
+     18
+    ],
+    [
+     "5. SC RW Maaslingen SC RW Maaslingen 9 5 1 3 18 :14 4 16",
+     9,
      4,
      16
     ],
     [
-     "3. SpVgg Vreden SpVgg Vreden 8 5 1 2 21 :18 3 16",
-     8,
-     3,
-     16
-    ],
-    [
-     "4. SV Lippstadt SV Lippstadt 9 5 1 3 17 :15 2 16",
+     "6. SV Lippstadt SV Lippstadt 9 5 1 3 17 :15 2 16",
      9,
      2,
      16
     ],
     [
-     "5. FC Eintracht Rheine FC Eintracht Rheine 8 5 0 3 17 :11 6 15",
+     "7. TSG Sprockhövel TSG Sprockhövel 9 4 2 3 25 :17 8 14",
+     9,
      8,
-     6,
-     15
-    ],
-    [
-     "6. SpVgg Erkenschwick SpVgg Erkenschwick 8 4 3 1 11 :8 3 15",
-     8,
-     3,
-     15
-    ],
-    [
-     "7. SC Verl II SC Verl II 8 4 2 2 18 :12 6 14",
-     8,
-     6,
      14
     ],
     [
-     "8. SC Preußen Münster II SC Preußen Münster II 9 3 3 3 14 :12 2 12",
+     "8. SC Verl II SC Verl II 9 4 2 3 19 :16 3 14",
+     9,
+     3,
+     14
+    ],
+    [
+     "9. ASC 09 Dortmund ASC 09 Dortmund 8 4 1 3 22 :17 5 13",
+     8,
+     5,
+     13
+    ],
+    [
+     "10. DSC Arminia Bielefeld II DSC Arminia Bielefeld II 9 3 3 3 14 :12 2 12",
      9,
      2,
      12
     ],
     [
-     "9. TSG Sprockhövel TSG Sprockhövel 8 3 2 3 22 :16 6 11",
-     8,
-     6,
-     11
-    ],
-    [
-     "10. DSC Arminia Bielefeld II DSC Arminia Bielefeld II 8 3 2 3 13 :11 2 11",
-     8,
+     "10. SC Preußen Münster II SC Preußen Münster II 9 3 3 3 14 :12 2 12",
+     9,
      2,
-     11
+     12
     ],
     [
-     "11. SC Westfalia Kinderhaus SC Westfalia Kinderhaus 8 3 2 3 10 :12 -2 11",
-     8,
+     "12. SC Westfalia Kinderhaus SC Westfalia Kinderhaus 9 3 3 3 11 :13 -2 12",
+     9,
      -2,
-     11
+     12
     ],
     [
-     "12. ASC 09 Dortmund ASC 09 Dortmund 7 3 1 3 17 :16 1 10",
-     7,
-     1,
-     10
-    ],
-    [
-     "13. DJK TuS Hordel DJK TuS Hordel 8 2 4 2 13 :13 0 10",
-     8,
-     0,
+     "13. DJK TuS Hordel DJK TuS Hordel 9 2 4 3 14 :17 -3 10",
+     9,
+     -3,
      10
     ],
     [
@@ -905,21 +905,21 @@
      8
     ],
     [
-     "16. TuS Hiltrup TuS Hiltrup 8 2 1 5 8 :17 -9 7",
-     8,
-     -9,
+     "16. TuS Hiltrup TuS Hiltrup 9 2 1 6 8 :20 -12 7",
+     9,
+     -12,
      7
     ],
     [
-     "17. TuS Ennepetal TuS Ennepetal 8 0 5 3 9 :18 -9 5",
-     8,
-     -9,
+     "17. TuS Ennepetal TuS Ennepetal 9 0 5 4 10 :23 -13 5",
+     9,
+     -13,
      5
     ],
     [
-     "18. SV Schermbeck 1912 SV Schermbeck 1912 7 0 1 6 6 :19 -13 1",
-     7,
-     -13,
+     "18. SV Schermbeck 1912 SV Schermbeck 1912 8 0 1 7 7 :22 -15 1",
+     8,
+     -15,
      1
     ]
    ],
@@ -933,155 +933,155 @@
     [
      "FSC Rheda",
      "Rot Weiss Ahlen",
-     null,
-     null,
-     "offen"
+     3,
+     0,
+     "gespielt"
     ],
     [
      "FC Nordkirchen",
      "SV Rödinghausen II",
-     null,
-     null,
-     "offen"
+     0,
+     1,
+     "gespielt"
     ],
     [
      "Grün-Weiß Nottuln",
      "FC RW Kirchlengern",
-     null,
-     null,
-     "offen"
+     3,
+     2,
+     "gespielt"
     ],
     [
      "SV Eintracht Ahaus",
      "SuS Bad Westernkotten",
-     null,
-     null,
-     "offen"
+     0,
+     1,
+     "gespielt"
     ],
     [
      "SF Ostinghausen",
      "SC Peckeloh",
-     null,
-     null,
-     "offen"
+     0,
+     2,
+     "gespielt"
     ],
     [
      "Lüner SV",
      "SC Herford",
-     null,
-     null,
-     "offen"
+     2,
+     1,
+     "gespielt"
     ],
     [
      "SV Mesum",
      "FC Kaunitz",
-     null,
-     null,
-     "offen"
+     3,
+     1,
+     "gespielt"
     ],
     [
      "SuS Neuenkirchen",
      "VfL Theesen",
-     2,
-     4,
+     1,
+     5,
      "gespielt"
     ]
    ],
    "tabelle": [
     [
-     "1. SC Peckeloh SC Peckeloh 8 5 3 0 19 :7 12 18",
-     8,
-     12,
-     18
+     "1. SC Peckeloh SC Peckeloh 9 6 3 0 21 :7 14 21",
+     9,
+     14,
+     21
     ],
     [
-     "2. Grün-Weiß Nottuln Grün-Weiß Nottuln 8 6 0 2 14 :8 6 18",
-     8,
-     6,
-     18
-    ],
-    [
-     "3. Rot Weiss Ahlen Rot Weiss Ahlen 8 5 2 1 26 :11 15 17",
-     8,
-     15,
-     17
-    ],
-    [
-     "4. Lüner SV Lüner SV 8 5 2 1 25 :18 7 17",
-     8,
+     "2. Grün-Weiß Nottuln Grün-Weiß Nottuln 9 7 0 2 17 :10 7 21",
+     9,
      7,
+     21
+    ],
+    [
+     "3. Lüner SV Lüner SV 9 6 2 1 27 :19 8 20",
+     9,
+     8,
+     20
+    ],
+    [
+     "4. FSC Rheda FSC Rheda 9 6 0 3 19 :14 5 18",
+     9,
+     5,
+     18
+    ],
+    [
+     "5. Rot Weiss Ahlen Rot Weiss Ahlen 9 5 2 2 26 :14 12 17",
+     9,
+     12,
      17
     ],
     [
-     "5. SV Eintracht Ahaus SV Eintracht Ahaus 8 5 1 2 15 :14 1 16",
-     8,
-     1,
+     "6. SV Eintracht Ahaus SV Eintracht Ahaus 9 5 1 3 15 :15 0 16",
+     9,
+     0,
      16
     ],
     [
-     "6. FSC Rheda FSC Rheda 8 5 0 3 16 :14 2 15",
-     8,
-     2,
-     15
+     "7. VfL Theesen VfL Theesen 9 4 2 3 21 :14 7 14",
+     9,
+     7,
+     14
     ],
     [
-     "7. SuS Neuenkirchen SuS Neuenkirchen 8 4 1 3 16 :12 4 13",
-     8,
-     4,
+     "8. SuS Neuenkirchen SuS Neuenkirchen 9 4 1 4 17 :17 0 13",
+     9,
+     0,
      13
     ],
     [
-     "8. VfL Theesen VfL Theesen 8 3 2 3 16 :13 3 11",
-     8,
-     3,
-     11
-    ],
-    [
-     "9. SC Herford SC Herford 8 3 2 3 16 :17 -1 11",
-     8,
-     -1,
-     11
-    ],
-    [
-     "10. SV Rödinghausen II SV Rödinghausen II 8 3 1 4 11 :12 -1 10",
-     8,
-     -1,
-     10
-    ],
-    [
-     "11. SV Mesum SV Mesum 8 3 0 5 23 :16 7 9",
-     8,
-     7,
-     9
-    ],
-    [
-     "12. SF Ostinghausen SF Ostinghausen 8 2 3 3 21 :21 0 9",
-     8,
+     "9. SV Rödinghausen II SV Rödinghausen II 9 4 1 4 12 :12 0 13",
+     9,
      0,
+     13
+    ],
+    [
+     "10. SV Mesum SV Mesum 9 4 0 5 26 :17 9 12",
+     9,
+     9,
+     12
+    ],
+    [
+     "11. SC Herford SC Herford 9 3 2 4 17 :19 -2 11",
+     9,
+     -2,
+     11
+    ],
+    [
+     "12. SF Ostinghausen SF Ostinghausen 9 2 3 4 21 :23 -2 9",
+     9,
+     -2,
      9
     ],
     [
-     "13. FC Nordkirchen FC Nordkirchen 8 2 2 4 9 :16 -7 8",
-     8,
-     -7,
+     "13. FC Nordkirchen FC Nordkirchen 9 2 2 5 9 :17 -8 8",
+     9,
+     -8,
      8
     ],
     [
-     "14. SuS Bad Westernkotten SuS Bad Westernkotten 8 1 2 5 7 :19 -12 5",
-     8,
-     -12,
-     5
+     "14. SuS Bad Westernkotten SuS Bad Westernkotten 9 2 2 5 8 :19 -11 8",
+     9,
+     -11,
+     8
     ],
     [
-     "15. FC RW Kirchlengern FC RW Kirchlengern 8 1 1 6 9 :25 -16 4",
-     8,
-     -16,
+     "15. FC RW Kirchlengern FC RW Kirchlengern 9 1 1 7 11 :28 -17 4",
+     9,
+     -17,
      4
     ],
     [
-     "16. FC Kaunitz FC Kaunitz 8 0 0 8 7 :27 -20 0",
-     8,
-     -20,
+     "16. FC Kaunitz FC Kaunitz 9 0 0 9 8 :30 -22 0",
+     9,
+     -22,
      0
     ]
    ],
@@ -1102,83 +1102,83 @@
     [
      "SV Borussia Emsdetten",
      "SV SW Lembeck",
-     null,
-     null,
-     "offen"
+     5,
+     1,
+     "gespielt"
     ],
     [
      "SV Burgsteinfurt",
      "Ibbenbürener Spvg.",
-     null,
-     null,
-     "offen"
+     1,
+     0,
+     "gespielt"
     ],
     [
      "VfL Senden",
      "ASK Ahlen",
-     null,
-     null,
-     "offen"
+     1,
+     2,
+     "gespielt"
     ],
     [
      "SC Altenrheine",
      "SuS Stadtlohn",
-     null,
-     null,
-     "offen"
+     3,
+     2,
+     "gespielt"
     ],
     [
      "TSV Raesfeld",
      "SV Rot-Weiß Deuten",
-     null,
-     null,
-     "offen"
+     0,
+     1,
+     "gespielt"
     ],
     [
      "SC Münster 08",
      "Werner SC",
-     null,
-     null,
-     "offen"
+     3,
+     1,
+     "gespielt"
     ],
     [
      "SVE Heessen",
      "Westfalia Gemen",
-     3,
      4,
+     0,
      "gespielt"
     ]
    ],
    "tabelle": [
     [
-     "1. Hammer SpVg Hammer SpVg 8 6 2 0 21 :9 12 20",
+     "1. SV Burgsteinfurt SV Burgsteinfurt 9 6 2 1 24 :11 13 20",
+     9,
+     13,
+     20
+    ],
+    [
+     "2. Hammer SpVg Hammer SpVg 8 6 2 0 21 :9 12 20",
      8,
      12,
      20
     ],
     [
-     "2. SV Burgsteinfurt SV Burgsteinfurt 8 5 2 1 23 :11 12 17",
+     "3. SVE Heessen SVE Heessen 8 6 1 1 21 :6 15 19",
      8,
-     12,
-     17
+     15,
+     19
     ],
     [
-     "3. SpVg Emsdetten 05 SpVg Emsdetten 05 9 5 2 2 23 :12 11 17",
+     "4. SV Rot-Weiß Deuten SV Rot-Weiß Deuten 8 6 1 1 18 :8 10 19",
+     8,
+     10,
+     19
+    ],
+    [
+     "5. SpVg Emsdetten 05 SpVg Emsdetten 05 9 5 2 2 23 :12 11 17",
      9,
      11,
      17
-    ],
-    [
-     "4. SVE Heessen SVE Heessen 7 5 1 1 17 :6 11 16",
-     7,
-     11,
-     16
-    ],
-    [
-     "5. SV Rot-Weiß Deuten SV Rot-Weiß Deuten 7 5 1 1 17 :8 9 16",
-     7,
-     9,
-     16
     ],
     [
      "6. SV Dorsten-Hardt SV Dorsten-Hardt 8 5 0 3 18 :13 5 15",
@@ -1187,70 +1187,70 @@
      15
     ],
     [
-     "7. ASK Ahlen ASK Ahlen 7 3 2 2 20 :10 10 11",
-     7,
-     10,
-     11
+     "7. ASK Ahlen ASK Ahlen 8 4 2 2 22 :11 11 14",
+     8,
+     11,
+     14
     ],
     [
-     "8. SV Borussia Emsdetten SV Borussia Emsdetten 8 3 2 3 10 :11 -1 11",
-     8,
-     -1,
-     11
+     "8. SV Borussia Emsdetten SV Borussia Emsdetten 9 4 2 3 15 :12 3 14",
+     9,
+     3,
+     14
     ],
     [
-     "9. SuS Stadtlohn SuS Stadtlohn 8 3 2 3 13 :15 -2 11",
-     8,
-     -2,
-     11
-    ],
-    [
-     "10. TSV Raesfeld TSV Raesfeld 8 2 4 2 14 :17 -3 10",
-     8,
+     "9. SuS Stadtlohn SuS Stadtlohn 9 3 2 4 15 :18 -3 11",
+     9,
      -3,
+     11
+    ],
+    [
+     "10. TSV Raesfeld TSV Raesfeld 9 2 4 3 14 :18 -4 10",
+     9,
+     -4,
      10
     ],
     [
-     "11. VfL Senden VfL Senden 8 2 2 4 15 :18 -3 8",
+     "11. SC Altenrheine SC Altenrheine 8 2 3 3 11 :15 -4 9",
      8,
-     -3,
+     -4,
+     9
+    ],
+    [
+     "12. VfL Senden VfL Senden 9 2 2 5 16 :20 -4 8",
+     9,
+     -4,
      8
     ],
     [
-     "12. Ibbenbürener Spvg. Ibbenbürener Spvg. 7 2 1 4 11 :19 -8 7",
-     7,
-     -8,
+     "13. Ibbenbürener Spvg. Ibbenbürener Spvg. 8 2 1 5 11 :20 -9 7",
+     8,
+     -9,
      7
     ],
     [
-     "13. SC Altenrheine SC Altenrheine 7 1 3 3 8 :13 -5 6",
-     7,
-     -5,
-     6
-    ],
-    [
-     "14. Werner SC Werner SC 8 0 4 4 15 :24 -9 4",
+     "14. SC Münster 08 SC Münster 08 8 1 2 5 10 :18 -8 5",
      8,
-     -9,
+     -8,
+     5
+    ],
+    [
+     "15. Werner SC Werner SC 9 0 4 5 16 :27 -11 4",
+     9,
+     -11,
      4
     ],
     [
-     "15. SV SW Lembeck SV SW Lembeck 7 1 1 5 5 :17 -12 4",
-     7,
-     -12,
-     4
-    ],
-    [
-     "16. Westfalia Gemen Westfalia Gemen 8 1 1 6 10 :27 -17 4",
+     "16. SV SW Lembeck SV SW Lembeck 8 1 1 6 6 :22 -16 4",
      8,
-     -17,
+     -16,
      4
     ],
     [
-     "17. SC Münster 08 SC Münster 08 7 0 2 5 7 :17 -10 2",
-     7,
-     -10,
-     2
+     "17. Westfalia Gemen Westfalia Gemen 9 1 1 7 10 :31 -21 4",
+     9,
+     -21,
+     4
     ]
    ],
    "fehler": null
@@ -1277,43 +1277,43 @@
     [
      "SV Herbern",
      "SC Roland 1962",
-     null,
-     null,
-     "offen"
+     1,
+     2,
+     "gespielt"
     ],
     [
      "RW Westönnen",
      "TUS Freckenhorst",
-     null,
-     null,
-     "offen"
+     2,
+     1,
+     "gespielt"
     ],
     [
      "SpVgg Oelde",
      "TuS 46/68 Uentrop",
-     null,
-     null,
-     "offen"
+     3,
+     1,
+     "gespielt"
     ],
     [
      "Warendorfer SU",
      "SV Hilbeck",
-     null,
-     null,
-     "offen"
+     4,
+     0,
+     "gespielt"
     ],
     [
      "TuS SG Oestinghausen",
      "SG Sendenhorst",
-     null,
-     null,
-     "offen"
+     5,
+     0,
+     "gespielt"
     ],
     [
      "SpVg Beckum",
      "SuS Bad Westernkotten II",
-     0,
      4,
+     3,
      "gespielt"
     ]
    ],
@@ -1325,69 +1325,69 @@
      25
     ],
     [
-     "2. SpVg Beckum SpVg Beckum 8 7 1 0 19 :7 12 22",
-     8,
-     12,
-     22
+     "2. SpVg Beckum SpVg Beckum 9 8 1 0 23 :10 13 25",
+     9,
+     13,
+     25
     ],
     [
-     "3. TUS Freckenhorst TUS Freckenhorst 8 7 0 1 29 :4 25 21",
-     8,
-     25,
+     "3. TUS Freckenhorst TUS Freckenhorst 9 7 0 2 30 :6 24 21",
+     9,
+     24,
      21
     ],
     [
-     "4. SpVgg Oelde SpVgg Oelde 8 6 0 2 30 :10 20 18",
-     8,
-     20,
+     "4. SpVgg Oelde SpVgg Oelde 9 7 0 2 33 :11 22 21",
+     9,
+     22,
+     21
+    ],
+    [
+     "5. TuS SG Oestinghausen TuS SG Oestinghausen 9 6 0 3 28 :13 15 18",
+     9,
+     15,
      18
     ],
     [
-     "5. TuS SG Oestinghausen TuS SG Oestinghausen 8 5 0 3 23 :13 10 15",
-     8,
-     10,
-     15
+     "6. RW Westönnen RW Westönnen 9 5 2 2 20 :13 7 17",
+     9,
+     7,
+     17
     ],
     [
-     "6. RW Westönnen RW Westönnen 8 4 2 2 18 :12 6 14",
-     8,
-     6,
+     "7. SC Roland 1962 SC Roland 1962 9 5 1 3 12 :12 0 16",
+     9,
+     0,
+     16
+    ],
+    [
+     "8. Warendorfer SU Warendorfer SU 9 4 2 3 16 :20 -4 14",
+     9,
+     -4,
      14
     ],
     [
-     "7. SC Roland 1962 SC Roland 1962 8 4 1 3 10 :11 -1 13",
-     8,
-     -1,
-     13
-    ],
-    [
-     "8. SG Sendenhorst SG Sendenhorst 8 4 0 4 18 :16 2 12",
-     8,
-     2,
+     "9. SG Sendenhorst SG Sendenhorst 9 4 0 5 18 :21 -3 12",
+     9,
+     -3,
      12
     ],
     [
-     "9. DJK Vorwärts Ahlen DJK Vorwärts Ahlen 9 3 2 4 11 :14 -3 11",
+     "10. DJK Vorwärts Ahlen DJK Vorwärts Ahlen 9 3 2 4 11 :14 -3 11",
      9,
      -3,
      11
     ],
     [
-     "10. Warendorfer SU Warendorfer SU 8 3 2 3 12 :20 -8 11",
-     8,
-     -8,
-     11
-    ],
-    [
-     "11. SV Herbern SV Herbern 8 2 2 4 16 :17 -1 8",
-     8,
-     -1,
+     "11. SV Herbern SV Herbern 9 2 2 5 17 :19 -2 8",
+     9,
+     -2,
      8
     ],
     [
-     "12. TuS 46/68 Uentrop TuS 46/68 Uentrop 8 2 1 5 12 :24 -12 7",
-     8,
-     -12,
+     "12. TuS 46/68 Uentrop TuS 46/68 Uentrop 9 2 1 6 13 :27 -14 7",
+     9,
+     -14,
      7
     ],
     [
@@ -1403,15 +1403,15 @@
      5
     ],
     [
-     "15. SV Hilbeck SV Hilbeck 8 0 2 6 7 :19 -12 2",
-     8,
-     -12,
+     "15. SV Hilbeck SV Hilbeck 9 0 2 7 7 :23 -16 2",
+     9,
+     -16,
      2
     ],
     [
-     "16. SuS Bad Westernkotten II SuS Bad Westernkotten II 8 0 0 8 3 :29 -26 0",
-     8,
-     -26,
+     "16. SuS Bad Westernkotten II SuS Bad Westernkotten II 9 0 0 9 6 :33 -27 0",
+     9,
+     -27,
      0
     ]
    ],
@@ -1425,156 +1425,156 @@
     [
      "SVE Heessen II",
      "SuS Rünthe 08",
-     null,
-     null,
-     "offen"
+     4,
+     0,
+     "gespielt"
     ],
     [
      "SV Westfalia Rhynern II",
      "Türk. SC Hamm",
-     null,
-     null,
-     "offen"
+     4,
+     1,
+     "gespielt"
     ],
     [
      "VfL Mark",
      "Hammer SportClub",
-     null,
-     null,
-     "offen"
+     1,
+     0,
+     "gespielt"
     ],
     [
      "SC Pelkum",
      "TuS G. Lohauserholz-Daberg II",
-     null,
-     null,
-     "offen"
+     6,
+     2,
+     "gespielt"
     ],
     [
      "TSV Hamm-Heessen",
      "Südener SV Hamm",
-     null,
-     null,
-     "offen"
+     1,
+     4,
+     "gespielt"
     ],
     [
      "Eintracht Werne",
      "Hammer SpVg II",
-     null,
-     null,
-     "offen"
+     3,
+     0,
+     "gespielt"
     ],
     [
      "TIU Rünthe",
      "TuS Wiescherhöfen II",
-     null,
-     null,
-     "offen"
+     3,
+     7,
+     "gespielt"
     ],
     [
      "Gurbet Spor Bergkamen",
      "SG Bockum-Hövel II",
-     5,
-     3,
+     4,
+     1,
      "gespielt"
     ]
    ],
    "tabelle": [
     [
-     "1. Hammer SportClub Hammer SportClub 8 7 0 1 43 :12 31 21",
-     8,
-     31,
+     "1. Hammer SportClub Hammer SportClub 9 7 0 2 43 :13 30 21",
+     9,
+     30,
      21
     ],
     [
-     "2. Türk. SC Hamm Türk. SC Hamm 8 5 2 1 27 :17 10 17",
+     "2. Eintracht Werne Eintracht Werne 8 6 1 1 42 :17 25 19",
      8,
-     10,
+     25,
+     19
+    ],
+    [
+     "3. VfL Mark VfL Mark 9 6 1 2 26 :10 16 19",
+     9,
+     16,
+     19
+    ],
+    [
+     "4. SV Westfalia Rhynern II SV Westfalia Rhynern II 8 5 2 1 43 :12 31 17",
+     8,
+     31,
      17
     ],
     [
-     "3. Eintracht Werne Eintracht Werne 7 5 1 1 39 :17 22 16",
-     7,
-     22,
-     16
-    ],
-    [
-     "4. VfL Mark VfL Mark 8 5 1 2 25 :10 15 16",
-     8,
-     15,
-     16
-    ],
-    [
-     "5. SV Westfalia Rhynern II SV Westfalia Rhynern II 7 4 2 1 39 :11 28 14",
-     7,
-     28,
-     14
-    ],
-    [
-     "6. Gurbet Spor Bergkamen Gurbet Spor Bergkamen 7 4 1 2 28 :13 15 13",
-     7,
-     15,
-     13
-    ],
-    [
-     "7. TuS G. Lohauserholz-Daberg II TuS G. Lohauserholz-Daberg II 8 4 1 3 29 :18 11 13",
-     8,
-     11,
-     13
-    ],
-    [
-     "8. TIU Rünthe TIU Rünthe 8 3 4 1 26 :17 9 13",
-     8,
+     "5. Türk. SC Hamm Türk. SC Hamm 9 5 2 2 28 :21 7 17",
      9,
+     7,
+     17
+    ],
+    [
+     "6. Gurbet Spor Bergkamen Gurbet Spor Bergkamen 8 5 1 2 32 :14 18 16",
+     8,
+     18,
+     16
+    ],
+    [
+     "7. SVE Heessen II SVE Heessen II 9 4 4 1 23 :16 7 16",
+     9,
+     7,
+     16
+    ],
+    [
+     "8. TuS G. Lohauserholz-Daberg II TuS G. Lohauserholz-Daberg II 9 4 1 4 31 :24 7 13",
+     9,
+     7,
      13
     ],
     [
-     "9. SVE Heessen II SVE Heessen II 8 3 4 1 19 :16 3 13",
-     8,
-     3,
+     "9. TIU Rünthe TIU Rünthe 9 3 4 2 29 :24 5 13",
+     9,
+     5,
      13
     ],
     [
-     "10. SuS Rünthe 08 SuS Rünthe 08 8 3 1 4 25 :27 -2 10",
-     8,
-     -2,
+     "10. TuS Wiescherhöfen II TuS Wiescherhöfen II 9 4 0 5 22 :30 -8 12",
+     9,
+     -8,
+     12
+    ],
+    [
+     "11. SuS Rünthe 08 SuS Rünthe 08 9 3 1 5 25 :31 -6 10",
+     9,
+     -6,
      10
     ],
     [
-     "11. SG Bockum-Hövel II SG Bockum-Hövel II 8 3 0 5 16 :17 -1 9",
-     8,
-     -1,
+     "12. SG Bockum-Hövel II SG Bockum-Hövel II 9 3 0 6 17 :21 -4 9",
+     9,
+     -4,
      9
     ],
     [
-     "12. TuS Wiescherhöfen II TuS Wiescherhöfen II 8 3 0 5 15 :27 -12 9",
-     8,
-     -12,
+     "13. SC Pelkum SC Pelkum 9 3 0 6 19 :42 -23 9",
+     9,
+     -23,
      9
     ],
     [
-     "13. SC Pelkum SC Pelkum 8 2 0 6 13 :40 -27 6",
-     8,
-     -27,
-     6
-    ],
-    [
-     "14. Hammer SpVg II Hammer SpVg II 8 1 1 6 17 :31 -14 4",
-     8,
-     -14,
+     "14. Hammer SpVg II Hammer SpVg II 9 1 1 7 17 :34 -17 4",
+     9,
+     -17,
      4
     ],
     [
-     "15. TSV Hamm-Heessen TSV Hamm-Heessen 8 1 0 7 6 :58 -52 3",
+     "15. Südener SV Hamm Südener SV Hamm 8 1 0 7 8 :41 -33 3",
      8,
-     -52,
+     -33,
      3
     ],
     [
-     "16. Südener SV Hamm Südener SV Hamm 7 0 0 7 4 :40 -36 0",
-     7,
-     -36,
-     0
+     "16. TSV Hamm-Heessen TSV Hamm-Heessen 9 1 0 8 7 :62 -55 3",
+     9,
+     -55,
+     3
     ]
    ],
    "fehler": null
