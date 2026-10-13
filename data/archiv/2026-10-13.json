@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-13T00:46+02:00",
+ "stand": "2026-10-13T23:01+02:00",
  "quelle": "wa-mediengruppe.de (Tabellendienst der WA Mediengruppe)",
  "markiert": [
   "Rhynern",
@@ -378,37 +378,37 @@
     [
      "Hansa Rostock",
      "SV Meppen",
-     null,
-     null,
-     "offen"
+     0,
+     2,
+     "gespielt"
     ],
     [
      "Rot-Weiss Essen",
      "SC Fortuna Köln",
-     null,
-     null,
-     "offen"
+     2,
+     0,
+     "gespielt"
     ],
     [
      "VfB Stuttgart II",
      "TSG 1899 Hoffenheim II",
-     null,
-     null,
-     "offen"
+     3,
+     2,
+     "gespielt"
     ],
     [
      "1. FC Saarbrücken",
      "MSV Duisburg",
-     null,
-     null,
-     "offen"
+     2,
+     4,
+     "gespielt"
     ],
     [
      "TSV Havelse",
      "Würzburger Kickers",
-     null,
-     null,
-     "offen"
+     2,
+     2,
+     "gespielt"
     ],
     [
      "SC Preußen Münster",
@@ -448,10 +448,10 @@
    ],
    "tabelle": [
     [
-     "1. MSV Duisburg MSV Duisburg 8 7 0 1 22 :9 13 21",
-     8,
-     13,
-     21
+     "1. MSV Duisburg MSV Duisburg 9 8 0 1 26 :11 15 24",
+     9,
+     15,
+     24
     ],
     [
      "2. Viktoria Köln Viktoria Köln 8 6 0 2 24 :11 13 18",
@@ -460,33 +460,33 @@
      18
     ],
     [
-     "3. Rot-Weiss Essen Rot-Weiss Essen 8 4 3 1 16 :12 4 15",
-     8,
-     4,
+     "3. Rot-Weiss Essen Rot-Weiss Essen 9 5 3 1 18 :12 6 18",
+     9,
+     6,
+     18
+    ],
+    [
+     "4. Hansa Rostock Hansa Rostock 9 4 3 2 17 :17 0 15",
+     9,
+     0,
      15
     ],
     [
-     "4. Hansa Rostock Hansa Rostock 8 4 3 1 17 :15 2 15",
-     8,
-     2,
-     15
-    ],
-    [
-     "5. 1. FC Saarbrücken 1. FC Saarbrücken 8 4 2 2 19 :12 7 14",
-     8,
-     7,
-     14
-    ],
-    [
-     "6. TSG 1899 Hoffenheim II TSG 1899 Hoffenheim II 8 4 1 3 16 :11 5 13",
-     8,
+     "5. 1. FC Saarbrücken 1. FC Saarbrücken 9 4 2 3 21 :16 5 14",
+     9,
      5,
-     13
+     14
     ],
     [
      "6. Waldhof Mannheim Waldhof Mannheim 8 4 1 3 16 :11 5 13",
      8,
      5,
+     13
+    ],
+    [
+     "7. TSG 1899 Hoffenheim II TSG 1899 Hoffenheim II 9 4 1 4 18 :14 4 13",
+     9,
+     4,
      13
     ],
     [
@@ -508,64 +508,64 @@
      11
     ],
     [
-     "11. SC Verl von 1924 SC Verl von 1924 8 3 2 3 12 :15 -3 11",
+     "11. VfB Stuttgart II VfB Stuttgart II 9 3 2 4 16 :18 -2 11",
+     9,
+     -2,
+     11
+    ],
+    [
+     "12. SC Verl von 1924 SC Verl von 1924 8 3 2 3 12 :15 -3 11",
      8,
      -3,
      11
     ],
     [
-     "12. SC Fortuna Köln SC Fortuna Köln 8 2 4 2 8 :8 0 10",
-     8,
-     0,
+     "13. SC Fortuna Köln SC Fortuna Köln 9 2 4 3 8 :10 -2 10",
+     9,
+     -2,
      10
     ],
     [
-     "13. SSV Jahn Regensburg SSV Jahn Regensburg 8 2 2 4 18 :17 1 8",
+     "14. SV Meppen SV Meppen 9 3 1 5 11 :16 -5 10",
+     9,
+     -5,
+     10
+    ],
+    [
+     "15. SSV Jahn Regensburg SSV Jahn Regensburg 8 2 2 4 18 :17 1 8",
      8,
      1,
      8
     ],
     [
-     "14. VfB Stuttgart II VfB Stuttgart II 8 2 2 4 13 :16 -3 8",
-     8,
-     -3,
+     "16. Würzburger Kickers Würzburger Kickers 9 2 2 5 13 :19 -6 8",
+     9,
+     -6,
      8
     ],
     [
-     "15. FC Ingolstadt 04 FC Ingolstadt 04 8 2 2 4 9 :15 -6 8",
+     "17. FC Ingolstadt 04 FC Ingolstadt 04 8 2 2 4 9 :15 -6 8",
      8,
      -6,
      8
     ],
     [
-     "15. SV Wehen Wiesbaden SV Wehen Wiesbaden 8 2 2 4 9 :15 -6 8",
+     "17. SV Wehen Wiesbaden SV Wehen Wiesbaden 8 2 2 4 9 :15 -6 8",
      8,
      -6,
      8
     ],
     [
-     "17. SG Großaspach SG Großaspach 8 2 2 4 7 :14 -7 8",
+     "19. SG Großaspach SG Großaspach 8 2 2 4 7 :14 -7 8",
      8,
      -7,
      8
     ],
     [
-     "18. Würzburger Kickers Würzburger Kickers 8 2 1 5 11 :17 -6 7",
-     8,
-     -6,
-     7
-    ],
-    [
-     "19. SV Meppen SV Meppen 8 2 1 5 9 :16 -7 7",
-     8,
-     -7,
-     7
-    ],
-    [
-     "20. TSV Havelse TSV Havelse 8 1 1 6 10 :20 -10 4",
-     8,
+     "20. TSV Havelse TSV Havelse 9 1 2 6 12 :22 -10 5",
+     9,
      -10,
-     4
+     5
     ]
    ],
    "fehler": null
@@ -1395,13 +1395,6 @@
      "offen"
     ],
     [
-     "VfL Mark",
-     "Gurbet Spor Bergkamen",
-     null,
-     null,
-     "offen"
-    ],
-    [
      "SC Pelkum",
      "SuS Rünthe 08",
      null,
@@ -1418,6 +1411,13 @@
     [
      "Eintracht Werne",
      "SG Bockum-Hövel II",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "VfL Mark",
+     "Gurbet Spor Bergkamen",
      null,
      null,
      "offen"
