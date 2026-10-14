@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-13T23:01+02:00",
+ "stand": "2026-10-14T22:01+02:00",
  "quelle": "wa-mediengruppe.de (Tabellendienst der WA Mediengruppe)",
  "markiert": [
   "Rhynern",
@@ -413,36 +413,36 @@
     [
      "SC Preußen Münster",
      "Fortuna Düsseldorf",
-     null,
-     null,
-     "offen"
+     1,
+     2,
+     "gespielt"
     ],
     [
      "SC Verl von 1924",
      "SSV Jahn Regensburg",
-     null,
-     null,
-     "offen"
+     2,
+     2,
+     "gespielt"
     ],
     [
      "SV Wehen Wiesbaden",
      "TSV Alemannia Aachen",
-     null,
-     null,
-     "offen"
+     3,
+     0,
+     "gespielt"
     ],
     [
      "Waldhof Mannheim",
      "FC Ingolstadt 04",
-     null,
-     null,
-     "offen"
+     0,
+     3,
+     "gespielt"
     ],
     [
      "Viktoria Köln",
      "SG Großaspach",
-     0,
-     1,
+     2,
+     2,
      "gespielt"
     ]
    ],
@@ -454,10 +454,10 @@
      24
     ],
     [
-     "2. Viktoria Köln Viktoria Köln 8 6 0 2 24 :11 13 18",
-     8,
+     "2. Viktoria Köln Viktoria Köln 9 6 1 2 26 :13 13 19",
+     9,
      13,
-     18
+     19
     ],
     [
      "3. Rot-Weiss Essen Rot-Weiss Essen 9 5 3 1 18 :12 6 18",
@@ -478,10 +478,10 @@
      14
     ],
     [
-     "6. Waldhof Mannheim Waldhof Mannheim 8 4 1 3 16 :11 5 13",
-     8,
-     5,
-     13
+     "6. Fortuna Düsseldorf Fortuna Düsseldorf 9 4 2 3 10 :10 0 14",
+     9,
+     0,
+     14
     ],
     [
      "7. TSG 1899 Hoffenheim II TSG 1899 Hoffenheim II 9 4 1 4 18 :14 4 13",
@@ -490,22 +490,22 @@
      13
     ],
     [
-     "8. SC Preußen Münster SC Preußen Münster 8 3 3 2 15 :16 -1 12",
-     8,
-     -1,
+     "8. Waldhof Mannheim Waldhof Mannheim 9 4 1 4 16 :14 2 13",
+     9,
+     2,
+     13
+    ],
+    [
+     "9. SC Preußen Münster SC Preußen Münster 9 3 3 3 16 :18 -2 12",
+     9,
+     -2,
      12
     ],
     [
-     "9. TSV Alemannia Aachen TSV Alemannia Aachen 8 3 2 3 13 :13 0 11",
-     8,
-     0,
-     11
-    ],
-    [
-     "10. Fortuna Düsseldorf Fortuna Düsseldorf 8 3 2 3 8 :9 -1 11",
-     8,
-     -1,
-     11
+     "10. SC Verl von 1924 SC Verl von 1924 9 3 3 3 14 :17 -3 12",
+     9,
+     -3,
+     12
     ],
     [
      "11. VfB Stuttgart II VfB Stuttgart II 9 3 2 4 16 :18 -2 11",
@@ -514,51 +514,51 @@
      11
     ],
     [
-     "12. SC Verl von 1924 SC Verl von 1924 8 3 2 3 12 :15 -3 11",
-     8,
+     "12. TSV Alemannia Aachen TSV Alemannia Aachen 9 3 2 4 13 :16 -3 11",
+     9,
      -3,
      11
     ],
     [
-     "13. SC Fortuna Köln SC Fortuna Köln 9 2 4 3 8 :10 -2 10",
+     "13. FC Ingolstadt 04 FC Ingolstadt 04 9 3 2 4 12 :15 -3 11",
+     9,
+     -3,
+     11
+    ],
+    [
+     "13. SV Wehen Wiesbaden SV Wehen Wiesbaden 9 3 2 4 12 :15 -3 11",
+     9,
+     -3,
+     11
+    ],
+    [
+     "15. SC Fortuna Köln SC Fortuna Köln 9 2 4 3 8 :10 -2 10",
      9,
      -2,
      10
     ],
     [
-     "14. SV Meppen SV Meppen 9 3 1 5 11 :16 -5 10",
+     "16. SV Meppen SV Meppen 9 3 1 5 11 :16 -5 10",
      9,
      -5,
      10
     ],
     [
-     "15. SSV Jahn Regensburg SSV Jahn Regensburg 8 2 2 4 18 :17 1 8",
-     8,
+     "17. SSV Jahn Regensburg SSV Jahn Regensburg 9 2 3 4 20 :19 1 9",
+     9,
      1,
-     8
+     9
     ],
     [
-     "16. Würzburger Kickers Würzburger Kickers 9 2 2 5 13 :19 -6 8",
+     "18. SG Großaspach SG Großaspach 9 2 3 4 9 :16 -7 9",
+     9,
+     -7,
+     9
+    ],
+    [
+     "19. Würzburger Kickers Würzburger Kickers 9 2 2 5 13 :19 -6 8",
      9,
      -6,
-     8
-    ],
-    [
-     "17. FC Ingolstadt 04 FC Ingolstadt 04 8 2 2 4 9 :15 -6 8",
-     8,
-     -6,
-     8
-    ],
-    [
-     "17. SV Wehen Wiesbaden SV Wehen Wiesbaden 8 2 2 4 9 :15 -6 8",
-     8,
-     -6,
-     8
-    ],
-    [
-     "19. SG Großaspach SG Großaspach 8 2 2 4 7 :14 -7 8",
-     8,
-     -7,
      8
     ],
     [
@@ -752,7 +752,7 @@
     [
      "ASC 09 Dortmund",
      "SV Schermbeck 1912",
-     2,
+     1,
      0,
      "gespielt"
     ]
@@ -795,34 +795,34 @@
      17
     ],
     [
-     "7. SV Lippstadt SV Lippstadt 10 5 1 4 17 :16 1 16",
+     "7. ASC 09 Dortmund ASC 09 Dortmund 10 5 1 4 24 :19 5 16",
+     10,
+     5,
+     16
+    ],
+    [
+     "8. SV Lippstadt SV Lippstadt 10 5 1 4 17 :16 1 16",
      10,
      1,
      16
     ],
     [
-     "8. DSC Arminia Bielefeld II DSC Arminia Bielefeld II 10 4 3 3 17 :14 3 15",
+     "9. DSC Arminia Bielefeld II DSC Arminia Bielefeld II 10 4 3 3 17 :14 3 15",
      10,
      3,
      15
     ],
     [
-     "9. SC Westfalia Kinderhaus SC Westfalia Kinderhaus 10 4 3 3 13 :14 -1 15",
+     "10. SC Westfalia Kinderhaus SC Westfalia Kinderhaus 10 4 3 3 13 :14 -1 15",
      10,
      -1,
      15
     ],
     [
-     "10. SC Verl II SC Verl II 10 4 2 4 20 :18 2 14",
+     "11. SC Verl II SC Verl II 10 4 2 4 20 :18 2 14",
      10,
      2,
      14
-    ],
-    [
-     "11. ASC 09 Dortmund ASC 09 Dortmund 9 4 1 4 23 :19 4 13",
-     9,
-     4,
-     13
     ],
     [
      "12. SC Preußen Münster II SC Preußen Münster II 10 3 3 4 16 :15 1 12",
@@ -861,9 +861,9 @@
      5
     ],
     [
-     "18. SV Schermbeck 1912 SV Schermbeck 1912 9 0 2 7 9 :24 -15 2",
-     9,
-     -15,
+     "18. SV Schermbeck 1912 SV Schermbeck 1912 10 0 2 8 9 :25 -16 2",
+     10,
+     -16,
      2
     ]
    ],
@@ -1079,15 +1079,15 @@
      "offen"
     ],
     [
-     "SVE Heessen",
-     "SV Rot-Weiß Deuten",
+     "SC Münster 08",
+     "Westfalia Gemen",
      null,
      null,
      "offen"
     ],
     [
-     "SC Münster 08",
-     "Westfalia Gemen",
+     "SVE Heessen",
+     "SV Rot-Weiß Deuten",
      3,
      4,
      "gespielt"
