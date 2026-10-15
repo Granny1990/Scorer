@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-14T22:01+02:00",
+ "stand": "2026-10-15T21:44+02:00",
  "quelle": "wa-mediengruppe.de (Tabellendienst der WA Mediengruppe)",
  "markiert": [
   "Rhynern",
@@ -373,43 +373,8 @@
   {
    "liga": "3. Liga",
    "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/3__liga.html",
-   "zeitraum": "13. October 2026",
+   "zeitraum": "14. October 2026",
    "spiele": [
-    [
-     "Hansa Rostock",
-     "SV Meppen",
-     0,
-     2,
-     "gespielt"
-    ],
-    [
-     "Rot-Weiss Essen",
-     "SC Fortuna Köln",
-     2,
-     0,
-     "gespielt"
-    ],
-    [
-     "VfB Stuttgart II",
-     "TSG 1899 Hoffenheim II",
-     3,
-     2,
-     "gespielt"
-    ],
-    [
-     "1. FC Saarbrücken",
-     "MSV Duisburg",
-     2,
-     4,
-     "gespielt"
-    ],
-    [
-     "TSV Havelse",
-     "Würzburger Kickers",
-     2,
-     2,
-     "gespielt"
-    ],
     [
      "SC Preußen Münster",
      "Fortuna Düsseldorf",
@@ -443,6 +408,76 @@
      "SG Großaspach",
      2,
      2,
+     "gespielt"
+    ],
+    [
+     "SC Fortuna Köln",
+     "VfB Stuttgart II",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "Fortuna Düsseldorf",
+     "1. FC Saarbrücken",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "FC Ingolstadt 04",
+     "Rot-Weiss Essen",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "SSV Jahn Regensburg",
+     "SV Wehen Wiesbaden",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "SG Großaspach",
+     "SC Preußen Münster",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "TSV Alemannia Aachen",
+     "Hansa Rostock",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "Würzburger Kickers",
+     "Waldhof Mannheim",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "TSG 1899 Hoffenheim II",
+     "SC Verl von 1924",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "MSV Duisburg",
+     "Viktoria Köln",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "SV Meppen",
+     "TSV Havelse",
+     0,
+     1,
      "gespielt"
     ]
    ],
@@ -753,6 +788,69 @@
      "ASC 09 Dortmund",
      "SV Schermbeck 1912",
      1,
+     0,
+     "gespielt"
+    ],
+    [
+     "SV Lippstadt",
+     "FC Eintracht Rheine",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "1. FC Gievenbeck",
+     "SpVgg Vreden",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "SC RW Maaslingen",
+     "SV Schermbeck 1912",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "Victoria Clarholz",
+     "DSC Arminia Bielefeld II",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "SC Preußen Münster II",
+     "SC Verl II",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "SC Westfalia Kinderhaus",
+     "TuS Hiltrup",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "SpVgg Erkenschwick",
+     "ASC 09 Dortmund",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "DJK TuS Hordel",
+     "TSG Sprockhövel",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "TuS Ennepetal",
+     "SpVgg Horsthausen",
+     2,
      0,
      "gespielt"
     ]
@@ -1364,14 +1462,14 @@
   {
    "liga": "Kreisliga A1 Unna-Hamm",
    "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-kreisligen-kreisliga_a/kreisliga_a1_unna_hamm.html",
-   "zeitraum": "15. October 2026 bis 18. October 2026",
+   "zeitraum": "15. October 2026",
    "spiele": [
     [
      "Südener SV Hamm",
      "Gurbet Spor Bergkamen",
-     null,
-     null,
-     "offen"
+     1,
+     11,
+     "gespielt"
     ],
     [
      "TuS G. Lohauserholz-Daberg II",
@@ -1462,16 +1560,16 @@
      20
     ],
     [
-     "6. SVE Heessen II SVE Heessen II 10 5 4 1 29 :16 13 19",
+     "6. Gurbet Spor Bergkamen Gurbet Spor Bergkamen 10 6 1 3 43 :19 24 19",
      10,
-     13,
+     24,
      19
     ],
     [
-     "7. Gurbet Spor Bergkamen Gurbet Spor Bergkamen 9 5 1 3 32 :18 14 16",
-     9,
-     14,
-     16
+     "7. SVE Heessen II SVE Heessen II 10 5 4 1 29 :16 13 19",
+     10,
+     13,
+     19
     ],
     [
      "8. TIU Rünthe TIU Rünthe 10 4 4 2 34 :27 7 16",
@@ -1522,9 +1620,9 @@
      4
     ],
     [
-     "16. Südener SV Hamm Südener SV Hamm 9 1 0 8 8 :47 -39 3",
-     9,
-     -39,
+     "16. Südener SV Hamm Südener SV Hamm 10 1 0 9 9 :58 -49 3",
+     10,
+     -49,
      3
     ]
    ],
