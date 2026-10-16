@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-15T21:44+02:00",
+ "stand": "2026-10-16T21:24+02:00",
  "quelle": "wa-mediengruppe.de (Tabellendienst der WA Mediengruppe)",
  "markiert": [
   "Rhynern",
@@ -197,16 +197,16 @@
     [
      "KSV Holstein Kiel",
      "Hertha BSC Berlin",
-     null,
-     null,
-     "offen"
+     0,
+     0,
+     "gespielt"
     ],
     [
      "FC Energie Cottbus",
      "1. FC Nürnberg",
-     null,
-     null,
-     "offen"
+     1,
+     1,
+     "gespielt"
     ],
     [
      "VfL Wolfsburg",
@@ -260,16 +260,16 @@
    ],
    "tabelle": [
     [
-     "1. Hertha BSC Berlin Hertha BSC Berlin 7 7 0 0 19 :8 11 21",
-     7,
+     "1. Hertha BSC Berlin Hertha BSC Berlin 8 7 1 0 19 :8 11 22",
+     8,
      11,
-     21
+     22
     ],
     [
-     "2. 1. FC Nürnberg 1. FC Nürnberg 7 5 2 0 20 :10 10 17",
-     7,
+     "2. 1. FC Nürnberg 1. FC Nürnberg 8 5 3 0 21 :11 10 18",
+     8,
      10,
-     17
+     18
     ],
     [
      "3. 1. FC Heidenheim 1. FC Heidenheim 7 4 2 1 14 :12 2 14",
@@ -302,10 +302,10 @@
      10
     ],
     [
-     "8. FC Energie Cottbus FC Energie Cottbus 7 2 2 3 15 :16 -1 8",
-     7,
+     "8. FC Energie Cottbus FC Energie Cottbus 8 2 3 3 16 :17 -1 9",
+     8,
      -1,
-     8
+     9
     ],
     [
      "9. Arminia Bielefeld Arminia Bielefeld 7 2 2 3 11 :12 -1 8",
@@ -350,22 +350,22 @@
      6
     ],
     [
-     "16. Dynamo Dresden Dynamo Dresden 7 1 2 4 9 :15 -6 5",
+     "16. KSV Holstein Kiel KSV Holstein Kiel 8 0 5 3 7 :11 -4 5",
+     8,
+     -4,
+     5
+    ],
+    [
+     "17. Dynamo Dresden Dynamo Dresden 7 1 2 4 9 :15 -6 5",
      7,
      -6,
      5
     ],
     [
-     "17. Karlsruher SC Karlsruher SC 7 1 2 4 6 :14 -8 5",
+     "18. Karlsruher SC Karlsruher SC 7 1 2 4 6 :14 -8 5",
      7,
      -8,
      5
-    ],
-    [
-     "18. KSV Holstein Kiel KSV Holstein Kiel 7 0 4 3 7 :11 -4 4",
-     7,
-     -4,
-     4
     ]
    ],
    "fehler": null
@@ -373,49 +373,14 @@
   {
    "liga": "3. Liga",
    "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/3__liga.html",
-   "zeitraum": "14. October 2026",
+   "zeitraum": "16. October 2026",
    "spiele": [
-    [
-     "SC Preußen Münster",
-     "Fortuna Düsseldorf",
-     1,
-     2,
-     "gespielt"
-    ],
-    [
-     "SC Verl von 1924",
-     "SSV Jahn Regensburg",
-     2,
-     2,
-     "gespielt"
-    ],
-    [
-     "SV Wehen Wiesbaden",
-     "TSV Alemannia Aachen",
-     3,
-     0,
-     "gespielt"
-    ],
-    [
-     "Waldhof Mannheim",
-     "FC Ingolstadt 04",
-     0,
-     3,
-     "gespielt"
-    ],
-    [
-     "Viktoria Köln",
-     "SG Großaspach",
-     2,
-     2,
-     "gespielt"
-    ],
     [
      "SC Fortuna Köln",
      "VfB Stuttgart II",
-     null,
-     null,
-     "offen"
+     0,
+     1,
+     "gespielt"
     ],
     [
      "Fortuna Düsseldorf",
@@ -519,34 +484,34 @@
      14
     ],
     [
-     "7. TSG 1899 Hoffenheim II TSG 1899 Hoffenheim II 9 4 1 4 18 :14 4 13",
+     "7. VfB Stuttgart II VfB Stuttgart II 10 4 2 4 17 :18 -1 14",
+     10,
+     -1,
+     14
+    ],
+    [
+     "8. TSG 1899 Hoffenheim II TSG 1899 Hoffenheim II 9 4 1 4 18 :14 4 13",
      9,
      4,
      13
     ],
     [
-     "8. Waldhof Mannheim Waldhof Mannheim 9 4 1 4 16 :14 2 13",
+     "9. Waldhof Mannheim Waldhof Mannheim 9 4 1 4 16 :14 2 13",
      9,
      2,
      13
     ],
     [
-     "9. SC Preußen Münster SC Preußen Münster 9 3 3 3 16 :18 -2 12",
+     "10. SC Preußen Münster SC Preußen Münster 9 3 3 3 16 :18 -2 12",
      9,
      -2,
      12
     ],
     [
-     "10. SC Verl von 1924 SC Verl von 1924 9 3 3 3 14 :17 -3 12",
+     "11. SC Verl von 1924 SC Verl von 1924 9 3 3 3 14 :17 -3 12",
      9,
      -3,
      12
-    ],
-    [
-     "11. VfB Stuttgart II VfB Stuttgart II 9 3 2 4 16 :18 -2 11",
-     9,
-     -2,
-     11
     ],
     [
      "12. TSV Alemannia Aachen TSV Alemannia Aachen 9 3 2 4 13 :16 -3 11",
@@ -567,9 +532,9 @@
      11
     ],
     [
-     "15. SC Fortuna Köln SC Fortuna Köln 9 2 4 3 8 :10 -2 10",
-     9,
-     -2,
+     "15. SC Fortuna Köln SC Fortuna Köln 10 2 4 4 8 :11 -3 10",
+     10,
+     -3,
      10
     ],
     [
@@ -613,16 +578,16 @@
     [
      "FC Schalke 04 II",
      "SV Westfalia Rhynern",
-     null,
-     null,
-     "offen"
+     1,
+     1,
+     "gespielt"
     ],
     [
      "SG Wattenscheid 09",
      "FC Gütersloh",
-     null,
-     null,
-     "offen"
+     1,
+     2,
+     "gespielt"
     ],
     [
      "SV Rödinghausen",
@@ -681,15 +646,15 @@
      28
     ],
     [
-     "3. Bor. Mönchengladbach II Bor. Mönchengladbach II 12 7 2 3 27 :14 13 23",
-     12,
+     "3. FC Gütersloh FC Gütersloh 13 8 2 3 28 :19 9 26",
      13,
-     23
+     9,
+     26
     ],
     [
-     "4. FC Gütersloh FC Gütersloh 12 7 2 3 26 :18 8 23",
+     "4. Bor. Mönchengladbach II Bor. Mönchengladbach II 12 7 2 3 27 :14 13 23",
      12,
-     8,
+     13,
      23
     ],
     [
@@ -699,22 +664,22 @@
      19
     ],
     [
-     "6. Bonner SC Bonner SC 12 4 6 2 26 :22 4 18",
+     "6. FC Schalke 04 II FC Schalke 04 II 12 6 1 5 26 :22 4 19",
+     12,
+     4,
+     19
+    ],
+    [
+     "7. Bonner SC Bonner SC 12 4 6 2 26 :22 4 18",
      12,
      4,
      18
     ],
     [
-     "7. FC Schalke 04 II FC Schalke 04 II 11 6 0 5 25 :21 4 18",
-     11,
-     4,
-     18
-    ],
-    [
-     "8. SV Westfalia Rhynern SV Westfalia Rhynern 12 5 2 5 20 :23 -3 17",
-     12,
+     "8. SV Westfalia Rhynern SV Westfalia Rhynern 13 5 3 5 21 :24 -3 18",
+     13,
      -3,
-     17
+     18
     ],
     [
      "9. SV Bergisch Gladbach 09 SV Bergisch Gladbach 09 12 5 1 6 20 :27 -7 16",
@@ -753,9 +718,9 @@
      13
     ],
     [
-     "15. SG Wattenscheid 09 SG Wattenscheid 09 12 3 3 6 18 :23 -5 12",
-     12,
-     -5,
+     "15. SG Wattenscheid 09 SG Wattenscheid 09 13 3 3 7 19 :25 -6 12",
+     13,
+     -6,
      12
     ],
     [
@@ -782,15 +747,8 @@
   {
    "liga": "Oberliga Westfalen",
    "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/oberliga_westfalen.html",
-   "zeitraum": "14. October 2026",
+   "zeitraum": "16. October 2026 bis 17. October 2026",
    "spiele": [
-    [
-     "ASC 09 Dortmund",
-     "SV Schermbeck 1912",
-     1,
-     0,
-     "gespielt"
-    ],
     [
      "SV Lippstadt",
      "FC Eintracht Rheine",
