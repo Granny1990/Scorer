@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-17T20:15+02:00",
+ "stand": "2026-10-17T23:18+02:00",
  "quelle": "wa-mediengruppe.de (Tabellendienst der WA Mediengruppe)",
  "markiert": [
   "Rhynern",
@@ -58,9 +58,9 @@
     [
      "FC Bayern München",
      "RB Leipzig",
-     null,
-     null,
-     "offen"
+     6,
+     1,
+     "gespielt"
     ],
     [
      "Bayer 04 Leverkusen",
@@ -79,22 +79,22 @@
    ],
    "tabelle": [
     [
-     "1. Borussia Dortmund Borussia Dortmund 6 4 2 0 11 :4 7 14",
+     "1. FC Bayern München FC Bayern München 6 4 2 0 22 :5 17 14",
+     6,
+     17,
+     14
+    ],
+    [
+     "2. Borussia Dortmund Borussia Dortmund 6 4 2 0 11 :4 7 14",
      6,
      7,
      14
     ],
     [
-     "2. SC Freiburg SC Freiburg 5 4 1 0 14 :4 10 13",
+     "3. SC Freiburg SC Freiburg 5 4 1 0 14 :4 10 13",
      5,
      10,
      13
-    ],
-    [
-     "3. FC Bayern München FC Bayern München 5 3 2 0 16 :4 12 11",
-     5,
-     12,
-     11
     ],
     [
      "4. Bayer 04 Leverkusen Bayer 04 Leverkusen 5 3 1 1 14 :8 6 10",
@@ -115,9 +115,9 @@
      10
     ],
     [
-     "7. RB Leipzig RB Leipzig 5 3 0 2 15 :5 10 9",
+     "7. RB Leipzig RB Leipzig 6 3 0 3 16 :11 5 9",
+     6,
      5,
-     10,
      9
     ],
     [
@@ -232,9 +232,9 @@
     [
      "SV Hannover 96",
      "FC St. Pauli",
-     null,
-     null,
-     "offen"
+     1,
+     1,
+     "gespielt"
     ],
     [
      "Karlsruher SC",
@@ -296,10 +296,10 @@
      13
     ],
     [
-     "7. FC St. Pauli FC St. Pauli 7 2 4 1 10 :8 2 10",
-     7,
+     "7. FC St. Pauli FC St. Pauli 8 2 5 1 11 :9 2 11",
+     8,
      2,
-     10
+     11
     ],
     [
      "8. FC Energie Cottbus FC Energie Cottbus 8 2 3 3 16 :17 -1 9",
@@ -326,21 +326,21 @@
      8
     ],
     [
-     "12. Eintr. Braunschweig Eintr. Braunschweig 8 2 1 5 13 :15 -2 7",
+     "12. SV Hannover 96 SV Hannover 96 8 2 2 4 8 :13 -5 8",
+     8,
+     -5,
+     8
+    ],
+    [
+     "13. Eintr. Braunschweig Eintr. Braunschweig 8 2 1 5 13 :15 -2 7",
      8,
      -2,
      7
     ],
     [
-     "13. VfL Bochum VfL Bochum 8 2 1 5 5 :9 -4 7",
+     "14. VfL Bochum VfL Bochum 8 2 1 5 5 :9 -4 7",
      8,
      -4,
-     7
-    ],
-    [
-     "14. SV Hannover 96 SV Hannover 96 7 2 1 4 7 :12 -5 7",
-     7,
-     -5,
      7
     ],
     [
