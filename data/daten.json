@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-19T22:54+02:00",
+ "stand": "2026-10-20T21:52+02:00",
  "quelle": "wa-mediengruppe.de (Tabellendienst der WA Mediengruppe)",
  "markiert": [
   "Rhynern",
@@ -11,69 +11,69 @@
   {
    "liga": "Bundesliga",
    "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/bundesliga.html",
-   "zeitraum": "16. October 2026",
+   "zeitraum": "23. October 2026 bis 24. October 2026",
    "spiele": [
     [
-     "Eintracht Frankfurt",
-     "1. FC Köln",
-     1,
-     0,
-     "gespielt"
-    ],
-    [
-     "1. FC Union Berlin",
-     "Borussia Dortmund",
-     0,
-     0,
-     "gespielt"
-    ],
-    [
-     "Hamburger SV",
      "VfB Stuttgart",
-     1,
-     0,
-     "gespielt"
-    ],
-    [
-     "SV Werder Bremen",
-     "SC Paderborn",
-     2,
-     2,
-     "gespielt"
-    ],
-    [
-     "FC Schalke 04",
-     "1. FSV Mainz 05",
-     0,
-     1,
-     "gespielt"
-    ],
-    [
-     "SV Elversberg",
-     "FC Augsburg",
-     4,
-     3,
-     "gespielt"
-    ],
-    [
-     "FC Bayern München",
-     "RB Leipzig",
-     6,
-     1,
-     "gespielt"
-    ],
-    [
-     "Bayer 04 Leverkusen",
-     "SC Freiburg",
-     2,
-     1,
-     "gespielt"
-    ],
-    [
      "Bor. Mönchengladbach",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "RB Leipzig",
+     "SV Elversberg",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "FC Augsburg",
+     "1. FC Union Berlin",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "1. FSV Mainz 05",
+     "SV Werder Bremen",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "1. FC Köln",
+     "FC Schalke 04",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "SC Paderborn",
+     "Hamburger SV",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "Borussia Dortmund",
+     "Eintracht Frankfurt",
+     null,
+     null,
+     "offen"
+    ],
+    [
      "TSG 1899 Hoffenheim",
-     1,
+     "Bayer 04 Leverkusen",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "SC Freiburg",
+     "FC Bayern München",
      2,
+     1,
      "gespielt"
     ]
    ],
@@ -192,69 +192,69 @@
   {
    "liga": "2. Bundesliga",
    "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/2__bundesliga.html",
-   "zeitraum": "16. October 2026",
+   "zeitraum": "23. October 2026",
    "spiele": [
     [
-     "KSV Holstein Kiel",
-     "Hertha BSC Berlin",
-     0,
-     0,
-     "gespielt"
-    ],
-    [
-     "FC Energie Cottbus",
-     "1. FC Nürnberg",
-     1,
-     1,
-     "gespielt"
-    ],
-    [
-     "VfL Wolfsburg",
-     "1. FC Heidenheim",
-     3,
-     1,
-     "gespielt"
-    ],
-    [
-     "1. FC Kaiserslautern",
-     "VfL Bochum",
-     2,
-     0,
-     "gespielt"
-    ],
-    [
-     "SpVgg Greuther Fürth",
-     "Eintr. Braunschweig",
-     2,
-     0,
-     "gespielt"
-    ],
-    [
-     "SV Hannover 96",
-     "FC St. Pauli",
-     1,
-     1,
-     "gespielt"
-    ],
-    [
-     "Karlsruher SC",
      "SV Darmstadt 98",
-     4,
-     0,
-     "gespielt"
+     "FC St. Pauli",
+     null,
+     null,
+     "offen"
     ],
     [
-     "Dynamo Dresden",
-     "1. FC Magdeburg",
-     2,
-     0,
-     "gespielt"
+     "VfL Bochum",
+     "VfL Wolfsburg",
+     null,
+     null,
+     "offen"
     ],
     [
+     "1. FC Heidenheim",
+     "FC Energie Cottbus",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "Hertha BSC Berlin",
      "Arminia Bielefeld",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "1. FC Magdeburg",
+     "Karlsruher SC",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "1. FC Nürnberg",
+     "1. FC Kaiserslautern",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "KSV Holstein Kiel",
+     "Dynamo Dresden",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "Eintr. Braunschweig",
+     "SV Hannover 96",
+     null,
+     null,
+     "offen"
+    ],
+    [
      "VfL Osnabrück",
-     2,
-     1,
+     "SpVgg Greuther Fürth",
+     0,
+     0,
      "gespielt"
     ]
    ],
@@ -373,75 +373,75 @@
   {
    "liga": "3. Liga",
    "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/3__liga.html",
-   "zeitraum": "16. October 2026",
+   "zeitraum": "23. October 2026 bis 24. October 2026",
    "spiele": [
     [
-     "SC Fortuna Köln",
-     "VfB Stuttgart II",
-     0,
-     1,
-     "gespielt"
+     "Rot-Weiss Essen",
+     "SSV Jahn Regensburg",
+     null,
+     null,
+     "offen"
     ],
     [
+     "Viktoria Köln",
+     "SC Verl von 1924",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "Hansa Rostock",
      "Fortuna Düsseldorf",
-     "1. FC Saarbrücken",
-     1,
-     3,
-     "gespielt"
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "SV Wehen Wiesbaden",
+     "SG Großaspach",
+     null,
+     null,
+     "offen"
     ],
     [
      "FC Ingolstadt 04",
-     "Rot-Weiss Essen",
-     1,
-     0,
-     "gespielt"
-    ],
-    [
-     "SSV Jahn Regensburg",
-     "SV Wehen Wiesbaden",
-     0,
-     0,
-     "gespielt"
-    ],
-    [
-     "SG Großaspach",
-     "SC Preußen Münster",
-     3,
-     2,
-     "gespielt"
-    ],
-    [
-     "TSV Alemannia Aachen",
-     "Hansa Rostock",
-     2,
-     0,
-     "gespielt"
-    ],
-    [
-     "Würzburger Kickers",
-     "Waldhof Mannheim",
-     2,
-     0,
-     "gespielt"
-    ],
-    [
-     "TSG 1899 Hoffenheim II",
-     "SC Verl von 1924",
-     2,
-     1,
-     "gespielt"
-    ],
-    [
      "MSV Duisburg",
-     "Viktoria Köln",
-     1,
-     1,
-     "gespielt"
+     null,
+     null,
+     "offen"
     ],
     [
      "SV Meppen",
+     "Würzburger Kickers",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "VfB Stuttgart II",
+     "TSV Alemannia Aachen",
+     null,
+     null,
+     "offen"
+    ],
+    [
      "TSV Havelse",
-     1,
+     "1. FC Saarbrücken",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "SC Preußen Münster",
+     "SC Fortuna Köln",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "Waldhof Mannheim",
+     "TSG 1899 Hoffenheim II",
+     0,
      1,
      "gespielt"
     ]
@@ -573,62 +573,13 @@
   {
    "liga": "Regionalliga West",
    "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/regionalliga_west.html",
-   "zeitraum": "16. October 2026",
+   "zeitraum": "20. October 2026",
    "spiele": [
     [
      "FC Schalke 04 II",
-     "SV Westfalia Rhynern",
-     1,
-     1,
-     "gespielt"
-    ],
-    [
-     "SG Wattenscheid 09",
-     "FC Gütersloh",
-     1,
-     2,
-     "gespielt"
-    ],
-    [
-     "SV Rödinghausen",
      "1. FC Köln II",
-     2,
+     1,
      3,
-     "gespielt"
-    ],
-    [
-     "Bonner SC",
-     "VfB 03 Hilden",
-     0,
-     1,
-     "gespielt"
-    ],
-    [
-     "SC Wiedenbrück",
-     "Bor. Dortmund II",
-     2,
-     4,
-     "gespielt"
-    ],
-    [
-     "Sportfreunde Siegen",
-     "Rot-Weiß Oberhausen",
-     3,
-     1,
-     "gespielt"
-    ],
-    [
-     "1. FC Bocholt",
-     "VfL Sportfreunde Lotte",
-     1,
-     0,
-     "gespielt"
-    ],
-    [
-     "Bor. Mönchengladbach II",
-     "SV Bergisch Gladbach 09",
-     2,
-     1,
      "gespielt"
     ]
    ],
@@ -664,34 +615,34 @@
      22
     ],
     [
-     "6. FC Schalke 04 II FC Schalke 04 II 12 6 1 5 26 :22 4 19",
-     12,
-     4,
+     "6. 1. FC Köln II 1. FC Köln II 13 6 2 5 26 :23 3 20",
+     13,
+     3,
+     20
+    ],
+    [
+     "7. FC Schalke 04 II FC Schalke 04 II 13 6 1 6 27 :25 2 19",
+     13,
+     2,
      19
     ],
     [
-     "7. Bonner SC Bonner SC 13 4 6 3 26 :23 3 18",
+     "8. Bonner SC Bonner SC 13 4 6 3 26 :23 3 18",
      13,
      3,
      18
     ],
     [
-     "8. SV Westfalia Rhynern SV Westfalia Rhynern 13 5 3 5 21 :24 -3 18",
+     "9. SV Westfalia Rhynern SV Westfalia Rhynern 13 5 3 5 21 :24 -3 18",
      13,
      -3,
      18
     ],
     [
-     "9. VfB 03 Hilden VfB 03 Hilden 13 5 3 5 18 :23 -5 18",
+     "10. VfB 03 Hilden VfB 03 Hilden 13 5 3 5 18 :23 -5 18",
      13,
      -5,
      18
-    ],
-    [
-     "10. 1. FC Köln II 1. FC Köln II 12 5 2 5 23 :22 1 17",
-     12,
-     1,
-     17
     ],
     [
      "11. 1. FC Bocholt 1. FC Bocholt 13 4 4 5 26 :29 -3 16",
@@ -747,69 +698,69 @@
   {
    "liga": "Oberliga Westfalen",
    "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/oberliga_westfalen.html",
-   "zeitraum": "16. October 2026",
+   "zeitraum": "23. October 2026 bis 25. October 2026",
    "spiele": [
     [
-     "SV Lippstadt",
-     "FC Eintracht Rheine",
-     1,
-     1,
-     "gespielt"
-    ],
-    [
-     "1. FC Gievenbeck",
-     "SpVgg Vreden",
-     2,
-     2,
-     "gespielt"
-    ],
-    [
-     "SC RW Maaslingen",
      "SV Schermbeck 1912",
-     3,
-     1,
-     "gespielt"
+     "SV Lippstadt",
+     null,
+     null,
+     "offen"
     ],
     [
-     "Victoria Clarholz",
-     "DSC Arminia Bielefeld II",
-     1,
-     3,
-     "gespielt"
-    ],
-    [
-     "SC Preußen Münster II",
-     "SC Verl II",
-     1,
-     0,
-     "gespielt"
-    ],
-    [
-     "SC Westfalia Kinderhaus",
      "TuS Hiltrup",
-     0,
-     2,
-     "gespielt"
+     "SC Preußen Münster II",
+     null,
+     null,
+     "offen"
     ],
     [
-     "SpVgg Erkenschwick",
-     "ASC 09 Dortmund",
-     0,
-     1,
-     "gespielt"
+     "DSC Arminia Bielefeld II",
+     "SC RW Maaslingen",
+     null,
+     null,
+     "offen"
     ],
     [
+     "FC Eintracht Rheine",
      "DJK TuS Hordel",
-     "TSG Sprockhövel",
-     1,
-     1,
-     "gespielt"
+     null,
+     null,
+     "offen"
     ],
     [
+     "TSG Sprockhövel",
      "TuS Ennepetal",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "SpVgg Vreden",
+     "SpVgg Erkenschwick",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "SC Verl II",
+     "Victoria Clarholz",
+     null,
+     null,
+     "offen"
+    ],
+    [
      "SpVgg Horsthausen",
-     3,
-     1,
+     "1. FC Gievenbeck",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "ASC 09 Dortmund",
+     "SC Westfalia Kinderhaus",
+     2,
+     0,
      "gespielt"
     ]
    ],
@@ -928,62 +879,55 @@
   {
    "liga": "Westfalenliga Staffel 1",
    "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/westfalenliga_1.html",
-   "zeitraum": "16. October 2026",
+   "zeitraum": "25. October 2026",
    "spiele": [
     [
-     "SV Mesum",
-     "SV Rödinghausen II",
-     1,
-     0,
-     "gespielt"
-    ],
-    [
-     "SF Ostinghausen",
-     "FC Kaunitz",
-     5,
-     0,
-     "gespielt"
-    ],
-    [
-     "FSC Rheda",
-     "Grün-Weiß Nottuln",
-     4,
-     0,
-     "gespielt"
-    ],
-    [
-     "FC Nordkirchen",
-     "Rot Weiss Ahlen",
-     1,
-     0,
-     "gespielt"
-    ],
-    [
-     "SuS Bad Westernkotten",
-     "SC Peckeloh",
-     0,
-     4,
-     "gespielt"
-    ],
-    [
-     "SV Eintracht Ahaus",
      "SC Herford",
-     2,
-     1,
-     "gespielt"
+     "SuS Bad Westernkotten",
+     null,
+     null,
+     "offen"
     ],
     [
+     "SC Peckeloh",
+     "FSC Rheda",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "Grün-Weiß Nottuln",
+     "FC Nordkirchen",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "SV Rödinghausen II",
      "Lüner SV",
-     "VfL Theesen",
-     4,
-     5,
-     "gespielt"
+     null,
+     null,
+     "offen"
     ],
     [
-     "SuS Neuenkirchen",
+     "VfL Theesen",
+     "SF Ostinghausen",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "FC Kaunitz",
+     "SV Eintracht Ahaus",
+     null,
+     null,
+     "offen"
+    ],
+    [
      "FC RW Kirchlengern",
-     4,
+     "SV Mesum",
      2,
+     4,
      "gespielt"
     ]
    ],
@@ -1090,62 +1034,62 @@
   {
    "liga": "Landesliga Staffel 4",
    "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/landesliga_4_westfalen.html",
-   "zeitraum": "17. October 2026",
+   "zeitraum": "23. October 2026 bis 25. October 2026",
    "spiele": [
     [
-     "SC Altenrheine",
-     "SpVg Emsdetten 05",
-     2,
-     2,
-     "gespielt"
-    ],
-    [
-     "SV Borussia Emsdetten",
-     "ASK Ahlen",
-     0,
-     2,
-     "gespielt"
-    ],
-    [
-     "SV Burgsteinfurt",
-     "SV Dorsten-Hardt",
-     1,
-     4,
-     "gespielt"
-    ],
-    [
-     "Werner SC",
-     "SuS Stadtlohn",
-     3,
-     1,
-     "gespielt"
-    ],
-    [
-     "Hammer SpVg",
-     "SV SW Lembeck",
-     2,
-     1,
-     "gespielt"
-    ],
-    [
-     "TSV Raesfeld",
-     "Ibbenbürener Spvg.",
-     4,
-     2,
-     "gespielt"
-    ],
-    [
-     "SC Münster 08",
      "Westfalia Gemen",
-     1,
-     1,
-     "gespielt"
+     "Werner SC",
+     null,
+     null,
+     "offen"
     ],
     [
+     "SpVg Emsdetten 05",
+     "SC Münster 08",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "VfL Senden",
+     "SV Burgsteinfurt",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "SV Dorsten-Hardt",
+     "SV Borussia Emsdetten",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "SV SW Lembeck",
      "SVE Heessen",
+     null,
+     null,
+     "offen"
+    ],
+    [
      "SV Rot-Weiß Deuten",
-     1,
+     "SC Altenrheine",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "ASK Ahlen",
+     "TSV Raesfeld",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "Ibbenbürener Spvg.",
+     "Hammer SpVg",
      3,
+     4,
      "gespielt"
     ]
    ],
@@ -1258,62 +1202,62 @@
   {
    "liga": "Bezirksliga Staffel 7",
    "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/bezirksliga_st__7_westfalen.html",
-   "zeitraum": "18. October 2026",
+   "zeitraum": "25. October 2026",
    "spiele": [
     [
-     "SuS Bad Westernkotten II",
      "Spielverein Westfalia Soest II",
-     1,
-     1,
-     "gespielt"
-    ],
-    [
      "SV Herbern",
-     "SpVgg Oelde",
-     0,
-     2,
-     "gespielt"
+     null,
+     null,
+     "offen"
     ],
     [
-     "RW Westönnen",
      "SC Roland 1962",
-     5,
-     1,
-     "gespielt"
-    ],
-    [
-     "DJK Vorwärts Ahlen",
-     "BV Bad Sassendorf",
-     4,
-     4,
-     "gespielt"
-    ],
-    [
-     "TuS Viktoria Rietberg",
-     "TUS Freckenhorst",
-     3,
-     0,
-     "gespielt"
-    ],
-    [
-     "Warendorfer SU",
-     "SG Sendenhorst",
-     2,
-     3,
-     "gespielt"
-    ],
-    [
      "TuS SG Oestinghausen",
-     "TuS 46/68 Uentrop",
-     4,
-     2,
-     "gespielt"
+     null,
+     null,
+     "offen"
     ],
     [
+     "TUS Freckenhorst",
+     "Warendorfer SU",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "SG Sendenhorst",
+     "DJK Vorwärts Ahlen",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "BV Bad Sassendorf",
      "SpVg Beckum",
+     null,
+     null,
+     "offen"
+    ],
+    [
      "SV Hilbeck",
-     6,
+     "SuS Bad Westernkotten II",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "SpVgg Oelde",
+     "RW Westönnen",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "TuS 46/68 Uentrop",
+     "TuS Viktoria Rietberg",
      0,
+     4,
      "gespielt"
     ]
    ],
@@ -1420,62 +1364,62 @@
   {
    "liga": "Kreisliga A1 Unna-Hamm",
    "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-kreisligen-kreisliga_a/kreisliga_a1_unna_hamm.html",
-   "zeitraum": "18. October 2026",
+   "zeitraum": "25. October 2026",
    "spiele": [
     [
-     "TuS G. Lohauserholz-Daberg II",
-     "Türk. SC Hamm",
-     1,
-     5,
-     "gespielt"
-    ],
-    [
-     "SVE Heessen II",
-     "Hammer SpVg II",
-     5,
-     1,
-     "gespielt"
-    ],
-    [
-     "SV Westfalia Rhynern II",
-     "Südener SV Hamm",
-     5,
-     1,
-     "gespielt"
-    ],
-    [
-     "SC Pelkum",
-     "SuS Rünthe 08",
-     1,
-     7,
-     "gespielt"
-    ],
-    [
-     "TSV Hamm-Heessen",
-     "TuS Wiescherhöfen II",
-     1,
-     4,
-     "gespielt"
-    ],
-    [
-     "Eintracht Werne",
      "SG Bockum-Hövel II",
-     5,
-     5,
-     "gespielt"
+     "TSV Hamm-Heessen",
+     null,
+     null,
+     "offen"
     ],
     [
+     "Türk. SC Hamm",
      "VfL Mark",
-     "Gurbet Spor Bergkamen",
-     3,
-     3,
-     "gespielt"
+     null,
+     null,
+     "offen"
     ],
     [
-     "TIU Rünthe",
      "Hammer SportClub",
+     "Eintracht Werne",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "Südener SV Hamm",
+     "SC Pelkum",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "Hammer SpVg II",
+     "SV Westfalia Rhynern II",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "SuS Rünthe 08",
+     "TuS G. Lohauserholz-Daberg II",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "Gurbet Spor Bergkamen",
+     "TIU Rünthe",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "TuS Wiescherhöfen II",
+     "SVE Heessen II",
      3,
-     3,
+     0,
      "gespielt"
     ]
    ],
