@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-21T21:57+02:00",
+ "stand": "2026-10-22T21:48+02:00",
  "quelle": "wa-mediengruppe.de (Tabellendienst der WA Mediengruppe)",
  "markiert": [
   "Rhynern",
@@ -573,13 +573,69 @@
   {
    "liga": "Regionalliga West",
    "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/regionalliga_west.html",
-   "zeitraum": "20. October 2026",
+   "zeitraum": "23. October 2026",
    "spiele": [
     [
+     "FC Gütersloh",
+     "SC Wiedenbrück",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "Bor. Dortmund II",
+     "Bonner SC",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "VfB 03 Hilden",
      "FC Schalke 04 II",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "SV Westfalia Rhynern",
+     "Bor. Mönchengladbach II",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "SV Bergisch Gladbach 09",
+     "SV Rödinghausen",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "VfL Bochum II",
+     "1. FC Bocholt",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "VfL Sportfreunde Lotte",
+     "Sportfreunde Siegen",
+     null,
+     null,
+     "offen"
+    ],
+    [
      "1. FC Köln II",
-     1,
-     3,
+     "SC Paderborn II",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "Rot-Weiß Oberhausen",
+     "SG Wattenscheid 09",
+     2,
+     2,
      "gespielt"
     ]
    ],
