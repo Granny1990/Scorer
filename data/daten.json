@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-22T21:48+02:00",
+ "stand": "2026-10-23T21:50+02:00",
  "quelle": "wa-mediengruppe.de (Tabellendienst der WA Mediengruppe)",
  "markiert": [
   "Rhynern",
@@ -197,16 +197,16 @@
     [
      "SV Darmstadt 98",
      "FC St. Pauli",
-     null,
-     null,
-     "offen"
+     0,
+     0,
+     "gespielt"
     ],
     [
      "VfL Bochum",
      "VfL Wolfsburg",
-     null,
-     null,
-     "offen"
+     1,
+     1,
+     "gespielt"
     ],
     [
      "1. FC Heidenheim",
@@ -272,10 +272,10 @@
      18
     ],
     [
-     "3. VfL Wolfsburg VfL Wolfsburg 8 4 3 1 22 :13 9 15",
-     8,
+     "3. VfL Wolfsburg VfL Wolfsburg 9 4 4 1 23 :14 9 16",
      9,
-     15
+     9,
+     16
     ],
     [
      "4. 1. FC Kaiserslautern 1. FC Kaiserslautern 8 4 3 1 8 :4 4 15",
@@ -296,10 +296,10 @@
      13
     ],
     [
-     "7. FC St. Pauli FC St. Pauli 8 2 5 1 11 :9 2 11",
-     8,
+     "7. FC St. Pauli FC St. Pauli 9 2 6 1 11 :9 2 12",
+     9,
      2,
-     11
+     12
     ],
     [
      "8. Arminia Bielefeld Arminia Bielefeld 8 3 2 3 13 :13 0 11",
@@ -338,27 +338,27 @@
      8
     ],
     [
-     "14. SV Hannover 96 SV Hannover 96 8 2 2 4 8 :13 -5 8",
+     "14. VfL Bochum VfL Bochum 9 2 2 5 6 :10 -4 8",
+     9,
+     -4,
+     8
+    ],
+    [
+     "15. SV Hannover 96 SV Hannover 96 8 2 2 4 8 :13 -5 8",
      8,
      -5,
      8
     ],
     [
-     "15. Eintr. Braunschweig Eintr. Braunschweig 8 2 1 5 13 :15 -2 7",
+     "16. SV Darmstadt 98 SV Darmstadt 98 9 2 2 5 8 :18 -10 8",
+     9,
+     -10,
+     8
+    ],
+    [
+     "17. Eintr. Braunschweig Eintr. Braunschweig 8 2 1 5 13 :15 -2 7",
      8,
      -2,
-     7
-    ],
-    [
-     "16. VfL Bochum VfL Bochum 8 2 1 5 5 :9 -4 7",
-     8,
-     -4,
-     7
-    ],
-    [
-     "17. SV Darmstadt 98 SV Darmstadt 98 8 2 1 5 8 :18 -10 7",
-     8,
-     -10,
      7
     ],
     [
@@ -373,14 +373,14 @@
   {
    "liga": "3. Liga",
    "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/3__liga.html",
-   "zeitraum": "23. October 2026 bis 24. October 2026",
+   "zeitraum": "23. October 2026",
    "spiele": [
     [
      "Rot-Weiss Essen",
      "SSV Jahn Regensburg",
-     null,
-     null,
-     "offen"
+     1,
+     0,
+     "gespielt"
     ],
     [
      "Viktoria Köln",
@@ -454,16 +454,16 @@
      25
     ],
     [
-     "2. Viktoria Köln Viktoria Köln 10 6 2 2 27 :14 13 20",
+     "2. Rot-Weiss Essen Rot-Weiss Essen 11 6 3 2 19 :13 6 21",
+     11,
+     6,
+     21
+    ],
+    [
+     "3. Viktoria Köln Viktoria Köln 10 6 2 2 27 :14 13 20",
      10,
      13,
      20
-    ],
-    [
-     "3. Rot-Weiss Essen Rot-Weiss Essen 10 5 3 2 18 :13 5 18",
-     10,
-     5,
-     18
     ],
     [
      "4. 1. FC Saarbrücken 1. FC Saarbrücken 10 5 2 3 24 :17 7 17",
@@ -550,9 +550,9 @@
      11
     ],
     [
-     "18. SSV Jahn Regensburg SSV Jahn Regensburg 10 2 4 4 20 :19 1 10",
-     10,
-     1,
+     "18. SSV Jahn Regensburg SSV Jahn Regensburg 11 2 4 5 20 :20 0 10",
+     11,
+     0,
      10
     ],
     [
@@ -578,16 +578,16 @@
     [
      "FC Gütersloh",
      "SC Wiedenbrück",
-     null,
-     null,
-     "offen"
+     3,
+     1,
+     "gespielt"
     ],
     [
      "Bor. Dortmund II",
      "Bonner SC",
-     null,
-     null,
-     "offen"
+     2,
+     0,
+     "gespielt"
     ],
     [
      "VfB 03 Hilden",
@@ -641,27 +641,27 @@
    ],
    "tabelle": [
     [
-     "1. Rot-Weiß Oberhausen Rot-Weiß Oberhausen 13 10 1 2 32 :13 19 31",
+     "1. Bor. Dortmund II Bor. Dortmund II 14 10 4 0 32 :15 17 34",
+     14,
+     17,
+     34
+    ],
+    [
+     "2. Rot-Weiß Oberhausen Rot-Weiß Oberhausen 13 10 1 2 32 :13 19 31",
      13,
      19,
      31
     ],
     [
-     "2. Bor. Dortmund II Bor. Dortmund II 13 9 4 0 30 :15 15 31",
-     13,
-     15,
-     31
+     "3. FC Gütersloh FC Gütersloh 14 9 2 3 31 :20 11 29",
+     14,
+     11,
+     29
     ],
     [
-     "3. Bor. Mönchengladbach II Bor. Mönchengladbach II 13 8 2 3 29 :15 14 26",
+     "4. Bor. Mönchengladbach II Bor. Mönchengladbach II 13 8 2 3 29 :15 14 26",
      13,
      14,
-     26
-    ],
-    [
-     "4. FC Gütersloh FC Gütersloh 13 8 2 3 28 :19 9 26",
-     13,
-     9,
      26
     ],
     [
@@ -683,9 +683,9 @@
      19
     ],
     [
-     "8. Bonner SC Bonner SC 13 4 6 3 26 :23 3 18",
-     13,
-     3,
+     "8. Bonner SC Bonner SC 14 4 6 4 26 :25 1 18",
+     14,
+     1,
      18
     ],
     [
@@ -737,9 +737,9 @@
      9
     ],
     [
-     "17. SC Wiedenbrück SC Wiedenbrück 13 2 2 9 18 :35 -17 8",
-     13,
-     -17,
+     "17. SC Wiedenbrück SC Wiedenbrück 14 2 2 10 19 :38 -19 8",
+     14,
+     -19,
      8
     ],
     [
@@ -973,15 +973,15 @@
      "offen"
     ],
     [
-     "FC Kaunitz",
-     "SV Eintracht Ahaus",
+     "FC RW Kirchlengern",
+     "SV Mesum",
      null,
      null,
      "offen"
     ],
     [
-     "FC RW Kirchlengern",
-     "SV Mesum",
+     "FC Kaunitz",
+     "SV Eintracht Ahaus",
      2,
      4,
      "gespielt"
