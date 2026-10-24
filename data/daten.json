@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-24T20:38+02:00",
+ "stand": "2026-10-24T23:25+02:00",
  "quelle": "wa-mediengruppe.de (Tabellendienst der WA Mediengruppe)",
  "markiert": [
   "Rhynern",
@@ -232,9 +232,9 @@
     [
      "1. FC Nürnberg",
      "1. FC Kaiserslautern",
-     null,
-     null,
-     "offen"
+     0,
+     1,
+     "gespielt"
     ],
     [
      "KSV Holstein Kiel",
@@ -266,28 +266,28 @@
      25
     ],
     [
-     "2. 1. FC Nürnberg 1. FC Nürnberg 8 5 3 0 21 :11 10 18",
-     8,
-     10,
+     "2. 1. FC Nürnberg 1. FC Nürnberg 9 5 3 1 21 :12 9 18",
+     9,
+     9,
      18
     ],
     [
-     "3. VfL Wolfsburg VfL Wolfsburg 9 4 4 1 23 :14 9 16",
+     "3. 1. FC Kaiserslautern 1. FC Kaiserslautern 9 5 3 1 9 :4 5 18",
+     9,
+     5,
+     18
+    ],
+    [
+     "4. VfL Wolfsburg VfL Wolfsburg 9 4 4 1 23 :14 9 16",
      9,
      9,
      16
     ],
     [
-     "4. 1. FC Magdeburg 1. FC Magdeburg 9 5 1 3 20 :12 8 16",
+     "5. 1. FC Magdeburg 1. FC Magdeburg 9 5 1 3 20 :12 8 16",
      9,
      8,
      16
-    ],
-    [
-     "5. 1. FC Kaiserslautern 1. FC Kaiserslautern 8 4 3 1 8 :4 4 15",
-     8,
-     4,
-     15
     ],
     [
      "6. 1. FC Heidenheim 1. FC Heidenheim 9 4 3 2 16 :16 0 15",
