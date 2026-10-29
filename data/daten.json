@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-28T22:50+02:00",
+ "stand": "2026-10-29T22:55+02:00",
  "quelle": "wa-mediengruppe.de (Tabellendienst der WA Mediengruppe)",
  "markiert": [
   "Rhynern",
@@ -935,14 +935,14 @@
   {
    "liga": "Westfalenliga Staffel 1",
    "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/westfalenliga_1.html",
-   "zeitraum": "29. October 2026 bis 30. October 2026",
+   "zeitraum": "29. October 2026",
    "spiele": [
     [
      "FC Kaunitz",
      "FSC Rheda",
-     null,
-     null,
-     "offen"
+     2,
+     1,
+     "gespielt"
     ],
     [
      "Rot Weiss Ahlen",
@@ -960,9 +960,9 @@
      28
     ],
     [
-     "2. FSC Rheda FSC Rheda 12 8 1 3 27 :16 11 25",
-     12,
-     11,
+     "2. FSC Rheda FSC Rheda 13 8 1 4 28 :18 10 25",
+     13,
+     10,
      25
     ],
     [
@@ -1044,10 +1044,10 @@
      8
     ],
     [
-     "16. FC Kaunitz FC Kaunitz 12 0 0 12 11 :46 -35 0",
-     12,
-     -35,
-     0
+     "16. FC Kaunitz FC Kaunitz 13 1 0 12 13 :47 -34 3",
+     13,
+     -34,
+     3
     ]
    ],
    "fehler": null
