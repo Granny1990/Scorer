@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-31T21:45+02:00",
+ "stand": "2026-11-01T22:19+02:00",
  "quelle": "wa-mediengruppe.de (Tabellendienst der WA Mediengruppe)",
  "markiert": [
   "Rhynern",
@@ -58,37 +58,37 @@
     [
      "FC Bayern München",
      "Borussia Dortmund",
-     null,
-     null,
-     "offen"
+     2,
+     2,
+     "gespielt"
     ],
     [
      "1. FC Union Berlin",
      "1. FC Köln",
-     null,
-     null,
-     "offen"
+     1,
+     1,
+     "gespielt"
     ],
     [
      "Eintracht Frankfurt",
      "Hamburger SV",
-     2,
+     3,
      1,
      "gespielt"
     ]
    ],
    "tabelle": [
     [
-     "1. FC Bayern München FC Bayern München 7 5 2 0 25 :6 19 17",
-     7,
+     "1. FC Bayern München FC Bayern München 8 5 3 0 27 :8 19 18",
+     8,
      19,
-     17
+     18
     ],
     [
-     "2. Borussia Dortmund Borussia Dortmund 7 5 2 0 12 :4 8 17",
-     7,
+     "2. Borussia Dortmund Borussia Dortmund 8 5 3 0 14 :6 8 18",
      8,
-     17
+     8,
+     18
     ],
     [
      "3. SC Freiburg SC Freiburg 8 5 1 2 18 :10 8 16",
@@ -121,63 +121,63 @@
      13
     ],
     [
-     "8. 1. FSV Mainz 05 1. FSV Mainz 05 8 3 1 4 17 :17 0 10",
+     "8. Eintracht Frankfurt Eintracht Frankfurt 8 3 2 3 13 :18 -5 11",
+     8,
+     -5,
+     11
+    ],
+    [
+     "9. 1. FSV Mainz 05 1. FSV Mainz 05 8 3 1 4 17 :17 0 10",
      8,
      0,
      10
     ],
     [
-     "9. FC Augsburg FC Augsburg 8 2 3 3 18 :15 3 9",
+     "10. FC Augsburg FC Augsburg 8 2 3 3 18 :15 3 9",
      8,
      3,
      9
     ],
     [
-     "10. VfB Stuttgart VfB Stuttgart 8 3 0 5 14 :15 -1 9",
+     "11. VfB Stuttgart VfB Stuttgart 8 3 0 5 14 :15 -1 9",
      8,
      -1,
      9
     ],
     [
-     "11. TSG 1899 Hoffenheim TSG 1899 Hoffenheim 8 3 0 5 14 :16 -2 9",
+     "12. TSG 1899 Hoffenheim TSG 1899 Hoffenheim 8 3 0 5 14 :16 -2 9",
      8,
      -2,
      9
     ],
     [
-     "12. SC Paderborn SC Paderborn 8 2 3 3 6 :9 -3 9",
+     "13. 1. FC Köln 1. FC Köln 8 2 3 3 9 :12 -3 9",
      8,
      -3,
      9
     ],
     [
-     "13. Hamburger SV Hamburger SV 7 3 0 4 6 :16 -10 9",
-     7,
-     -10,
+     "14. SC Paderborn SC Paderborn 8 2 3 3 6 :9 -3 9",
+     8,
+     -3,
      9
     ],
     [
-     "14. 1. FC Köln 1. FC Köln 7 2 2 3 8 :11 -3 8",
-     7,
-     -3,
-     8
+     "15. Hamburger SV Hamburger SV 8 3 0 5 7 :19 -12 9",
+     8,
+     -12,
+     9
     ],
     [
-     "15. Eintracht Frankfurt Eintracht Frankfurt 7 2 2 3 10 :17 -7 8",
-     7,
-     -7,
-     8
+     "16. 1. FC Union Berlin 1. FC Union Berlin 8 1 4 3 7 :19 -12 7",
+     8,
+     -12,
+     7
     ],
     [
-     "16. FC Schalke 04 FC Schalke 04 8 1 3 4 4 :9 -5 6",
+     "17. FC Schalke 04 FC Schalke 04 8 1 3 4 4 :9 -5 6",
      8,
      -5,
-     6
-    ],
-    [
-     "17. 1. FC Union Berlin 1. FC Union Berlin 7 1 3 3 6 :18 -12 6",
-     7,
-     -12,
      6
     ],
     [
@@ -232,28 +232,28 @@
     [
      "Karlsruher SC",
      "1. FC Heidenheim",
-     null,
-     null,
-     "offen"
+     2,
+     1,
+     "gespielt"
     ],
     [
      "FC St. Pauli",
      "1. FC Nürnberg",
-     null,
-     null,
-     "offen"
+     1,
+     3,
+     "gespielt"
     ],
     [
      "SV Hannover 96",
      "Dynamo Dresden",
-     null,
-     null,
-     "offen"
+     2,
+     1,
+     "gespielt"
     ],
     [
      "SpVgg Greuther Fürth",
      "KSV Holstein Kiel",
-     0,
+     1,
      0,
      "gespielt"
     ]
@@ -266,16 +266,16 @@
      28
     ],
     [
-     "2. VfL Wolfsburg VfL Wolfsburg 10 5 4 1 25 :14 11 19",
+     "2. 1. FC Nürnberg 1. FC Nürnberg 10 6 3 1 24 :13 11 21",
+     10,
+     11,
+     21
+    ],
+    [
+     "3. VfL Wolfsburg VfL Wolfsburg 10 5 4 1 25 :14 11 19",
      10,
      11,
      19
-    ],
-    [
-     "3. 1. FC Nürnberg 1. FC Nürnberg 9 5 3 1 21 :12 9 18",
-     9,
-     9,
-     18
     ],
     [
      "4. 1. FC Kaiserslautern 1. FC Kaiserslautern 10 5 3 2 9 :7 2 18",
@@ -290,9 +290,9 @@
      17
     ],
     [
-     "6. 1. FC Heidenheim 1. FC Heidenheim 9 4 3 2 16 :16 0 15",
-     9,
-     0,
+     "6. 1. FC Heidenheim 1. FC Heidenheim 10 4 3 3 17 :18 -1 15",
+     10,
+     -1,
      15
     ],
     [
@@ -302,69 +302,69 @@
      14
     ],
     [
-     "8. FC St. Pauli FC St. Pauli 9 2 6 1 11 :9 2 12",
-     9,
-     2,
+     "8. FC St. Pauli FC St. Pauli 10 2 6 2 12 :12 0 12",
+     10,
+     0,
      12
     ],
     [
-     "10. VfL Bochum VfL Bochum 10 3 2 5 8 :11 -3 11",
+     "9. SpVgg Greuther Fürth SpVgg Greuther Fürth 10 3 3 4 13 :16 -3 12",
+     10,
+     -3,
+     12
+    ],
+    [
+     "10. VfL Osnabrück VfL Osnabrück 10 3 2 5 14 :17 -3 11",
      10,
      -3,
      11
     ],
     [
-     "9. VfL Osnabrück VfL Osnabrück 10 3 2 5 14 :17 -3 11",
+     "11. VfL Bochum VfL Bochum 10 3 2 5 8 :11 -3 11",
      10,
      -3,
      11
     ],
     [
-     "11. FC Energie Cottbus FC Energie Cottbus 10 2 4 4 18 :20 -2 10",
+     "12. SV Hannover 96 SV Hannover 96 10 3 2 5 10 :16 -6 11",
+     10,
+     -6,
+     11
+    ],
+    [
+     "13. Karlsruher SC Karlsruher SC 10 3 2 5 13 :21 -8 11",
+     10,
+     -8,
+     11
+    ],
+    [
+     "14. FC Energie Cottbus FC Energie Cottbus 10 2 4 4 18 :20 -2 10",
      10,
      -2,
      10
     ],
     [
-     "12. Eintr. Braunschweig Eintr. Braunschweig 10 3 1 6 16 :18 -2 10",
+     "15. Eintr. Braunschweig Eintr. Braunschweig 10 3 1 6 16 :18 -2 10",
      10,
      -2,
      10
     ],
     [
-     "13. SpVgg Greuther Fürth SpVgg Greuther Fürth 9 2 3 4 12 :16 -4 9",
-     9,
-     -4,
-     9
-    ],
-    [
-     "14. SV Darmstadt 98 SV Darmstadt 98 10 2 3 5 9 :19 -10 9",
+     "16. SV Darmstadt 98 SV Darmstadt 98 10 2 3 5 9 :19 -10 9",
      10,
      -10,
      9
     ],
     [
-     "15. KSV Holstein Kiel KSV Holstein Kiel 9 1 5 3 10 :11 -1 8",
-     9,
-     -1,
+     "17. KSV Holstein Kiel KSV Holstein Kiel 10 1 5 4 10 :12 -2 8",
+     10,
+     -2,
      8
     ],
     [
-     "16. Dynamo Dresden Dynamo Dresden 9 2 2 5 11 :18 -7 8",
-     9,
-     -7,
-     8
-    ],
-    [
-     "17. SV Hannover 96 SV Hannover 96 9 2 2 5 8 :15 -7 8",
-     9,
-     -7,
-     8
-    ],
-    [
-     "18. Karlsruher SC Karlsruher SC 9 2 2 5 11 :20 -9 8",
-     9,
-     -9,
+     "18. Dynamo Dresden Dynamo Dresden 10 2 2 6 12 :20 -8 8",
+     10,
+     -8,
      8
     ]
    ],
@@ -427,16 +427,16 @@
     [
      "1. FC Saarbrücken",
      "Waldhof Mannheim",
-     null,
-     null,
-     "offen"
+     2,
+     1,
+     "gespielt"
     ],
     [
      "SG Großaspach",
      "Rot-Weiss Essen",
-     null,
-     null,
-     "offen"
+     0,
+     1,
+     "gespielt"
     ],
     [
      "TSV Alemannia Aachen",
@@ -460,28 +460,28 @@
      26
     ],
     [
-     "3. Rot-Weiss Essen Rot-Weiss Essen 11 6 3 2 19 :13 6 21",
-     11,
-     6,
-     21
+     "3. Rot-Weiss Essen Rot-Weiss Essen 12 7 3 2 20 :13 7 24",
+     12,
+     7,
+     24
     ],
     [
-     "4. SV Wehen Wiesbaden SV Wehen Wiesbaden 12 5 3 4 23 :17 6 18",
+     "4. 1. FC Saarbrücken 1. FC Saarbrücken 12 6 2 4 28 :21 7 20",
+     12,
+     7,
+     20
+    ],
+    [
+     "5. SV Wehen Wiesbaden SV Wehen Wiesbaden 12 5 3 4 23 :17 6 18",
      12,
      6,
      18
     ],
     [
-     "5. FC Ingolstadt 04 FC Ingolstadt 04 12 5 3 4 16 :17 -1 18",
+     "6. FC Ingolstadt 04 FC Ingolstadt 04 12 5 3 4 16 :17 -1 18",
      12,
      -1,
      18
-    ],
-    [
-     "6. 1. FC Saarbrücken 1. FC Saarbrücken 11 5 2 4 26 :20 6 17",
-     11,
-     6,
-     17
     ],
     [
      "7. TSV Alemannia Aachen TSV Alemannia Aachen 11 5 2 4 17 :17 0 17",
@@ -490,9 +490,9 @@
      17
     ],
     [
-     "8. Waldhof Mannheim Waldhof Mannheim 11 5 1 5 20 :17 3 16",
-     11,
-     3,
+     "8. Waldhof Mannheim Waldhof Mannheim 12 5 1 6 21 :19 2 16",
+     12,
+     2,
      16
     ],
     [
@@ -550,9 +550,9 @@
      12
     ],
     [
-     "18. SG Großaspach SG Großaspach 11 3 3 5 13 :25 -12 12",
-     11,
-     -12,
+     "18. SG Großaspach SG Großaspach 12 3 3 6 13 :26 -13 12",
+     12,
+     -13,
      12
     ],
     [
@@ -671,14 +671,14 @@
      28
     ],
     [
-     "6. Bonner SC Bonner SC 15 5 6 4 29 :26 3 21",
+     "6. 1. FC Köln II 1. FC Köln II 15 6 4 5 30 :27 3 22",
      15,
      3,
-     21
+     22
     ],
     [
-     "7. 1. FC Köln II 1. FC Köln II 14 6 3 5 28 :25 3 21",
-     14,
+     "7. Bonner SC Bonner SC 15 5 6 4 29 :26 3 21",
+     15,
      3,
      21
     ],
@@ -701,15 +701,15 @@
      19
     ],
     [
-     "11. SC Paderborn II SC Paderborn II 14 4 5 5 24 :25 -1 17",
-     14,
-     -1,
-     17
+     "11. 1. FC Bocholt 1. FC Bocholt 15 4 6 5 31 :34 -3 18",
+     15,
+     -3,
+     18
     ],
     [
-     "12. 1. FC Bocholt 1. FC Bocholt 14 4 5 5 29 :32 -3 17",
+     "12. SC Paderborn II SC Paderborn II 14 4 5 5 24 :25 -1 17",
      14,
-     -3,
+     -1,
      17
     ],
     [
@@ -1334,8 +1334,8 @@
     [
      "Türk. SC Hamm",
      "VfL Mark",
-     3,
-     0,
+     5,
+     1,
      "gespielt"
     ]
    ],
@@ -1353,21 +1353,21 @@
      28
     ],
     [
-     "3. Eintracht Werne Eintracht Werne 12 7 2 3 53 :30 23 23",
+     "3. Türk. SC Hamm Türk. SC Hamm 12 8 2 2 40 :24 16 26",
+     12,
+     16,
+     26
+    ],
+    [
+     "4. Eintracht Werne Eintracht Werne 12 7 2 3 53 :30 23 23",
      12,
      23,
      23
     ],
     [
-     "4. VfL Mark VfL Mark 11 7 2 2 32 :13 19 23",
-     11,
-     19,
-     23
-    ],
-    [
-     "5. Türk. SC Hamm Türk. SC Hamm 11 7 2 2 35 :23 12 23",
-     11,
+     "5. VfL Mark VfL Mark 12 7 2 3 33 :18 15 23",
      12,
+     15,
      23
     ],
     [
