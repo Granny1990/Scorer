@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-04T23:44+02:00",
+ "stand": "2026-11-05T23:48+02:00",
  "quelle": "wa-mediengruppe.de (Tabellendienst der WA Mediengruppe)",
  "markiert": [
   "Rhynern",
@@ -754,8 +754,15 @@
   {
    "liga": "Oberliga Westfalen",
    "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/oberliga_westfalen.html",
-   "zeitraum": "07. November 2026 bis 08. November 2026",
+   "zeitraum": "06. November 2026 bis 07. November 2026",
    "spiele": [
+    [
+     "SC Verl II",
+     "DSC Arminia Bielefeld II",
+     null,
+     null,
+     "offen"
+    ],
     [
      "SC RW Maaslingen",
      "SV Lippstadt",
@@ -778,20 +785,6 @@
      "offen"
     ],
     [
-     "DSC Arminia Bielefeld II",
-     "SC Verl II",
-     null,
-     null,
-     "offen"
-    ],
-    [
-     "SC Preußen Münster II",
-     "ASC 09 Dortmund",
-     null,
-     null,
-     "offen"
-    ],
-    [
      "SpVgg Erkenschwick",
      "SpVgg Horsthausen",
      null,
@@ -801,6 +794,13 @@
     [
      "1. FC Gievenbeck",
      "TSG Sprockhövel",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "SC Preußen Münster II",
+     "ASC 09 Dortmund",
      null,
      null,
      "offen"
@@ -942,6 +942,55 @@
      "SF Ostinghausen",
      0,
      1,
+     "gespielt"
+    ],
+    [
+     "FSC Rheda",
+     "FC Nordkirchen",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "SuS Bad Westernkotten",
+     "FC Kaunitz",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "SuS Neuenkirchen",
+     "Grün-Weiß Nottuln",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "SC Peckeloh",
+     "SC Herford",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "SV Eintracht Ahaus",
+     "VfL Theesen",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "Lüner SV",
+     "FC RW Kirchlengern",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "SV Mesum",
+     "Rot Weiss Ahlen",
+     2,
+     4,
      "gespielt"
     ]
    ],
