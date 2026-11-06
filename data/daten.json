@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-05T23:48+02:00",
+ "stand": "2026-11-06T23:21+02:00",
  "quelle": "wa-mediengruppe.de (Tabellendienst der WA Mediengruppe)",
  "markiert": [
   "Rhynern",
@@ -197,16 +197,16 @@
     [
      "Dynamo Dresden",
      "SpVgg Greuther Fürth",
-     null,
-     null,
-     "offen"
+     3,
+     0,
+     "gespielt"
     ],
     [
      "Eintr. Braunschweig",
      "FC Energie Cottbus",
-     null,
-     null,
-     "offen"
+     0,
+     0,
+     "gespielt"
     ],
     [
      "1. FC Nürnberg",
@@ -308,63 +308,63 @@
      12
     ],
     [
-     "9. SpVgg Greuther Fürth SpVgg Greuther Fürth 10 3 3 4 13 :16 -3 12",
-     10,
-     -3,
+     "9. SpVgg Greuther Fürth SpVgg Greuther Fürth 11 3 3 5 13 :19 -6 12",
+     11,
+     -6,
      12
     ],
     [
-     "10. VfL Osnabrück VfL Osnabrück 10 3 2 5 14 :17 -3 11",
+     "10. FC Energie Cottbus FC Energie Cottbus 11 2 5 4 18 :20 -2 11",
+     11,
+     -2,
+     11
+    ],
+    [
+     "11. Eintr. Braunschweig Eintr. Braunschweig 11 3 2 6 16 :18 -2 11",
+     11,
+     -2,
+     11
+    ],
+    [
+     "12. VfL Osnabrück VfL Osnabrück 10 3 2 5 14 :17 -3 11",
      10,
      -3,
      11
     ],
     [
-     "11. VfL Bochum VfL Bochum 10 3 2 5 8 :11 -3 11",
+     "13. VfL Bochum VfL Bochum 10 3 2 5 8 :11 -3 11",
      10,
      -3,
      11
     ],
     [
-     "12. SV Hannover 96 SV Hannover 96 10 3 2 5 10 :16 -6 11",
+     "14. Dynamo Dresden Dynamo Dresden 11 3 2 6 15 :20 -5 11",
+     11,
+     -5,
+     11
+    ],
+    [
+     "15. SV Hannover 96 SV Hannover 96 10 3 2 5 10 :16 -6 11",
      10,
      -6,
      11
     ],
     [
-     "13. Karlsruher SC Karlsruher SC 10 3 2 5 13 :21 -8 11",
+     "16. Karlsruher SC Karlsruher SC 10 3 2 5 13 :21 -8 11",
      10,
      -8,
      11
     ],
     [
-     "14. FC Energie Cottbus FC Energie Cottbus 10 2 4 4 18 :20 -2 10",
-     10,
-     -2,
-     10
-    ],
-    [
-     "15. Eintr. Braunschweig Eintr. Braunschweig 10 3 1 6 16 :18 -2 10",
-     10,
-     -2,
-     10
-    ],
-    [
-     "16. SV Darmstadt 98 SV Darmstadt 98 10 2 3 5 9 :19 -10 9",
+     "17. SV Darmstadt 98 SV Darmstadt 98 10 2 3 5 9 :19 -10 9",
      10,
      -10,
      9
     ],
     [
-     "17. KSV Holstein Kiel KSV Holstein Kiel 10 1 5 4 10 :12 -2 8",
+     "18. KSV Holstein Kiel KSV Holstein Kiel 10 1 5 4 10 :12 -2 8",
      10,
      -2,
-     8
-    ],
-    [
-     "18. Dynamo Dresden Dynamo Dresden 10 2 2 6 12 :20 -8 8",
-     10,
-     -8,
      8
     ]
    ],
@@ -373,14 +373,14 @@
   {
    "liga": "3. Liga",
    "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/3__liga.html",
-   "zeitraum": "06. November 2026 bis 07. November 2026",
+   "zeitraum": "06. November 2026",
    "spiele": [
     [
      "Viktoria Köln",
      "1. FC Saarbrücken",
-     null,
-     null,
-     "offen"
+     5,
+     3,
+     "gespielt"
     ],
     [
      "Rot-Weiss Essen",
@@ -448,10 +448,10 @@
    ],
    "tabelle": [
     [
-     "1. Viktoria Köln Viktoria Köln 12 8 2 2 31 :15 16 26",
-     12,
-     16,
-     26
+     "1. Viktoria Köln Viktoria Köln 13 9 2 2 36 :18 18 29",
+     13,
+     18,
+     29
     ],
     [
      "2. MSV Duisburg MSV Duisburg 12 8 2 2 31 :17 14 26",
@@ -466,9 +466,9 @@
      24
     ],
     [
-     "4. 1. FC Saarbrücken 1. FC Saarbrücken 12 6 2 4 28 :21 7 20",
-     12,
-     7,
+     "4. 1. FC Saarbrücken 1. FC Saarbrücken 13 6 2 5 31 :26 5 20",
+     13,
+     5,
      20
     ],
     [
@@ -578,16 +578,16 @@
     [
      "FC Schalke 04 II",
      "Bor. Mönchengladbach II",
-     null,
-     null,
-     "offen"
+     0,
+     7,
+     "gespielt"
     ],
     [
      "VfB 03 Hilden",
      "SV Rödinghausen",
-     null,
-     null,
-     "offen"
+     1,
+     1,
+     "gespielt"
     ],
     [
      "Bonner SC",
@@ -653,16 +653,16 @@
      34
     ],
     [
-     "3. FC Gütersloh FC Gütersloh 15 10 2 3 32 :20 12 32",
-     15,
-     12,
+     "3. Bor. Mönchengladbach II Bor. Mönchengladbach II 16 10 2 4 41 :18 23 32",
+     16,
+     23,
      32
     ],
     [
-     "4. Bor. Mönchengladbach II Bor. Mönchengladbach II 15 9 2 4 34 :18 16 29",
+     "4. FC Gütersloh FC Gütersloh 15 10 2 3 32 :20 12 32",
      15,
-     16,
-     29
+     12,
+     32
     ],
     [
      "5. Sportfreunde Siegen Sportfreunde Siegen 15 8 4 3 36 :20 16 28",
@@ -689,16 +689,16 @@
      21
     ],
     [
-     "9. FC Schalke 04 II FC Schalke 04 II 15 6 2 7 29 :29 0 20",
-     15,
-     0,
+     "9. FC Schalke 04 II FC Schalke 04 II 16 6 2 8 29 :36 -7 20",
+     16,
+     -7,
      20
     ],
     [
-     "10. VfB 03 Hilden VfB 03 Hilden 15 5 4 6 19 :27 -8 19",
-     15,
+     "10. VfB 03 Hilden VfB 03 Hilden 16 5 5 6 20 :28 -8 20",
+     16,
      -8,
-     19
+     20
     ],
     [
      "11. 1. FC Bocholt 1. FC Bocholt 15 4 6 5 31 :34 -3 18",
@@ -725,10 +725,10 @@
      15
     ],
     [
-     "15. SV Rödinghausen SV Rödinghausen 15 3 4 8 25 :31 -6 13",
-     15,
+     "15. SV Rödinghausen SV Rödinghausen 16 3 5 8 26 :32 -6 14",
+     16,
      -6,
-     13
+     14
     ],
     [
      "16. SG Wattenscheid 09 SG Wattenscheid 09 15 3 4 8 19 :28 -9 13",
@@ -754,14 +754,14 @@
   {
    "liga": "Oberliga Westfalen",
    "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/oberliga_westfalen.html",
-   "zeitraum": "06. November 2026 bis 07. November 2026",
+   "zeitraum": "06. November 2026",
    "spiele": [
     [
      "SC Verl II",
      "DSC Arminia Bielefeld II",
-     null,
-     null,
-     "offen"
+     2,
+     3,
+     "gespielt"
     ],
     [
      "SC RW Maaslingen",
@@ -834,21 +834,21 @@
      24
     ],
     [
-     "3. SC RW Maaslingen SC RW Maaslingen 12 7 1 4 23 :17 6 22",
+     "3. DSC Arminia Bielefeld II DSC Arminia Bielefeld II 13 7 3 3 25 :18 7 24",
+     13,
+     7,
+     24
+    ],
+    [
+     "4. SC RW Maaslingen SC RW Maaslingen 12 7 1 4 23 :17 6 22",
      12,
      6,
      22
     ],
     [
-     "4. FC Eintracht Rheine FC Eintracht Rheine 12 6 3 3 26 :19 7 21",
+     "5. FC Eintracht Rheine FC Eintracht Rheine 12 6 3 3 26 :19 7 21",
      12,
      7,
-     21
-    ],
-    [
-     "5. DSC Arminia Bielefeld II DSC Arminia Bielefeld II 12 6 3 3 22 :16 6 21",
-     12,
-     6,
      21
     ],
     [
@@ -882,9 +882,9 @@
      18
     ],
     [
-     "11. SC Verl II SC Verl II 12 5 2 5 23 :19 4 17",
-     12,
-     4,
+     "11. SC Verl II SC Verl II 13 5 2 6 25 :22 3 17",
+     13,
+     3,
      17
     ],
     [
@@ -935,15 +935,8 @@
   {
    "liga": "Westfalenliga Staffel 1",
    "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/westfalenliga_1.html",
-   "zeitraum": "04. November 2026",
+   "zeitraum": "07. November 2026 bis 08. November 2026",
    "spiele": [
-    [
-     "SV Rödinghausen II",
-     "SF Ostinghausen",
-     0,
-     1,
-     "gespielt"
-    ],
     [
      "FSC Rheda",
      "FC Nordkirchen",
@@ -954,6 +947,13 @@
     [
      "SuS Bad Westernkotten",
      "FC Kaunitz",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "Lüner SV",
+     "FC RW Kirchlengern",
      null,
      null,
      "offen"
@@ -975,13 +975,6 @@
     [
      "SV Eintracht Ahaus",
      "VfL Theesen",
-     null,
-     null,
-     "offen"
-    ],
-    [
-     "Lüner SV",
-     "FC RW Kirchlengern",
      null,
      null,
      "offen"
@@ -1100,6 +1093,13 @@
    "zeitraum": "08. November 2026",
    "spiele": [
     [
+     "TSV Raesfeld",
+     "SV Dorsten-Hardt",
+     null,
+     null,
+     "offen"
+    ],
+    [
      "SpVg Emsdetten 05",
      "Werner SC",
      null,
@@ -1130,13 +1130,6 @@
     [
      "Hammer SpVg",
      "ASK Ahlen",
-     null,
-     null,
-     "offen"
-    ],
-    [
-     "TSV Raesfeld",
-     "SV Dorsten-Hardt",
      null,
      null,
      "offen"
