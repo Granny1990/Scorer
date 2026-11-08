@@ -1,0 +1,1569 @@
+{
+ "stand": "2026-11-08T22:15+02:00",
+ "quelle": "wa-mediengruppe.de (Tabellendienst der WA Mediengruppe)",
+ "markiert": [
+  "Rhynern",
+  "Hilbeck",
+  "Hammer SpVg",
+  "Rot Weiss Ahlen"
+ ],
+ "ligen": [
+  {
+   "liga": "Bundesliga",
+   "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/bundesliga.html",
+   "zeitraum": "06. November 2026",
+   "spiele": [
+    [
+     "Hamburger SV",
+     "Bor. Mönchengladbach",
+     3,
+     1,
+     "gespielt"
+    ],
+    [
+     "Borussia Dortmund",
+     "SV Elversberg",
+     2,
+     1,
+     "gespielt"
+    ],
+    [
+     "RB Leipzig",
+     "FC Augsburg",
+     5,
+     2,
+     "gespielt"
+    ],
+    [
+     "1. FSV Mainz 05",
+     "FC Bayern München",
+     1,
+     2,
+     "gespielt"
+    ],
+    [
+     "SC Paderborn",
+     "Eintracht Frankfurt",
+     2,
+     2,
+     "gespielt"
+    ],
+    [
+     "VfB Stuttgart",
+     "SV Werder Bremen",
+     1,
+     0,
+     "gespielt"
+    ],
+    [
+     "1. FC Köln",
+     "Bayer 04 Leverkusen",
+     1,
+     2,
+     "gespielt"
+    ],
+    [
+     "SC Freiburg",
+     "1. FC Union Berlin",
+     2,
+     0,
+     "gespielt"
+    ],
+    [
+     "TSG 1899 Hoffenheim",
+     "FC Schalke 04",
+     1,
+     2,
+     "gespielt"
+    ]
+   ],
+   "tabelle": [
+    [
+     "1. FC Bayern München FC Bayern München 9 6 3 0 29 :9 20 21",
+     9,
+     20,
+     21
+    ],
+    [
+     "2. Borussia Dortmund Borussia Dortmund 9 6 3 0 16 :7 9 21",
+     9,
+     9,
+     21
+    ],
+    [
+     "3. SC Freiburg SC Freiburg 9 6 1 2 20 :10 10 19",
+     9,
+     10,
+     19
+    ],
+    [
+     "4. RB Leipzig RB Leipzig 9 6 0 3 27 :13 14 18",
+     9,
+     14,
+     18
+    ],
+    [
+     "5. Bayer 04 Leverkusen Bayer 04 Leverkusen 9 5 1 3 20 :17 3 16",
+     9,
+     3,
+     16
+    ],
+    [
+     "6. SV Werder Bremen SV Werder Bremen 9 4 3 2 17 :15 2 15",
+     9,
+     2,
+     15
+    ],
+    [
+     "7. SV Elversberg SV Elversberg 9 4 1 4 17 :18 -1 13",
+     9,
+     -1,
+     13
+    ],
+    [
+     "8. VfB Stuttgart VfB Stuttgart 9 4 0 5 15 :15 0 12",
+     9,
+     0,
+     12
+    ],
+    [
+     "9. Eintracht Frankfurt Eintracht Frankfurt 9 3 3 3 15 :20 -5 12",
+     9,
+     -5,
+     12
+    ],
+    [
+     "10. Hamburger SV Hamburger SV 9 4 0 5 10 :20 -10 12",
+     9,
+     -10,
+     12
+    ],
+    [
+     "11. 1. FSV Mainz 05 1. FSV Mainz 05 9 3 1 5 18 :19 -1 10",
+     9,
+     -1,
+     10
+    ],
+    [
+     "12. SC Paderborn SC Paderborn 9 2 4 3 8 :11 -3 10",
+     9,
+     -3,
+     10
+    ],
+    [
+     "13. FC Augsburg FC Augsburg 9 2 3 4 20 :20 0 9",
+     9,
+     0,
+     9
+    ],
+    [
+     "14. TSG 1899 Hoffenheim TSG 1899 Hoffenheim 8 3 0 5 14 :16 -2 9",
+     8,
+     -2,
+     9
+    ],
+    [
+     "15. 1. FC Köln 1. FC Köln 9 2 3 4 10 :14 -4 9",
+     9,
+     -4,
+     9
+    ],
+    [
+     "16. 1. FC Union Berlin 1. FC Union Berlin 9 1 4 4 7 :21 -14 7",
+     9,
+     -14,
+     7
+    ],
+    [
+     "17. FC Schalke 04 FC Schalke 04 8 1 3 4 4 :9 -5 6",
+     8,
+     -5,
+     6
+    ],
+    [
+     "18. Bor. Mönchengladbach Bor. Mönchengladbach 9 1 1 7 12 :25 -13 4",
+     9,
+     -13,
+     4
+    ]
+   ],
+   "fehler": null
+  },
+  {
+   "liga": "2. Bundesliga",
+   "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/2__bundesliga.html",
+   "zeitraum": "06. November 2026",
+   "spiele": [
+    [
+     "Dynamo Dresden",
+     "SpVgg Greuther Fürth",
+     3,
+     0,
+     "gespielt"
+    ],
+    [
+     "Eintr. Braunschweig",
+     "FC Energie Cottbus",
+     0,
+     0,
+     "gespielt"
+    ],
+    [
+     "1. FC Nürnberg",
+     "SV Darmstadt 98",
+     2,
+     0,
+     "gespielt"
+    ],
+    [
+     "KSV Holstein Kiel",
+     "Arminia Bielefeld",
+     1,
+     2,
+     "gespielt"
+    ],
+    [
+     "VfL Osnabrück",
+     "1. FC Kaiserslautern",
+     0,
+     1,
+     "gespielt"
+    ],
+    [
+     "Hertha BSC Berlin",
+     "VfL Wolfsburg",
+     2,
+     1,
+     "gespielt"
+    ],
+    [
+     "1. FC Heidenheim",
+     "SV Hannover 96",
+     2,
+     2,
+     "gespielt"
+    ],
+    [
+     "VfL Bochum",
+     "Karlsruher SC",
+     3,
+     2,
+     "gespielt"
+    ],
+    [
+     "1. FC Magdeburg",
+     "FC St. Pauli",
+     4,
+     1,
+     "gespielt"
+    ]
+   ],
+   "tabelle": [
+    [
+     "1. Hertha BSC Berlin Hertha BSC Berlin 11 10 1 0 25 :9 16 31",
+     11,
+     16,
+     31
+    ],
+    [
+     "2. 1. FC Nürnberg 1. FC Nürnberg 11 7 3 1 26 :13 13 24",
+     11,
+     13,
+     24
+    ],
+    [
+     "3. 1. FC Kaiserslautern 1. FC Kaiserslautern 11 6 3 2 10 :7 3 21",
+     11,
+     3,
+     21
+    ],
+    [
+     "4. 1. FC Magdeburg 1. FC Magdeburg 11 6 2 3 25 :14 11 20",
+     11,
+     11,
+     20
+    ],
+    [
+     "5. VfL Wolfsburg VfL Wolfsburg 11 5 4 2 26 :16 10 19",
+     11,
+     10,
+     19
+    ],
+    [
+     "6. Arminia Bielefeld Arminia Bielefeld 11 5 2 4 18 :16 2 17",
+     11,
+     2,
+     17
+    ],
+    [
+     "7. 1. FC Heidenheim 1. FC Heidenheim 11 4 4 3 19 :20 -1 16",
+     11,
+     -1,
+     16
+    ],
+    [
+     "8. VfL Bochum VfL Bochum 11 4 2 5 11 :13 -2 14",
+     11,
+     -2,
+     14
+    ],
+    [
+     "9. FC St. Pauli FC St. Pauli 11 2 6 3 13 :16 -3 12",
+     11,
+     -3,
+     12
+    ],
+    [
+     "10. SpVgg Greuther Fürth SpVgg Greuther Fürth 11 3 3 5 13 :19 -6 12",
+     11,
+     -6,
+     12
+    ],
+    [
+     "11. SV Hannover 96 SV Hannover 96 11 3 3 5 12 :18 -6 12",
+     11,
+     -6,
+     12
+    ],
+    [
+     "12. FC Energie Cottbus FC Energie Cottbus 11 2 5 4 18 :20 -2 11",
+     11,
+     -2,
+     11
+    ],
+    [
+     "13. Eintr. Braunschweig Eintr. Braunschweig 11 3 2 6 16 :18 -2 11",
+     11,
+     -2,
+     11
+    ],
+    [
+     "14. VfL Osnabrück VfL Osnabrück 11 3 2 6 14 :18 -4 11",
+     11,
+     -4,
+     11
+    ],
+    [
+     "15. Dynamo Dresden Dynamo Dresden 11 3 2 6 15 :20 -5 11",
+     11,
+     -5,
+     11
+    ],
+    [
+     "16. Karlsruher SC Karlsruher SC 11 3 2 6 15 :24 -9 11",
+     11,
+     -9,
+     11
+    ],
+    [
+     "17. SV Darmstadt 98 SV Darmstadt 98 11 2 3 6 9 :21 -12 9",
+     11,
+     -12,
+     9
+    ],
+    [
+     "18. KSV Holstein Kiel KSV Holstein Kiel 11 1 5 5 11 :14 -3 8",
+     11,
+     -3,
+     8
+    ]
+   ],
+   "fehler": null
+  },
+  {
+   "liga": "3. Liga",
+   "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/3__liga.html",
+   "zeitraum": "06. November 2026",
+   "spiele": [
+    [
+     "Viktoria Köln",
+     "1. FC Saarbrücken",
+     5,
+     3,
+     "gespielt"
+    ],
+    [
+     "Rot-Weiss Essen",
+     "TSV Alemannia Aachen",
+     1,
+     0,
+     "gespielt"
+    ],
+    [
+     "Hansa Rostock",
+     "SG Großaspach",
+     3,
+     0,
+     "gespielt"
+    ],
+    [
+     "SV Wehen Wiesbaden",
+     "TSV Havelse",
+     3,
+     0,
+     "gespielt"
+    ],
+    [
+     "Waldhof Mannheim",
+     "SC Fortuna Köln",
+     2,
+     1,
+     "gespielt"
+    ],
+    [
+     "FC Ingolstadt 04",
+     "Fortuna Düsseldorf",
+     3,
+     2,
+     "gespielt"
+    ],
+    [
+     "SC Preußen Münster",
+     "MSV Duisburg",
+     1,
+     2,
+     "gespielt"
+    ],
+    [
+     "SV Meppen",
+     "SSV Jahn Regensburg",
+     2,
+     1,
+     "gespielt"
+    ],
+    [
+     "VfB Stuttgart II",
+     "SC Verl von 1924",
+     1,
+     0,
+     "gespielt"
+    ],
+    [
+     "Würzburger Kickers",
+     "TSG 1899 Hoffenheim II",
+     0,
+     1,
+     "gespielt"
+    ]
+   ],
+   "tabelle": [
+    [
+     "1. Viktoria Köln Viktoria Köln 13 9 2 2 36 :18 18 29",
+     13,
+     18,
+     29
+    ],
+    [
+     "2. MSV Duisburg MSV Duisburg 13 9 2 2 33 :18 15 29",
+     13,
+     15,
+     29
+    ],
+    [
+     "3. Rot-Weiss Essen Rot-Weiss Essen 13 8 3 2 21 :13 8 27",
+     13,
+     8,
+     27
+    ],
+    [
+     "4. SV Wehen Wiesbaden SV Wehen Wiesbaden 13 6 3 4 26 :17 9 21",
+     13,
+     9,
+     21
+    ],
+    [
+     "5. FC Ingolstadt 04 FC Ingolstadt 04 13 6 3 4 19 :19 0 21",
+     13,
+     0,
+     21
+    ],
+    [
+     "6. 1. FC Saarbrücken 1. FC Saarbrücken 13 6 2 5 31 :26 5 20",
+     13,
+     5,
+     20
+    ],
+    [
+     "7. TSV Alemannia Aachen TSV Alemannia Aachen 13 6 2 5 19 :19 0 20",
+     13,
+     0,
+     20
+    ],
+    [
+     "8. Waldhof Mannheim Waldhof Mannheim 13 6 1 6 23 :20 3 19",
+     13,
+     3,
+     19
+    ],
+    [
+     "9. Hansa Rostock Hansa Rostock 13 5 4 4 22 :22 0 19",
+     13,
+     0,
+     19
+    ],
+    [
+     "10. SV Meppen SV Meppen 13 5 3 5 18 :18 0 18",
+     13,
+     0,
+     18
+    ],
+    [
+     "11. VfB Stuttgart II VfB Stuttgart II 13 5 3 5 22 :23 -1 18",
+     13,
+     -1,
+     18
+    ],
+    [
+     "12. TSG 1899 Hoffenheim II TSG 1899 Hoffenheim II 12 5 1 6 21 :20 1 16",
+     12,
+     1,
+     16
+    ],
+    [
+     "13. Fortuna Düsseldorf Fortuna Düsseldorf 13 4 4 5 14 :17 -3 16",
+     13,
+     -3,
+     16
+    ],
+    [
+     "14. SC Preußen Münster SC Preußen Münster 13 4 3 6 21 :25 -4 15",
+     13,
+     -4,
+     15
+    ],
+    [
+     "15. Würzburger Kickers Würzburger Kickers 12 4 2 6 17 :24 -7 14",
+     12,
+     -7,
+     14
+    ],
+    [
+     "16. SSV Jahn Regensburg SSV Jahn Regensburg 13 3 4 6 23 :23 0 13",
+     13,
+     0,
+     13
+    ],
+    [
+     "17. SC Verl von 1924 SC Verl von 1924 13 3 3 7 17 :27 -10 12",
+     13,
+     -10,
+     12
+    ],
+    [
+     "18. SG Großaspach SG Großaspach 13 3 3 7 13 :29 -16 12",
+     13,
+     -16,
+     12
+    ],
+    [
+     "19. SC Fortuna Köln SC Fortuna Köln 13 2 4 7 10 :16 -6 10",
+     13,
+     -6,
+     10
+    ],
+    [
+     "20. TSV Havelse TSV Havelse 13 2 4 7 17 :29 -12 10",
+     13,
+     -12,
+     10
+    ]
+   ],
+   "fehler": null
+  },
+  {
+   "liga": "Regionalliga West",
+   "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/regionalliga_west.html",
+   "zeitraum": "06. November 2026",
+   "spiele": [
+    [
+     "FC Schalke 04 II",
+     "Bor. Mönchengladbach II",
+     0,
+     7,
+     "gespielt"
+    ],
+    [
+     "VfB 03 Hilden",
+     "SV Rödinghausen",
+     1,
+     1,
+     "gespielt"
+    ],
+    [
+     "Bonner SC",
+     "FC Gütersloh",
+     2,
+     0,
+     "gespielt"
+    ],
+    [
+     "SV Westfalia Rhynern",
+     "SC Paderborn II",
+     2,
+     2,
+     "gespielt"
+    ],
+    [
+     "SV Bergisch Gladbach 09",
+     "1. FC Bocholt",
+     4,
+     5,
+     "gespielt"
+    ],
+    [
+     "VfL Sportfreunde Lotte",
+     "SC Wiedenbrück",
+     1,
+     5,
+     "gespielt"
+    ],
+    [
+     "Rot-Weiß Oberhausen",
+     "Bor. Dortmund II",
+     0,
+     0,
+     "gespielt"
+    ],
+    [
+     "1. FC Köln II",
+     "Sportfreunde Siegen",
+     2,
+     2,
+     "gespielt"
+    ],
+    [
+     "VfL Bochum II",
+     "SG Wattenscheid 09",
+     3,
+     2,
+     "gespielt"
+    ]
+   ],
+   "tabelle": [
+    [
+     "1. Rot-Weiß Oberhausen Rot-Weiß Oberhausen 16 12 2 2 36 :13 23 38",
+     16,
+     23,
+     38
+    ],
+    [
+     "2. Bor. Dortmund II Bor. Dortmund II 16 10 5 1 32 :16 16 35",
+     16,
+     16,
+     35
+    ],
+    [
+     "3. Bor. Mönchengladbach II Bor. Mönchengladbach II 16 10 2 4 41 :18 23 32",
+     16,
+     23,
+     32
+    ],
+    [
+     "4. FC Gütersloh FC Gütersloh 16 10 2 4 32 :22 10 32",
+     16,
+     10,
+     32
+    ],
+    [
+     "5. Sportfreunde Siegen Sportfreunde Siegen 16 8 5 3 38 :22 16 29",
+     16,
+     16,
+     29
+    ],
+    [
+     "6. Bonner SC Bonner SC 16 6 6 4 31 :26 5 24",
+     16,
+     5,
+     24
+    ],
+    [
+     "7. 1. FC Köln II 1. FC Köln II 16 6 5 5 32 :29 3 23",
+     16,
+     3,
+     23
+    ],
+    [
+     "8. SV Westfalia Rhynern SV Westfalia Rhynern 16 6 4 6 27 :30 -3 22",
+     16,
+     -3,
+     22
+    ],
+    [
+     "9. 1. FC Bocholt 1. FC Bocholt 16 5 6 5 36 :38 -2 21",
+     16,
+     -2,
+     21
+    ],
+    [
+     "10. FC Schalke 04 II FC Schalke 04 II 16 6 2 8 29 :36 -7 20",
+     16,
+     -7,
+     20
+    ],
+    [
+     "11. VfB 03 Hilden VfB 03 Hilden 16 5 5 6 20 :28 -8 20",
+     16,
+     -8,
+     20
+    ],
+    [
+     "12. SC Paderborn II SC Paderborn II 15 4 6 5 26 :27 -1 18",
+     15,
+     -1,
+     18
+    ],
+    [
+     "13. VfL Bochum II VfL Bochum II 15 5 3 7 26 :35 -9 18",
+     15,
+     -9,
+     18
+    ],
+    [
+     "14. SV Bergisch Gladbach 09 SV Bergisch Gladbach 09 16 5 2 9 26 :38 -12 17",
+     16,
+     -12,
+     17
+    ],
+    [
+     "15. SV Rödinghausen SV Rödinghausen 16 3 5 8 26 :32 -6 14",
+     16,
+     -6,
+     14
+    ],
+    [
+     "16. SG Wattenscheid 09 SG Wattenscheid 09 16 3 4 9 21 :31 -10 13",
+     16,
+     -10,
+     13
+    ],
+    [
+     "17. SC Wiedenbrück SC Wiedenbrück 16 3 2 11 24 :40 -16 11",
+     16,
+     -16,
+     11
+    ],
+    [
+     "18. VfL Sportfreunde Lotte VfL Sportfreunde Lotte 16 1 4 11 10 :32 -22 7",
+     16,
+     -22,
+     7
+    ]
+   ],
+   "fehler": null
+  },
+  {
+   "liga": "Oberliga Westfalen",
+   "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/oberliga_westfalen.html",
+   "zeitraum": "06. November 2026",
+   "spiele": [
+    [
+     "SC Verl II",
+     "DSC Arminia Bielefeld II",
+     2,
+     3,
+     "gespielt"
+    ],
+    [
+     "SC RW Maaslingen",
+     "SV Lippstadt",
+     3,
+     0,
+     "gespielt"
+    ],
+    [
+     "Victoria Clarholz",
+     "TuS Hiltrup",
+     0,
+     2,
+     "gespielt"
+    ],
+    [
+     "SC Westfalia Kinderhaus",
+     "SpVgg Vreden",
+     1,
+     0,
+     "gespielt"
+    ],
+    [
+     "SpVgg Erkenschwick",
+     "SpVgg Horsthausen",
+     2,
+     2,
+     "gespielt"
+    ],
+    [
+     "1. FC Gievenbeck",
+     "TSG Sprockhövel",
+     1,
+     0,
+     "gespielt"
+    ],
+    [
+     "SC Preußen Münster II",
+     "ASC 09 Dortmund",
+     2,
+     1,
+     "gespielt"
+    ],
+    [
+     "DJK TuS Hordel",
+     "SV Schermbeck 1912",
+     0,
+     3,
+     "gespielt"
+    ],
+    [
+     "TuS Ennepetal",
+     "FC Eintracht Rheine",
+     0,
+     3,
+     "gespielt"
+    ]
+   ],
+   "tabelle": [
+    [
+     "1. 1. FC Gievenbeck 1. FC Gievenbeck 13 9 2 2 33 :17 16 29",
+     13,
+     16,
+     29
+    ],
+    [
+     "2. SC RW Maaslingen SC RW Maaslingen 13 8 1 4 26 :17 9 25",
+     13,
+     9,
+     25
+    ],
+    [
+     "3. FC Eintracht Rheine FC Eintracht Rheine 13 7 3 3 29 :19 10 24",
+     13,
+     10,
+     24
+    ],
+    [
+     "4. DSC Arminia Bielefeld II DSC Arminia Bielefeld II 13 7 3 3 25 :18 7 24",
+     13,
+     7,
+     24
+    ],
+    [
+     "5. SpVgg Vreden SpVgg Vreden 13 7 3 3 30 :24 6 24",
+     13,
+     6,
+     24
+    ],
+    [
+     "6. SC Preußen Münster II SC Preußen Münster II 13 6 3 4 21 :17 4 21",
+     13,
+     4,
+     21
+    ],
+    [
+     "7. SpVgg Erkenschwick SpVgg Erkenschwick 13 5 5 3 19 :15 4 20",
+     13,
+     4,
+     20
+    ],
+    [
+     "8. SV Lippstadt SV Lippstadt 13 6 2 5 20 :21 -1 20",
+     13,
+     -1,
+     20
+    ],
+    [
+     "9. ASC 09 Dortmund ASC 09 Dortmund 12 6 1 5 26 :21 5 19",
+     12,
+     5,
+     19
+    ],
+    [
+     "10. TSG Sprockhövel TSG Sprockhövel 13 5 3 5 27 :21 6 18",
+     13,
+     6,
+     18
+    ],
+    [
+     "11. SC Westfalia Kinderhaus SC Westfalia Kinderhaus 12 5 3 4 14 :16 -2 18",
+     12,
+     -2,
+     18
+    ],
+    [
+     "12. SC Verl II SC Verl II 13 5 2 6 25 :22 3 17",
+     13,
+     3,
+     17
+    ],
+    [
+     "13. TuS Hiltrup TuS Hiltrup 13 5 1 7 15 :23 -8 16",
+     13,
+     -8,
+     16
+    ],
+    [
+     "14. SpVgg Horsthausen SpVgg Horsthausen 13 4 1 8 23 :37 -14 13",
+     13,
+     -14,
+     13
+    ],
+    [
+     "15. DJK TuS Hordel DJK TuS Hordel 13 2 6 5 18 :25 -7 12",
+     13,
+     -7,
+     12
+    ],
+    [
+     "16. TuS Ennepetal TuS Ennepetal 13 2 5 6 16 :29 -13 11",
+     13,
+     -13,
+     11
+    ],
+    [
+     "17. Victoria Clarholz Victoria Clarholz 13 2 2 9 22 :31 -9 8",
+     13,
+     -9,
+     8
+    ],
+    [
+     "18. SV Schermbeck 1912 SV Schermbeck 1912 13 1 2 10 14 :30 -16 5",
+     13,
+     -16,
+     5
+    ]
+   ],
+   "fehler": null
+  },
+  {
+   "liga": "Westfalenliga Staffel 1",
+   "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/westfalenliga_1.html",
+   "zeitraum": "07. November 2026",
+   "spiele": [
+    [
+     "FSC Rheda",
+     "FC Nordkirchen",
+     2,
+     0,
+     "gespielt"
+    ],
+    [
+     "SuS Bad Westernkotten",
+     "FC Kaunitz",
+     2,
+     0,
+     "gespielt"
+    ],
+    [
+     "Lüner SV",
+     "FC RW Kirchlengern",
+     0,
+     1,
+     "gespielt"
+    ],
+    [
+     "SuS Neuenkirchen",
+     "Grün-Weiß Nottuln",
+     1,
+     2,
+     "gespielt"
+    ],
+    [
+     "SC Peckeloh",
+     "SC Herford",
+     4,
+     1,
+     "gespielt"
+    ],
+    [
+     "SV Eintracht Ahaus",
+     "VfL Theesen",
+     3,
+     2,
+     "gespielt"
+    ],
+    [
+     "SV Mesum",
+     "Rot Weiss Ahlen",
+     2,
+     1,
+     "gespielt"
+    ]
+   ],
+   "tabelle": [
+    [
+     "1. SC Peckeloh SC Peckeloh 13 9 4 0 33 :9 24 31",
+     13,
+     24,
+     31
+    ],
+    [
+     "2. FSC Rheda FSC Rheda 14 9 1 4 30 :18 12 28",
+     14,
+     12,
+     28
+    ],
+    [
+     "3. Grün-Weiß Nottuln Grün-Weiß Nottuln 13 9 0 4 21 :18 3 27",
+     13,
+     3,
+     27
+    ],
+    [
+     "4. SV Eintracht Ahaus SV Eintracht Ahaus 13 8 1 4 27 :22 5 25",
+     13,
+     5,
+     25
+    ],
+    [
+     "5. Rot Weiss Ahlen Rot Weiss Ahlen 13 7 2 4 33 :18 15 23",
+     13,
+     15,
+     23
+    ],
+    [
+     "6. Lüner SV Lüner SV 13 7 2 4 35 :29 6 23",
+     13,
+     6,
+     23
+    ],
+    [
+     "7. SF Ostinghausen SF Ostinghausen 13 6 3 4 33 :25 8 21",
+     13,
+     8,
+     21
+    ],
+    [
+     "8. SV Mesum SV Mesum 13 6 1 6 30 :20 10 19",
+     13,
+     10,
+     19
+    ],
+    [
+     "9. SV Rödinghausen II SV Rödinghausen II 13 6 1 6 16 :15 1 19",
+     13,
+     1,
+     19
+    ],
+    [
+     "10. VfL Theesen VfL Theesen 13 5 3 5 28 :23 5 18",
+     13,
+     5,
+     18
+    ],
+    [
+     "11. SuS Neuenkirchen SuS Neuenkirchen 13 5 1 7 23 :26 -3 16",
+     13,
+     -3,
+     16
+    ],
+    [
+     "12. SC Herford SC Herford 13 4 2 7 23 :29 -6 14",
+     13,
+     -6,
+     14
+    ],
+    [
+     "13. FC Nordkirchen FC Nordkirchen 13 3 3 7 12 :22 -10 12",
+     13,
+     -10,
+     12
+    ],
+    [
+     "14. FC RW Kirchlengern FC RW Kirchlengern 13 3 2 8 18 :35 -17 11",
+     13,
+     -17,
+     11
+    ],
+    [
+     "15. SuS Bad Westernkotten SuS Bad Westernkotten 13 3 2 8 11 :28 -17 11",
+     13,
+     -17,
+     11
+    ],
+    [
+     "16. FC Kaunitz FC Kaunitz 14 1 0 13 13 :49 -36 3",
+     14,
+     -36,
+     3
+    ]
+   ],
+   "fehler": null
+  },
+  {
+   "liga": "Landesliga Staffel 4",
+   "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/landesliga_4_westfalen.html",
+   "zeitraum": "08. November 2026",
+   "spiele": [
+    [
+     "TSV Raesfeld",
+     "SV Dorsten-Hardt",
+     0,
+     1,
+     "gespielt"
+    ],
+    [
+     "SC Altenrheine",
+     "SV SW Lembeck",
+     4,
+     1,
+     "gespielt"
+    ],
+    [
+     "SpVg Emsdetten 05",
+     "Werner SC",
+     3,
+     0,
+     "gespielt"
+    ],
+    [
+     "SV Borussia Emsdetten",
+     "VfL Senden",
+     4,
+     0,
+     "gespielt"
+    ],
+    [
+     "SuS Stadtlohn",
+     "Westfalia Gemen",
+     1,
+     3,
+     "gespielt"
+    ],
+    [
+     "Hammer SpVg",
+     "ASK Ahlen",
+     2,
+     2,
+     "gespielt"
+    ],
+    [
+     "SVE Heessen",
+     "Ibbenbürener Spvg.",
+     2,
+     2,
+     "gespielt"
+    ],
+    [
+     "SC Münster 08",
+     "SV Rot-Weiß Deuten",
+     1,
+     2,
+     "gespielt"
+    ]
+   ],
+   "tabelle": [
+    [
+     "1. SV Rot-Weiß Deuten SV Rot-Weiß Deuten 12 10 1 1 31 :12 19 31",
+     12,
+     19,
+     31
+    ],
+    [
+     "2. SV Dorsten-Hardt SV Dorsten-Hardt 12 9 0 3 32 :18 14 27",
+     12,
+     14,
+     27
+    ],
+    [
+     "3. Hammer SpVg Hammer SpVg 12 7 4 1 29 :19 10 25",
+     12,
+     10,
+     25
+    ],
+    [
+     "4. SpVg Emsdetten 05 SpVg Emsdetten 05 13 6 4 3 30 :17 13 22",
+     13,
+     13,
+     22
+    ],
+    [
+     "5. SVE Heessen SVE Heessen 12 6 4 2 25 :12 13 22",
+     12,
+     13,
+     22
+    ],
+    [
+     "6. SV Burgsteinfurt SV Burgsteinfurt 12 6 3 3 28 :19 9 21",
+     12,
+     9,
+     21
+    ],
+    [
+     "7. ASK Ahlen ASK Ahlen 12 5 4 3 32 :20 12 19",
+     12,
+     12,
+     19
+    ],
+    [
+     "8. TSV Raesfeld TSV Raesfeld 13 5 4 4 25 :26 -1 19",
+     13,
+     -1,
+     19
+    ],
+    [
+     "9. SV Borussia Emsdetten SV Borussia Emsdetten 13 5 3 5 24 :20 4 18",
+     13,
+     4,
+     18
+    ],
+    [
+     "10. SC Altenrheine SC Altenrheine 12 4 4 4 22 :23 -1 16",
+     12,
+     -1,
+     16
+    ],
+    [
+     "11. SC Münster 08 SC Münster 08 12 3 3 6 18 :24 -6 12",
+     12,
+     -6,
+     12
+    ],
+    [
+     "12. VfL Senden VfL Senden 12 3 2 7 19 :29 -10 11",
+     12,
+     -10,
+     11
+    ],
+    [
+     "13. SuS Stadtlohn SuS Stadtlohn 12 3 2 7 18 :28 -10 11",
+     12,
+     -10,
+     11
+    ],
+    [
+     "14. Werner SC Werner SC 12 2 4 6 23 :32 -9 10",
+     12,
+     -9,
+     10
+    ],
+    [
+     "15. Ibbenbürener Spvg. Ibbenbürener Spvg. 12 2 4 6 19 :30 -11 10",
+     12,
+     -11,
+     10
+    ],
+    [
+     "16. Westfalia Gemen Westfalia Gemen 13 2 2 9 17 :42 -25 8",
+     13,
+     -25,
+     8
+    ],
+    [
+     "17. SV SW Lembeck SV SW Lembeck 12 1 2 9 9 :30 -21 5",
+     12,
+     -21,
+     5
+    ]
+   ],
+   "fehler": null
+  },
+  {
+   "liga": "Bezirksliga Staffel 7",
+   "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/bezirksliga_st__7_westfalen.html",
+   "zeitraum": "08. November 2026",
+   "spiele": [
+    [
+     "SV Herbern",
+     "RW Westönnen",
+     1,
+     2,
+     "gespielt"
+    ],
+    [
+     "DJK Vorwärts Ahlen",
+     "TUS Freckenhorst",
+     1,
+     2,
+     "gespielt"
+    ],
+    [
+     "TuS Viktoria Rietberg",
+     "SC Roland 1962",
+     3,
+     2,
+     "gespielt"
+    ],
+    [
+     "Warendorfer SU",
+     "TuS 46/68 Uentrop",
+     4,
+     2,
+     "gespielt"
+    ],
+    [
+     "TuS SG Oestinghausen",
+     "SpVgg Oelde",
+     2,
+     0,
+     "gespielt"
+    ],
+    [
+     "SpVg Beckum",
+     "SG Sendenhorst",
+     4,
+     0,
+     "gespielt"
+    ]
+   ],
+   "tabelle": [
+    [
+     "1. SpVg Beckum SpVg Beckum 13 12 1 0 45 :10 35 37",
+     13,
+     35,
+     37
+    ],
+    [
+     "2. TuS Viktoria Rietberg TuS Viktoria Rietberg 12 11 1 0 45 :11 34 34",
+     12,
+     34,
+     34
+    ],
+    [
+     "3. TUS Freckenhorst TUS Freckenhorst 13 9 1 3 36 :12 24 28",
+     13,
+     24,
+     28
+    ],
+    [
+     "4. TuS SG Oestinghausen TuS SG Oestinghausen 13 9 0 4 41 :19 22 27",
+     13,
+     22,
+     27
+    ],
+    [
+     "5. RW Westönnen RW Westönnen 13 8 3 2 32 :18 14 27",
+     13,
+     14,
+     27
+    ],
+    [
+     "6. SpVgg Oelde SpVgg Oelde 13 8 1 4 38 :20 18 25",
+     13,
+     18,
+     25
+    ],
+    [
+     "7. SC Roland 1962 SC Roland 1962 13 6 1 6 22 :28 -6 19",
+     13,
+     -6,
+     19
+    ],
+    [
+     "8. Warendorfer SU Warendorfer SU 13 5 3 5 23 :27 -4 18",
+     13,
+     -4,
+     18
+    ],
+    [
+     "9. SG Sendenhorst SG Sendenhorst 13 5 1 7 23 :34 -11 16",
+     13,
+     -11,
+     16
+    ],
+    [
+     "10. DJK Vorwärts Ahlen DJK Vorwärts Ahlen 13 3 4 6 19 :26 -7 13",
+     13,
+     -7,
+     13
+    ],
+    [
+     "11. SV Herbern SV Herbern 13 3 2 8 20 :29 -9 11",
+     13,
+     -9,
+     11
+    ],
+    [
+     "12. BV Bad Sassendorf BV Bad Sassendorf 12 3 1 8 16 :43 -27 10",
+     12,
+     -27,
+     10
+    ],
+    [
+     "13. SV Hilbeck SV Hilbeck 13 2 2 9 15 :34 -19 8",
+     13,
+     -19,
+     8
+    ],
+    [
+     "14. SuS Bad Westernkotten II SuS Bad Westernkotten II 12 2 1 9 16 :35 -19 7",
+     12,
+     -19,
+     7
+    ],
+    [
+     "15. TuS 46/68 Uentrop TuS 46/68 Uentrop 12 2 1 9 19 :39 -20 7",
+     12,
+     -20,
+     7
+    ],
+    [
+     "16. Spielverein Westfalia Soest II Spielverein Westfalia Soest II 13 1 3 9 9 :34 -25 6",
+     13,
+     -25,
+     6
+    ]
+   ],
+   "fehler": null
+  },
+  {
+   "liga": "Kreisliga A1 Unna-Hamm",
+   "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-kreisligen-kreisliga_a/kreisliga_a1_unna_hamm.html",
+   "zeitraum": "08. November 2026",
+   "spiele": [
+    [
+     "TuS G. Lohauserholz-Daberg II",
+     "Südener SV Hamm",
+     13,
+     1,
+     "gespielt"
+    ],
+    [
+     "SVE Heessen II",
+     "SG Bockum-Hövel II",
+     2,
+     2,
+     "gespielt"
+    ],
+    [
+     "Türk. SC Hamm",
+     "SuS Rünthe 08",
+     6,
+     2,
+     "gespielt"
+    ],
+    [
+     "SC Pelkum",
+     "Hammer SpVg II",
+     1,
+     0,
+     "gespielt"
+    ],
+    [
+     "TSV Hamm-Heessen",
+     "Hammer SportClub",
+     3,
+     5,
+     "gespielt"
+    ],
+    [
+     "Eintracht Werne",
+     "Gurbet Spor Bergkamen",
+     6,
+     2,
+     "gespielt"
+    ],
+    [
+     "SV Westfalia Rhynern II",
+     "TuS Wiescherhöfen II",
+     7,
+     1,
+     "gespielt"
+    ],
+    [
+     "VfL Mark",
+     "TIU Rünthe",
+     4,
+     1,
+     "gespielt"
+    ]
+   ],
+   "tabelle": [
+    [
+     "1. SV Westfalia Rhynern II SV Westfalia Rhynern II 13 10 2 1 72 :16 56 32",
+     13,
+     56,
+     32
+    ],
+    [
+     "2. Hammer SportClub Hammer SportClub 13 10 1 2 57 :20 37 31",
+     13,
+     37,
+     31
+    ],
+    [
+     "3. Türk. SC Hamm Türk. SC Hamm 13 9 2 2 46 :26 20 29",
+     13,
+     20,
+     29
+    ],
+    [
+     "4. Eintracht Werne Eintracht Werne 13 8 2 3 59 :32 27 26",
+     13,
+     27,
+     26
+    ],
+    [
+     "5. VfL Mark VfL Mark 13 8 2 3 37 :19 18 26",
+     13,
+     18,
+     26
+    ],
+    [
+     "6. SVE Heessen II SVE Heessen II 13 6 5 2 37 :21 16 23",
+     13,
+     16,
+     23
+    ],
+    [
+     "7. Gurbet Spor Bergkamen Gurbet Spor Bergkamen 13 6 2 5 49 :30 19 20",
+     13,
+     19,
+     20
+    ],
+    [
+     "8. TIU Rünthe TIU Rünthe 13 5 5 3 40 :35 5 20",
+     13,
+     5,
+     20
+    ],
+    [
+     "9. TuS G. Lohauserholz-Daberg II TuS G. Lohauserholz-Daberg II 13 6 1 6 47 :34 13 19",
+     13,
+     13,
+     19
+    ],
+    [
+     "10. TuS Wiescherhöfen II TuS Wiescherhöfen II 13 6 0 7 31 :42 -11 18",
+     13,
+     -11,
+     18
+    ],
+    [
+     "11. SC Pelkum SC Pelkum 13 5 0 8 27 :51 -24 15",
+     13,
+     -24,
+     15
+    ],
+    [
+     "12. SG Bockum-Hövel II SG Bockum-Hövel II 13 4 2 7 34 :33 1 14",
+     13,
+     1,
+     14
+    ],
+    [
+     "13. SuS Rünthe 08 SuS Rünthe 08 13 4 1 8 35 :45 -10 13",
+     13,
+     -10,
+     13
+    ],
+    [
+     "14. Hammer SpVg II Hammer SpVg II 13 1 2 10 23 :53 -30 5",
+     13,
+     -30,
+     5
+    ],
+    [
+     "15. TSV Hamm-Heessen TSV Hamm-Heessen 13 1 1 11 16 :83 -67 4",
+     13,
+     -67,
+     4
+    ],
+    [
+     "16. Südener SV Hamm Südener SV Hamm 13 1 0 12 11 :81 -70 3",
+     13,
+     -70,
+     3
+    ]
+   ],
+   "fehler": null
+  }
+ ]
+}
