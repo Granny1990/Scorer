@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-10T23:41+02:00",
+ "stand": "2026-11-12T00:31+02:00",
  "quelle": "wa-mediengruppe.de (Tabellendienst der WA Mediengruppe)",
  "markiert": [
   "Rhynern",
@@ -722,13 +722,6 @@
      "offen"
     ],
     [
-     "SV Schermbeck 1912",
-     "TuS Ennepetal",
-     null,
-     null,
-     "offen"
-    ],
-    [
      "TSG Sprockhövel",
      "SpVgg Erkenschwick",
      null,
@@ -738,6 +731,13 @@
     [
      "SpVgg Horsthausen",
      "SC Westfalia Kinderhaus",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "SV Schermbeck 1912",
+     "TuS Ennepetal",
      null,
      null,
      "offen"
@@ -1207,8 +1207,8 @@
     [
      "SuS Bad Westernkotten II",
      "BV Bad Sassendorf",
+     1,
      0,
-     4,
      "gespielt"
     ]
    ],
@@ -1280,22 +1280,22 @@
      11
     ],
     [
-     "12. BV Bad Sassendorf BV Bad Sassendorf 12 3 1 8 16 :43 -27 10",
-     12,
-     -27,
+     "12. SuS Bad Westernkotten II SuS Bad Westernkotten II 13 3 1 9 17 :35 -18 10",
+     13,
+     -18,
      10
     ],
     [
-     "13. SV Hilbeck SV Hilbeck 13 2 2 9 15 :34 -19 8",
+     "13. BV Bad Sassendorf BV Bad Sassendorf 13 3 1 9 16 :44 -28 10",
+     13,
+     -28,
+     10
+    ],
+    [
+     "14. SV Hilbeck SV Hilbeck 13 2 2 9 15 :34 -19 8",
      13,
      -19,
      8
-    ],
-    [
-     "14. SuS Bad Westernkotten II SuS Bad Westernkotten II 12 2 1 9 16 :35 -19 7",
-     12,
-     -19,
-     7
     ],
     [
      "15. TuS 46/68 Uentrop TuS 46/68 Uentrop 12 2 1 9 19 :39 -20 7",
