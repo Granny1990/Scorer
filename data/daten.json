@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-12T00:31+02:00",
+ "stand": "2026-11-13T00:06+02:00",
  "quelle": "wa-mediengruppe.de (Tabellendienst der WA Mediengruppe)",
  "markiert": [
   "Rhynern",
@@ -579,7 +579,7 @@
      "SC Paderborn II",
      "VfL Bochum II",
      2,
-     2,
+     1,
      "gespielt"
     ]
    ],
@@ -633,33 +633,33 @@
      22
     ],
     [
-     "9. 1. FC Bocholt 1. FC Bocholt 16 5 6 5 36 :38 -2 21",
+     "9. SC Paderborn II SC Paderborn II 16 5 6 5 28 :28 0 21",
+     16,
+     0,
+     21
+    ],
+    [
+     "10. 1. FC Bocholt 1. FC Bocholt 16 5 6 5 36 :38 -2 21",
      16,
      -2,
      21
     ],
     [
-     "10. FC Schalke 04 II FC Schalke 04 II 16 6 2 8 29 :36 -7 20",
+     "11. FC Schalke 04 II FC Schalke 04 II 16 6 2 8 29 :36 -7 20",
      16,
      -7,
      20
     ],
     [
-     "11. VfB 03 Hilden VfB 03 Hilden 16 5 5 6 20 :28 -8 20",
+     "12. VfB 03 Hilden VfB 03 Hilden 16 5 5 6 20 :28 -8 20",
      16,
      -8,
      20
     ],
     [
-     "12. SC Paderborn II SC Paderborn II 15 4 6 5 26 :27 -1 18",
-     15,
-     -1,
-     18
-    ],
-    [
-     "13. VfL Bochum II VfL Bochum II 15 5 3 7 26 :35 -9 18",
-     15,
-     -9,
+     "13. VfL Bochum II VfL Bochum II 16 5 3 8 27 :37 -10 18",
+     16,
+     -10,
      18
     ],
     [
@@ -722,13 +722,6 @@
      "offen"
     ],
     [
-     "TSG Sprockhövel",
-     "SpVgg Erkenschwick",
-     null,
-     null,
-     "offen"
-    ],
-    [
      "SpVgg Horsthausen",
      "SC Westfalia Kinderhaus",
      null,
@@ -738,6 +731,13 @@
     [
      "SV Schermbeck 1912",
      "TuS Ennepetal",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "TSG Sprockhövel",
+     "SpVgg Erkenschwick",
      null,
      null,
      "offen"
@@ -882,15 +882,15 @@
      "offen"
     ],
     [
-     "FC Kaunitz",
-     "SC Peckeloh",
+     "FSC Rheda",
+     "SC Herford",
      null,
      null,
      "offen"
     ],
     [
-     "FSC Rheda",
-     "SC Herford",
+     "FC Kaunitz",
+     "SC Peckeloh",
      null,
      null,
      "offen"
@@ -1209,6 +1209,62 @@
      "BV Bad Sassendorf",
      1,
      0,
+     "gespielt"
+    ],
+    [
+     "SV Herbern",
+     "SV Hilbeck",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "RW Westönnen",
+     "TuS SG Oestinghausen",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "TUS Freckenhorst",
+     "SpVg Beckum",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "SG Sendenhorst",
+     "SuS Bad Westernkotten II",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "BV Bad Sassendorf",
+     "Spielverein Westfalia Soest II",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "SpVgg Oelde",
+     "TuS Viktoria Rietberg",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "SC Roland 1962",
+     "Warendorfer SU",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "DJK Vorwärts Ahlen",
+     "TuS 46/68 Uentrop",
+     0,
+     4,
      "gespielt"
     ]
    ],
