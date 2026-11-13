@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-13T00:06+02:00",
+ "stand": "2026-11-13T23:50+02:00",
  "quelle": "wa-mediengruppe.de (Tabellendienst der WA Mediengruppe)",
  "markiert": [
   "Rhynern",
@@ -698,14 +698,14 @@
   {
    "liga": "Oberliga Westfalen",
    "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/oberliga_westfalen.html",
-   "zeitraum": "13. November 2026 bis 15. November 2026",
+   "zeitraum": "13. November 2026",
    "spiele": [
     [
      "TuS Hiltrup",
      "DSC Arminia Bielefeld II",
-     null,
-     null,
-     "offen"
+     0,
+     3,
+     "gespielt"
     ],
     [
      "SpVgg Vreden",
@@ -765,21 +765,21 @@
      29
     ],
     [
-     "2. SC RW Maaslingen SC RW Maaslingen 13 8 1 4 26 :17 9 25",
+     "2. DSC Arminia Bielefeld II DSC Arminia Bielefeld II 14 8 3 3 28 :18 10 27",
+     14,
+     10,
+     27
+    ],
+    [
+     "3. SC RW Maaslingen SC RW Maaslingen 13 8 1 4 26 :17 9 25",
      13,
      9,
      25
     ],
     [
-     "3. FC Eintracht Rheine FC Eintracht Rheine 13 7 3 3 29 :19 10 24",
+     "4. FC Eintracht Rheine FC Eintracht Rheine 13 7 3 3 29 :19 10 24",
      13,
      10,
-     24
-    ],
-    [
-     "4. DSC Arminia Bielefeld II DSC Arminia Bielefeld II 13 7 3 3 25 :18 7 24",
-     13,
-     7,
      24
     ],
     [
@@ -831,9 +831,9 @@
      17
     ],
     [
-     "13. TuS Hiltrup TuS Hiltrup 13 5 1 7 15 :23 -8 16",
-     13,
-     -8,
+     "13. TuS Hiltrup TuS Hiltrup 14 5 1 8 15 :26 -11 16",
+     14,
+     -11,
      16
     ],
     [
@@ -1044,13 +1044,6 @@
      "offen"
     ],
     [
-     "SV Burgsteinfurt",
-     "SV Borussia Emsdetten",
-     null,
-     null,
-     "offen"
-    ],
-    [
      "VfL Senden",
      "TSV Raesfeld",
      null,
@@ -1081,6 +1074,13 @@
     [
      "SV Rot-Weiß Deuten",
      "Werner SC",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "SV Burgsteinfurt",
+     "SV Borussia Emsdetten",
      null,
      null,
      "offen"
@@ -1202,22 +1202,8 @@
   {
    "liga": "Bezirksliga Staffel 7",
    "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/bezirksliga_st__7_westfalen.html",
-   "zeitraum": "11. November 2026",
+   "zeitraum": "15. November 2026",
    "spiele": [
-    [
-     "SuS Bad Westernkotten II",
-     "BV Bad Sassendorf",
-     1,
-     0,
-     "gespielt"
-    ],
-    [
-     "SV Herbern",
-     "SV Hilbeck",
-     null,
-     null,
-     "offen"
-    ],
     [
      "RW Westönnen",
      "TuS SG Oestinghausen",
@@ -1242,6 +1228,13 @@
     [
      "BV Bad Sassendorf",
      "Spielverein Westfalia Soest II",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "SV Herbern",
+     "SV Hilbeck",
      null,
      null,
      "offen"
@@ -1381,13 +1374,6 @@
      "offen"
     ],
     [
-     "Südener SV Hamm",
-     "Türk. SC Hamm",
-     null,
-     null,
-     "offen"
-    ],
-    [
      "VfL Mark",
      "SuS Rünthe 08",
      null,
@@ -1432,100 +1418,100 @@
    ],
    "tabelle": [
     [
-     "1. SV Westfalia Rhynern II SV Westfalia Rhynern II 13 10 2 1 72 :16 56 32",
-     13,
-     56,
-     32
+     "1. SV Westfalia Rhynern II SV Westfalia Rhynern II 12 9 2 1 67 :15 52 29",
+     12,
+     52,
+     29
     ],
     [
-     "2. Hammer SportClub Hammer SportClub 13 10 1 2 57 :20 37 31",
-     13,
-     37,
-     31
-    ],
-    [
-     "3. Türk. SC Hamm Türk. SC Hamm 13 9 2 2 46 :26 20 29",
+     "2. Türk. SC Hamm Türk. SC Hamm 13 9 2 2 46 :26 20 29",
      13,
      20,
      29
     ],
     [
-     "4. Eintracht Werne Eintracht Werne 13 8 2 3 59 :32 27 26",
-     13,
+     "3. Hammer SportClub Hammer SportClub 12 9 1 2 47 :20 27 28",
+     12,
      27,
-     26
+     28
     ],
     [
-     "5. VfL Mark VfL Mark 13 8 2 3 37 :19 18 26",
-     13,
-     18,
-     26
-    ],
-    [
-     "6. SVE Heessen II SVE Heessen II 13 6 5 2 37 :21 16 23",
-     13,
-     16,
+     "4. Eintracht Werne Eintracht Werne 12 7 2 3 53 :30 23 23",
+     12,
+     23,
      23
     ],
     [
-     "7. Gurbet Spor Bergkamen Gurbet Spor Bergkamen 13 6 2 5 49 :30 19 20",
-     13,
-     19,
+     "5. VfL Mark VfL Mark 12 7 2 3 34 :19 15 23",
+     12,
+     15,
+     23
+    ],
+    [
+     "6. SVE Heessen II SVE Heessen II 12 5 5 2 31 :21 10 20",
+     12,
+     10,
      20
     ],
     [
-     "8. TIU Rünthe TIU Rünthe 13 5 5 3 40 :35 5 20",
-     13,
-     5,
-     20
+     "7. Gurbet Spor Bergkamen Gurbet Spor Bergkamen 12 5 2 5 38 :29 9 17",
+     12,
+     9,
+     17
     ],
     [
-     "9. TuS Wiescherhöfen II TuS Wiescherhöfen II 13 6 0 7 31 :42 -11 18",
-     13,
-     -11,
-     18
+     "8. TIU Rünthe TIU Rünthe 12 4 5 3 34 :34 0 17",
+     12,
+     0,
+     17
     ],
     [
-     "10. TuS G. Lohauserholz-Daberg II TuS G. Lohauserholz-Daberg II 12 5 1 6 34 :33 1 16",
+     "9. TuS G. Lohauserholz-Daberg II TuS G. Lohauserholz-Daberg II 12 5 1 6 34 :33 1 16",
      12,
      1,
      16
     ],
     [
-     "11. SC Pelkum SC Pelkum 13 5 0 8 27 :51 -24 15",
-     13,
-     -24,
+     "10. TuS Wiescherhöfen II TuS Wiescherhöfen II 12 5 0 7 28 :41 -13 15",
+     12,
+     -13,
      15
     ],
     [
-     "12. SG Bockum-Hövel II SG Bockum-Hövel II 13 4 2 7 34 :33 1 14",
-     13,
-     1,
-     14
-    ],
-    [
-     "13. SuS Rünthe 08 SuS Rünthe 08 13 4 1 8 35 :45 -10 13",
+     "11. SuS Rünthe 08 SuS Rünthe 08 13 4 1 8 35 :45 -10 13",
      13,
      -10,
      13
     ],
     [
-     "14. Hammer SpVg II Hammer SpVg II 13 1 2 10 23 :53 -30 5",
-     13,
-     -30,
-     5
+     "12. SC Pelkum SC Pelkum 12 4 0 8 22 :51 -29 12",
+     12,
+     -29,
+     12
     ],
     [
-     "15. TSV Hamm-Heessen TSV Hamm-Heessen 13 1 1 11 16 :83 -67 4",
-     13,
-     -67,
+     "13. SG Bockum-Hövel II SG Bockum-Hövel II 12 3 2 7 31 :33 -2 11",
+     12,
+     -2,
+     11
+    ],
+    [
+     "14. TSV Hamm-Heessen TSV Hamm-Heessen 12 1 1 10 15 :79 -64 4",
+     12,
+     -64,
      4
     ],
     [
-     "16. Südener SV Hamm Südener SV Hamm 12 1 0 11 10 :68 -58 3",
+     "15. Hammer SpVg II Hammer SpVg II 12 0 2 10 14 :53 -39 2",
      12,
-     -58,
-     3
+     -39,
+     2
+    ],
+    [
+     "16. Südener SV Hamm (z.g.) Südener SV Hamm 0 0 0 0 0 :0 0 0",
+     0,
+     0,
+     0
     ]
    ],
    "fehler": null
