@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-15T22:52+02:00",
+ "stand": "2026-11-17T02:01+02:00",
  "quelle": "wa-mediengruppe.de (Tabellendienst der WA Mediengruppe)",
  "markiert": [
   "Rhynern",
@@ -754,62 +754,13 @@
   {
    "liga": "Oberliga Westfalen",
    "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/oberliga_westfalen.html",
-   "zeitraum": "13. November 2026",
+   "zeitraum": "21. November 2026",
    "spiele": [
     [
-     "TuS Hiltrup",
-     "DSC Arminia Bielefeld II",
+     "FC Eintracht Rheine",
+     "1. FC Gievenbeck",
+     2,
      0,
-     3,
-     "gespielt"
-    ],
-    [
-     "SpVgg Vreden",
-     "SC Preußen Münster II",
-     2,
-     2,
-     "gespielt"
-    ],
-    [
-     "SV Lippstadt",
-     "DJK TuS Hordel",
-     1,
-     1,
-     "gespielt"
-    ],
-    [
-     "SpVgg Horsthausen",
-     "SC Westfalia Kinderhaus",
-     1,
-     3,
-     "gespielt"
-    ],
-    [
-     "SV Schermbeck 1912",
-     "TuS Ennepetal",
-     0,
-     1,
-     "gespielt"
-    ],
-    [
-     "TSG Sprockhövel",
-     "SpVgg Erkenschwick",
-     1,
-     0,
-     "gespielt"
-    ],
-    [
-     "SC Verl II",
-     "SC RW Maaslingen",
-     1,
-     2,
-     "gespielt"
-    ],
-    [
-     "ASC 09 Dortmund",
-     "Victoria Clarholz",
-     2,
-     2,
      "gespielt"
     ]
    ],
@@ -928,61 +879,19 @@
   {
    "liga": "Westfalenliga Staffel 1",
    "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/westfalenliga_1.html",
-   "zeitraum": "15. November 2026",
+   "zeitraum": "20. November 2026 bis 21. November 2026",
    "spiele": [
     [
-     "VfL Theesen",
-     "SuS Bad Westernkotten",
-     2,
-     2,
-     "gespielt"
-    ],
-    [
-     "FSC Rheda",
-     "SC Herford",
-     3,
-     2,
-     "gespielt"
-    ],
-    [
-     "FC Kaunitz",
      "SC Peckeloh",
-     0,
-     5,
-     "gespielt"
-    ],
-    [
-     "FC Nordkirchen",
-     "SuS Neuenkirchen",
-     2,
-     2,
-     "gespielt"
-    ],
-    [
-     "Grün-Weiß Nottuln",
-     "SV Mesum",
-     4,
-     3,
-     "gespielt"
-    ],
-    [
-     "Rot Weiss Ahlen",
-     "Lüner SV",
-     3,
-     1,
-     "gespielt"
-    ],
-    [
      "SV Rödinghausen II",
-     "SV Eintracht Ahaus",
-     1,
-     2,
-     "gespielt"
+     null,
+     null,
+     "offen"
     ],
     [
-     "FC RW Kirchlengern",
-     "SF Ostinghausen",
-     5,
+     "SC Herford",
+     "VfL Theesen",
+     2,
      4,
      "gespielt"
     ]
@@ -1090,62 +999,20 @@
   {
    "liga": "Landesliga Staffel 4",
    "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/landesliga_4_westfalen.html",
-   "zeitraum": "15. November 2026",
+   "zeitraum": "19. November 2026 bis 21. November 2026",
    "spiele": [
     [
      "SpVg Emsdetten 05",
-     "SuS Stadtlohn",
-     2,
-     1,
-     "gespielt"
-    ],
-    [
-     "VfL Senden",
-     "TSV Raesfeld",
-     5,
-     1,
-     "gespielt"
-    ],
-    [
-     "ASK Ahlen",
-     "SVE Heessen",
-     1,
-     3,
-     "gespielt"
-    ],
-    [
-     "SV SW Lembeck",
-     "SC Münster 08",
-     1,
-     3,
-     "gespielt"
-    ],
-    [
      "SV Rot-Weiß Deuten",
-     "Werner SC",
-     3,
-     1,
-     "gespielt"
+     null,
+     null,
+     "offen"
     ],
     [
+     "SVE Heessen",
      "SV Burgsteinfurt",
-     "SV Borussia Emsdetten",
      3,
-     2,
-     "gespielt"
-    ],
-    [
-     "SV Dorsten-Hardt",
-     "Hammer SpVg",
-     5,
-     1,
-     "gespielt"
-    ],
-    [
-     "Ibbenbürener Spvg.",
-     "SC Altenrheine",
-     3,
-     2,
+     4,
      "gespielt"
     ]
    ],
@@ -1181,9 +1048,9 @@
      25
     ],
     [
-     "6. SV Burgsteinfurt SV Burgsteinfurt 13 7 3 3 30 :21 9 24",
+     "6. SV Burgsteinfurt SV Burgsteinfurt 13 7 3 3 32 :21 11 24",
      13,
-     9,
+     11,
      24
     ],
     [
@@ -1199,9 +1066,9 @@
      19
     ],
     [
-     "9. SV Borussia Emsdetten SV Borussia Emsdetten 14 5 3 6 26 :23 3 18",
+     "9. SV Borussia Emsdetten SV Borussia Emsdetten 14 5 3 6 26 :25 1 18",
      14,
-     3,
+     1,
      18
     ],
     [
@@ -1258,62 +1125,13 @@
   {
    "liga": "Bezirksliga Staffel 7",
    "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/bezirksliga_st__7_westfalen.html",
-   "zeitraum": "15. November 2026",
+   "zeitraum": "20. November 2026",
    "spiele": [
     [
-     "RW Westönnen",
-     "TuS SG Oestinghausen",
-     5,
-     1,
-     "gespielt"
-    ],
-    [
-     "TUS Freckenhorst",
-     "SpVg Beckum",
-     3,
-     0,
-     "gespielt"
-    ],
-    [
-     "SG Sendenhorst",
-     "SuS Bad Westernkotten II",
-     2,
-     0,
-     "gespielt"
-    ],
-    [
-     "BV Bad Sassendorf",
-     "Spielverein Westfalia Soest II",
-     5,
-     2,
-     "gespielt"
-    ],
-    [
-     "SV Herbern",
-     "SV Hilbeck",
-     3,
-     2,
-     "gespielt"
-    ],
-    [
-     "SpVgg Oelde",
-     "TuS Viktoria Rietberg",
-     2,
-     2,
-     "gespielt"
-    ],
-    [
-     "SC Roland 1962",
-     "Warendorfer SU",
-     3,
-     2,
-     "gespielt"
-    ],
-    [
-     "DJK Vorwärts Ahlen",
      "TuS 46/68 Uentrop",
-     5,
-     2,
+     "TuS Viktoria Rietberg",
+     0,
+     4,
      "gespielt"
     ]
    ],
@@ -1420,55 +1238,55 @@
   {
    "liga": "Kreisliga A1 Unna-Hamm",
    "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-kreisligen-kreisliga_a/kreisliga_a1_unna_hamm.html",
-   "zeitraum": "15. November 2026",
+   "zeitraum": "27. November 2026 bis 29. November 2026",
    "spiele": [
     [
-     "SG Bockum-Hövel II",
      "SV Westfalia Rhynern II",
-     0,
-     4,
-     "gespielt"
-    ],
-    [
-     "VfL Mark",
-     "SuS Rünthe 08",
-     5,
-     1,
-     "gespielt"
-    ],
-    [
-     "TIU Rünthe",
-     "Eintracht Werne",
-     1,
-     3,
-     "gespielt"
-    ],
-    [
      "Hammer SportClub",
-     "SVE Heessen II",
-     3,
-     1,
-     "gespielt"
+     null,
+     null,
+     "offen"
     ],
     [
-     "Hammer SpVg II",
      "TuS G. Lohauserholz-Daberg II",
-     2,
-     3,
-     "gespielt"
-    ],
-    [
-     "Gurbet Spor Bergkamen",
-     "TSV Hamm-Heessen",
-     7,
-     3,
-     "gespielt"
-    ],
-    [
      "TuS Wiescherhöfen II",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "SVE Heessen II",
+     "Gurbet Spor Bergkamen",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "Türk. SC Hamm",
+     "Hammer SpVg II",
+     null,
+     null,
+     "offen"
+    ],
+    [
      "SC Pelkum",
-     1,
-     1,
+     "SG Bockum-Hövel II",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "TSV Hamm-Heessen",
+     "TIU Rünthe",
+     null,
+     null,
+     "offen"
+    ],
+    [
+     "Eintracht Werne",
+     "VfL Mark",
+     6,
+     2,
      "gespielt"
     ]
    ],
