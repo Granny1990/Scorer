@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-19T00:52+02:00",
+ "stand": "2026-11-20T00:56+02:00",
  "quelle": "wa-mediengruppe.de (Tabellendienst der WA Mediengruppe)",
  "markiert": [
   "Rhynern",
@@ -999,14 +999,14 @@
   {
    "liga": "Landesliga Staffel 4",
    "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/landesliga_4_westfalen.html",
-   "zeitraum": "19. November 2026 bis 21. November 2026",
+   "zeitraum": "19. November 2026",
    "spiele": [
     [
      "SpVg Emsdetten 05",
      "SV Rot-Weiß Deuten",
-     null,
-     null,
-     "offen"
+     1,
+     1,
+     "gespielt"
     ],
     [
      "SVE Heessen",
@@ -1018,10 +1018,10 @@
    ],
    "tabelle": [
     [
-     "1. SV Rot-Weiß Deuten SV Rot-Weiß Deuten 13 11 1 1 35 :13 22 34",
-     13,
+     "1. SV Rot-Weiß Deuten SV Rot-Weiß Deuten 14 11 2 1 36 :14 22 35",
+     14,
      22,
-     34
+     35
     ],
     [
      "2. SV Dorsten-Hardt SV Dorsten-Hardt 13 10 0 3 37 :19 18 30",
@@ -1030,15 +1030,15 @@
      30
     ],
     [
-     "3. SVE Heessen SVE Heessen 13 7 4 2 28 :13 15 25",
-     13,
+     "3. SpVg Emsdetten 05 SpVg Emsdetten 05 15 7 5 3 33 :19 14 26",
      15,
-     25
+     14,
+     26
     ],
     [
-     "4. SpVg Emsdetten 05 SpVg Emsdetten 05 14 7 4 3 32 :18 14 25",
-     14,
-     14,
+     "4. SVE Heessen SVE Heessen 13 7 4 2 28 :13 15 25",
+     13,
+     15,
      25
     ],
     [
