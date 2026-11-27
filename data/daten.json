@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-27T02:21+02:00",
+ "stand": "2026-11-28T01:55+02:00",
  "quelle": "wa-mediengruppe.de (Tabellendienst der WA Mediengruppe)",
  "markiert": [
   "Rhynern",
@@ -11,14 +11,14 @@
   {
    "liga": "Bundesliga",
    "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/bundesliga.html",
-   "zeitraum": "27. November 2026 bis 28. November 2026",
+   "zeitraum": "27. November 2026",
    "spiele": [
     [
      "SV Werder Bremen",
      "Bor. Mönchengladbach",
-     null,
-     null,
-     "offen"
+     3,
+     3,
+     "gespielt"
     ],
     [
      "1. FSV Mainz 05",
@@ -109,10 +109,10 @@
      19
     ],
     [
-     "6. SV Werder Bremen SV Werder Bremen 10 5 3 2 21 :15 6 18",
-     10,
+     "6. SV Werder Bremen SV Werder Bremen 11 5 4 2 24 :18 6 19",
+     11,
      6,
-     18
+     19
     ],
     [
      "7. Eintracht Frankfurt Eintracht Frankfurt 10 4 3 3 16 :20 -4 15",
@@ -181,10 +181,10 @@
      7
     ],
     [
-     "18. Bor. Mönchengladbach Bor. Mönchengladbach 10 1 1 8 12 :26 -14 4",
-     10,
+     "18. Bor. Mönchengladbach Bor. Mönchengladbach 11 1 2 8 15 :29 -14 5",
+     11,
      -14,
-     4
+     5
     ]
    ],
    "fehler": null
@@ -197,16 +197,16 @@
     [
      "1. FC Heidenheim",
      "1. FC Nürnberg",
-     null,
-     null,
-     "offen"
+     3,
+     1,
+     "gespielt"
     ],
     [
      "VfL Bochum",
      "SV Darmstadt 98",
-     null,
-     null,
-     "offen"
+     2,
+     0,
+     "gespielt"
     ],
     [
      "Hertha BSC Berlin",
@@ -266,9 +266,9 @@
      34
     ],
     [
-     "2. 1. FC Nürnberg 1. FC Nürnberg 12 7 3 2 27 :15 12 24",
-     12,
-     12,
+     "2. 1. FC Nürnberg 1. FC Nürnberg 13 7 3 3 28 :18 10 24",
+     13,
+     10,
      24
     ],
     [
@@ -290,39 +290,39 @@
      22
     ],
     [
-     "6. Arminia Bielefeld Arminia Bielefeld 12 5 2 5 19 :18 1 17",
+     "6. 1. FC Heidenheim 1. FC Heidenheim 13 5 4 4 23 :24 -1 19",
+     13,
+     -1,
+     19
+    ],
+    [
+     "7. Arminia Bielefeld Arminia Bielefeld 12 5 2 5 19 :18 1 17",
      12,
      1,
      17
     ],
     [
-     "7. 1. FC Heidenheim 1. FC Heidenheim 12 4 4 4 20 :23 -3 16",
-     12,
-     -3,
-     16
+     "8. VfL Bochum VfL Bochum 13 5 2 6 13 :15 -2 17",
+     13,
+     -2,
+     17
     ],
     [
-     "8. FC St. Pauli FC St. Pauli 12 3 6 3 15 :16 -1 15",
+     "9. FC St. Pauli FC St. Pauli 12 3 6 3 15 :16 -1 15",
      12,
      -1,
      15
     ],
     [
-     "9. SV Hannover 96 SV Hannover 96 12 4 3 5 14 :19 -5 15",
+     "10. SV Hannover 96 SV Hannover 96 12 4 3 5 14 :19 -5 15",
      12,
      -5,
      15
     ],
     [
-     "10. Eintr. Braunschweig Eintr. Braunschweig 12 4 2 6 18 :19 -1 14",
+     "11. Eintr. Braunschweig Eintr. Braunschweig 12 4 2 6 18 :19 -1 14",
      12,
      -1,
-     14
-    ],
-    [
-     "11. VfL Bochum VfL Bochum 12 4 2 6 11 :15 -4 14",
-     12,
-     -4,
      14
     ],
     [
@@ -350,9 +350,9 @@
      12
     ],
     [
-     "16. SV Darmstadt 98 SV Darmstadt 98 12 3 3 6 12 :22 -10 12",
-     12,
-     -10,
+     "16. SV Darmstadt 98 SV Darmstadt 98 13 3 3 7 12 :24 -12 12",
+     13,
+     -12,
      12
     ],
     [
@@ -373,14 +373,14 @@
   {
    "liga": "3. Liga",
    "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/3__liga.html",
-   "zeitraum": "27. November 2026 bis 28. November 2026",
+   "zeitraum": "27. November 2026",
    "spiele": [
     [
      "Hansa Rostock",
      "TSV Havelse",
-     null,
-     null,
-     "offen"
+     2,
+     0,
+     "gespielt"
     ],
     [
      "Würzburger Kickers",
@@ -484,39 +484,39 @@
      22
     ],
     [
-     "7. SV Wehen Wiesbaden SV Wehen Wiesbaden 14 6 3 5 27 :19 8 21",
+     "7. Hansa Rostock Hansa Rostock 15 6 4 5 24 :24 0 22",
+     15,
+     0,
+     22
+    ],
+    [
+     "8. SV Wehen Wiesbaden SV Wehen Wiesbaden 14 6 3 5 27 :19 8 21",
      14,
      8,
      21
     ],
     [
-     "8. VfB Stuttgart II VfB Stuttgart II 14 6 3 5 27 :23 4 21",
+     "9. VfB Stuttgart II VfB Stuttgart II 14 6 3 5 27 :23 4 21",
      14,
      4,
      21
     ],
     [
-     "9. FC Ingolstadt 04 FC Ingolstadt 04 14 6 3 5 19 :24 -5 21",
+     "10. FC Ingolstadt 04 FC Ingolstadt 04 14 6 3 5 19 :24 -5 21",
      14,
      -5,
      21
     ],
     [
-     "10. Waldhof Mannheim Waldhof Mannheim 14 6 1 7 23 :23 0 19",
+     "11. Waldhof Mannheim Waldhof Mannheim 14 6 1 7 23 :23 0 19",
      14,
      0,
      19
     ],
     [
-     "11. Fortuna Düsseldorf Fortuna Düsseldorf 14 5 4 5 17 :18 -1 19",
+     "12. Fortuna Düsseldorf Fortuna Düsseldorf 14 5 4 5 17 :18 -1 19",
      14,
      -1,
-     19
-    ],
-    [
-     "12. Hansa Rostock Hansa Rostock 14 5 4 5 22 :24 -2 19",
-     14,
-     -2,
      19
     ],
     [
@@ -562,9 +562,9 @@
      12
     ],
     [
-     "20. TSV Havelse TSV Havelse 14 2 4 8 18 :35 -17 10",
-     14,
-     -17,
+     "20. TSV Havelse TSV Havelse 15 2 4 9 18 :37 -19 10",
+     15,
+     -19,
      10
     ]
    ],
@@ -601,14 +601,14 @@
      "SV Bergisch Gladbach 09",
      null,
      null,
-     "offen"
+     "abgesagt"
     ],
     [
      "SC Wiedenbrück",
      "1. FC Köln II",
      null,
      null,
-     "offen"
+     "abgesagt"
     ],
     [
      "Bor. Dortmund II",
@@ -622,14 +622,14 @@
      "VfL Sportfreunde Lotte",
      null,
      null,
-     "offen"
+     "abgesagt"
     ],
     [
      "SV Rödinghausen",
      "Bor. Mönchengladbach II",
      null,
      null,
-     "offen"
+     "abgesagt"
     ],
     [
      "SC Paderborn II",
@@ -771,13 +771,6 @@
      "offen"
     ],
     [
-     "1. FC Gievenbeck",
-     "SV Schermbeck 1912",
-     null,
-     null,
-     "offen"
-    ],
-    [
      "SC RW Maaslingen",
      "DJK TuS Hordel",
      null,
@@ -789,7 +782,7 @@
      "ASC 09 Dortmund",
      null,
      null,
-     "offen"
+     "abgesagt"
     ],
     [
      "SC Preußen Münster II",
@@ -803,6 +796,13 @@
      "FC Eintracht Rheine",
      null,
      null,
+     "abgesagt"
+    ],
+    [
+     "1. FC Gievenbeck",
+     "SV Schermbeck 1912",
+     null,
+     null,
      "offen"
     ],
     [
@@ -810,7 +810,7 @@
      "SV Lippstadt",
      null,
      null,
-     "offen"
+     "abgesagt"
     ],
     [
      "SC Verl II",
@@ -949,14 +949,14 @@
      "SV Rödinghausen II",
      null,
      null,
-     "offen"
+     "abgesagt"
     ],
     [
      "SuS Neuenkirchen",
      "FSC Rheda",
      null,
      null,
-     "offen"
+     "abgesagt"
     ],
     [
      "SC Herford",
@@ -977,14 +977,14 @@
      "FC RW Kirchlengern",
      null,
      null,
-     "offen"
+     "abgesagt"
     ],
     [
      "Lüner SV",
      "Grün-Weiß Nottuln",
      null,
      null,
-     "offen"
+     "abgesagt"
     ],
     [
      "FC Nordkirchen",
@@ -1132,7 +1132,7 @@
      "SV Dorsten-Hardt",
      null,
      null,
-     "offen"
+     "abgesagt"
     ],
     [
      "SV SW Lembeck",
@@ -1144,9 +1144,9 @@
     [
      "SC Münster 08",
      "Ibbenbürener Spvg.",
-     3,
-     4,
-     "gespielt"
+     null,
+     null,
+     "abgesagt"
     ]
    ],
    "tabelle": [
@@ -1258,21 +1258,14 @@
   {
    "liga": "Bezirksliga Staffel 7",
    "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/bezirksliga_st__7_westfalen.html",
-   "zeitraum": "26. November 2026",
+   "zeitraum": "29. November 2026",
    "spiele": [
-    [
-     "Warendorfer SU",
-     "SpVgg Oelde",
-     null,
-     null,
-     "abgesagt"
-    ],
     [
      "SuS Bad Westernkotten II",
      "TUS Freckenhorst",
      null,
      null,
-     "offen"
+     "abgesagt"
     ],
     [
      "Spielverein Westfalia Soest II",
