@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-26T02:01+02:00",
+ "stand": "2026-11-27T02:21+02:00",
  "quelle": "wa-mediengruppe.de (Tabellendienst der WA Mediengruppe)",
  "markiert": [
   "Rhynern",
@@ -1097,15 +1097,8 @@
   {
    "liga": "Landesliga Staffel 4",
    "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/landesliga_4_westfalen.html",
-   "zeitraum": "27. November 2026 bis 29. November 2026",
+   "zeitraum": "29. November 2026",
    "spiele": [
-    [
-     "Hammer SpVg",
-     "VfL Senden",
-     null,
-     null,
-     "offen"
-    ],
     [
      "SC Altenrheine",
      "ASK Ahlen",
@@ -1265,14 +1258,14 @@
   {
    "liga": "Bezirksliga Staffel 7",
    "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-regionale_top_ligen/bezirksliga_st__7_westfalen.html",
-   "zeitraum": "26. November 2026 bis 29. November 2026",
+   "zeitraum": "26. November 2026",
    "spiele": [
     [
      "Warendorfer SU",
      "SpVgg Oelde",
      null,
      null,
-     "offen"
+     "abgesagt"
     ],
     [
      "SuS Bad Westernkotten II",
@@ -1427,14 +1420,14 @@
   {
    "liga": "Kreisliga A1 Unna-Hamm",
    "url": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-kreisligen-kreisliga_a/kreisliga_a1_unna_hamm.html",
-   "zeitraum": "27. November 2026 bis 29. November 2026",
+   "zeitraum": "27. November 2026",
    "spiele": [
     [
      "SV Westfalia Rhynern II",
      "Hammer SportClub",
      null,
      null,
-     "offen"
+     "abgesagt"
     ],
     [
      "TuS G. Lohauserholz-Daberg II",
